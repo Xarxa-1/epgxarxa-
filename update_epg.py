@@ -12,6 +12,7 @@ TARGET_CHANNELS = {
     "Xarxa_Canal_Reus_TV.TV",
     "Xarxa_Penedes_TV.TV",
     "Xarxa_TV_Sabadell_Valles.TV",
+    "TVE_STAR.TV",
     "Xarxa_Canal_Terres_Ebre.TV"
 }
 
