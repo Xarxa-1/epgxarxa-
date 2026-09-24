@@ -11,8 +11,8 @@ TARGET_CHANNELS = {
     "Xarxa_LleidaTV.TV",
     "Xarxa_Canal_Reus_TV.TV",
     "Xarxa_Penedes_TV.TV",
-    "Xarxa_TV_Costa_Brava.TV",
-    "BTV.TV"
+    "Xarxa_TV_Sabadell_Valles.TV",
+    "Xarxa_Canal_Terres_Ebre.TV"
 }
 
 def main():
