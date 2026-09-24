@@ -13,6 +13,9 @@ TARGET_CHANNELS = {
     "Xarxa_Penedes_TV.TV",
     "Xarxa_TV_Sabadell_Valles.TV",
     "TVE_STAR.TV",
+    "RTVE_SomosCine.TV",
+    "RTVE_En_Play.TV",
+    "RTVE_Cocina.TV",
     "Xarxa_Canal_Terres_Ebre.TV"
 }
 
