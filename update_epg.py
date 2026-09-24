@@ -9,7 +9,10 @@ URL_XML_GZ = "https://www.tdtchannels.com/epg/TV.xml.gz"
 TARGET_CHANNELS = {
     "Xarxa_TAC12.TV",
     "Xarxa_LleidaTV.TV",
-    "Xarxa_Canal_Reus_TV.TV"
+    "Xarxa_Canal_Reus_TV.TV",
+    "Xarxa_Penedes_TV.TV",
+    "Xarxa_TV_Costa_Brava.TV",
+    "BTV.TV"
 }
 
 def main():
