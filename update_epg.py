@@ -1,10 +1,11 @@
-import json
+import gzip
 import urllib.request
+import xml.etree.ElementTree as ET
 
-# URL original de TDTChannels
-URL_EPG = "https://www.tdtchannels.com/epg/TV.json"
+# Font oficial de l'EPG en XML de TDTChannels
+URL_XML_GZ = "https://www.tdtchannels.com/epg/TV.xml.gz"
 
-# Canals que volem filtrar
+# IDs dels canals que volem filtrar
 TARGET_CHANNELS = {
     "Xarxa_TAC12.TV",
     "Xarxa_LleidaTV.TV",
@@ -13,27 +14,32 @@ TARGET_CHANNELS = {
 
 def main():
     req = urllib.request.Request(
-        URL_EPG, 
+        URL_XML_GZ,
         headers={'User-Agent': 'Mozilla/5.0'}
     )
-    
-    with urllib.request.urlopen(req) as response:
-        data = json.loads(response.read().decode('utf-8'))
-    
-    # Suposant que l'estructura del JSON té una llista de canals
-    filtered_channels = []
-    
-    # Si l'estructura és un directori/dict o llista
-    if isinstance(data, list):
-        filtered_channels = [c for c in data if c.get('id') in TARGET_CHANNELS or c.get('name') in TARGET_CHANNELS]
-    elif isinstance(data, dict):
-        for key, val in data.items():
-            if key in TARGET_CHANNELS:
-                filtered_channels.append(val)
 
-    # Desa el resultat filtrat
-    with open("epg.json", "w", encoding="utf-8") as f:
-        json.dump(filtered_channels, f, ensure_ascii=False, indent=2)
+    print("Descarregant i descomprimint l'EPG XML...")
+    with urllib.request.urlopen(req) as response:
+        with gzip.GzipFile(fileobj=response) as gz:
+            tree = ET.parse(gz)
+
+    root = tree.getroot()
+
+    # Eliminem els canals que no pertanyen a la nostra selecció
+    for channel in root.findall('channel'):
+        channel_id = channel.get('id')
+        if channel_id not in TARGET_CHANNELS:
+            root.remove(channel)
+
+    # Eliminem els programes de la parrilla que no siguin dels nostres canals
+    for programme in root.findall('programme'):
+        channel_id = programme.get('channel')
+        if channel_id not in TARGET_CHANNELS:
+            root.remove(programme)
+
+    # Desem el resultat en un nou fitxer XML
+    print("Guardant epg.xml filtrat...")
+    tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
     main()
