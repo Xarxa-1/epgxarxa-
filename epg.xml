@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+	<channel id="RTVE_SomosCine.TV">
+		<display-name>RTVE_SomosCine.TV</display-name>
+	</channel>
+	<channel id="RTVE_Cocina.TV">
+		<display-name>RTVE_Cocina.TV</display-name>
+	</channel>
 	<channel id="Xarxa_Canal_Terres_Ebre.TV">
 		<display-name>Xarxa_Canal_Terres_Ebre.TV</display-name>
 	</channel>
@@ -21,6 +27,845 @@
 	<channel id="TVE_STAR.TV">
 		<display-name>TVE_STAR.TV</display-name>
 	</channel>
+	<channel id="RTVE_En_Play.TV">
+		<display-name>RTVE_En_Play.TV</display-name>
+	</channel>
+	<programme channel="RTVE_SomosCine.TV" start="20260923220600 +0000" stop="20260923232600 +0000">
+		<title>¡Bienvenido, otoño! - Mariposas negras</title>
+		<desc>Inspirada por mujeres reales, propone un viaje desde África, el Caribe y Asia hacia un incierto futuro para la humanidad. El cambio climático impacta en las vidas de Tanit, Valeria y Shaila, tres mujeres de puntos muy distintos del planeta pero con algo en común: las tres lo pierden todo por el efecto del calentamiento global y se ven forzadas a migrar. Bella Agossou,David Comrie,Miranda Gas.</desc>
+		<icon src="https://img2.rtve.es/v/16548812/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260923232600 +0000" stop="20260924011100 +0000">
+		<title>¡Bienvenido, otoño! - Libertad</title>
+		<desc>Después de mucho tiempo sin coincidir en su casa de verano, la familia Vidal pasa las últimas vacaciones con la abuela Ángela, que sufre Alzheimer. Carlos Alcaide Luque,Carol Hurtado,David Selvas,Lucía Sánchez Aparicio,María Morera,María Rodríguez Soto,Mathilde Barbara Legrand,Mohamed Benaabad,Nicolle García,Nora Navas,Sergi Torrecilla,Vicky Peña.</desc>
+		<icon src="https://img2.rtve.es/v/6991804/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924011100 +0000" stop="20260924040000 +0000">
+		<title>¡Bienvenido, otoño! - La consagración de la primavera</title>
+		<desc>Laura acaba de llegar a Madrid para estudiar en la Universidad. Sola y casi sin dinero, intenta adaptarse a su vida universitaria mientras lidia con sus inseguridades. Candela Arestegui,Emma Suárez,Manuel Canchal,Telmo Irureta,Valèria Sorolla.</desc>
+		<icon src="https://img2.rtve.es/v/16360535/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924040000 +0000" stop="20260924054700 +0000">
+		<title>Día Marítimo Mundial - Mediterráneo</title>
+		<desc>Otoño 2015. Los socorristas Oscar y Gerard viajan hasta Lesbos (Grecia) impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Àlex Monner,Anna Castillo,Dani Rovira,Eduard Fernández,Melika Foroutan,Sergi López.</desc>
+		<icon src="https://img2.rtve.es/v/16163605/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924054700 +0000" stop="20260924072900 +0000">
+		<title>Día Marítimo Mundial - Lejos del mar</title>
+		<desc>Santi sale de la cárcel y visita a Emilio, un antiguo compañero de celda con una enfermedad terminal. Su reencuentro revivirá los horrores del pasado. Adrián Hernández,Camino Texeira,Eduard Fernández,Elena Anaya,Eva Almaya,Ignacio Mateos,José Luis García Pérez,Juan Motilla,Maika Barroso,Manuel Tallafé,Martxelo Rubio,Olivia Delcán,Susi Sánchez,Teresa Arbolí,Verónica Moral.</desc>
+		<icon src="https://img2.rtve.es/v/6426129/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924072900 +0000" stop="20260924090400 +0000">
+		<title>Día Marítimo Mundial - Operación Concha</title>
+		<desc>Marcos Ruiz de Aldazábal, productor de cine arruinado, traza un plan para engañar a una inversora millonaria con un doble del actor Ray Silvela. Alosian Vivancos,Arthur Rowshan,Asier Hormaza,Bárbara Goenaga,Bárbara Mori,David Landatxe,Eneko Arcas,Fernando Colomo,Jordi Mollà,Juanma Pagazaurtundua,Karra Elejalde,Laetitia Loreni,Mara Escalante,Ramón Agirre,Unax Ugalde.</desc>
+		<icon src="https://img2.rtve.es/v/5364374/vertical/?h=400" />
+		<category>CULTURE</category>
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924090400 +0000" stop="20260924104400 +0000">
+		<title>Día Marítimo Mundial - El agua</title>
+		<desc>Una vieja creencia popular afirma que algunas mujeres están predestinadas a desaparecer con cada nueva inundación porque tienen "el agua adentro". Ahmed Hraita,Alberto Olmo,Bárbara Lennie,Irene Pellicer,Joaquín Cortés,Lidia María Cánovas,Luna Pamiés,Nayara de Lucas,Nieve de Medina,Pascual Valero,Zacarias Arzine.</desc>
+		<icon src="https://img2.rtve.es/v/16130675/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924104400 +0000" stop="20260924122600 +0000">
+		<title>Día Marítimo Mundial - Lejos del mar</title>
+		<desc>Santi sale de la cárcel y visita a Emilio, un antiguo compañero de celda con una enfermedad terminal. Su reencuentro revivirá los horrores del pasado. Adrián Hernández,Camino Texeira,Eduard Fernández,Elena Anaya,Eva Almaya,Ignacio Mateos,José Luis García Pérez,Juan Motilla,Maika Barroso,Manuel Tallafé,Martxelo Rubio,Olivia Delcán,Susi Sánchez,Teresa Arbolí,Verónica Moral.</desc>
+		<icon src="https://img2.rtve.es/v/6426129/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924122600 +0000" stop="20260924140100 +0000">
+		<title>Día Marítimo Mundial - Operación Concha</title>
+		<desc>Marcos Ruiz de Aldazábal, productor de cine arruinado, traza un plan para engañar a una inversora millonaria con un doble del actor Ray Silvela. Alosian Vivancos,Arthur Rowshan,Asier Hormaza,Bárbara Goenaga,Bárbara Mori,David Landatxe,Eneko Arcas,Fernando Colomo,Jordi Mollà,Juanma Pagazaurtundua,Karra Elejalde,Laetitia Loreni,Mara Escalante,Ramón Agirre,Unax Ugalde.</desc>
+		<icon src="https://img2.rtve.es/v/5364374/vertical/?h=400" />
+		<category>CULTURE</category>
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924140100 +0000" stop="20260924154200 +0000">
+		<title>Día Marítimo Mundial - El agua</title>
+		<desc>Una vieja creencia popular afirma que algunas mujeres están predestinadas a desaparecer con cada nueva inundación porque tienen "el agua adentro". Ahmed Hraita,Alberto Olmo,Bárbara Lennie,Irene Pellicer,Joaquín Cortés,Lidia María Cánovas,Luna Pamiés,Nayara de Lucas,Nieve de Medina,Pascual Valero,Zacarias Arzine.</desc>
+		<icon src="https://img2.rtve.es/v/16130675/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924154200 +0000" stop="20260924172900 +0000">
+		<title>Día Marítimo Mundial - Mediterráneo</title>
+		<desc>Otoño 2015. Los socorristas Oscar y Gerard viajan hasta Lesbos (Grecia) impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Àlex Monner,Anna Castillo,Dani Rovira,Eduard Fernández,Melika Foroutan,Sergi López.</desc>
+		<icon src="https://img2.rtve.es/v/16163605/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924172900 +0000" stop="20260924190400 +0000">
+		<title>Día Marítimo Mundial - Operación Concha</title>
+		<desc>Marcos Ruiz de Aldazábal, productor de cine arruinado, traza un plan para engañar a una inversora millonaria con un doble del actor Ray Silvela. Alosian Vivancos,Arthur Rowshan,Asier Hormaza,Bárbara Goenaga,Bárbara Mori,David Landatxe,Eneko Arcas,Fernando Colomo,Jordi Mollà,Juanma Pagazaurtundua,Karra Elejalde,Laetitia Loreni,Mara Escalante,Ramón Agirre,Unax Ugalde.</desc>
+		<icon src="https://img2.rtve.es/v/5364374/vertical/?h=400" />
+		<category>CULTURE</category>
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924190400 +0000" stop="20260924204500 +0000">
+		<title>Día Marítimo Mundial - El agua</title>
+		<desc>Una vieja creencia popular afirma que algunas mujeres están predestinadas a desaparecer con cada nueva inundación porque tienen "el agua adentro". Ahmed Hraita,Alberto Olmo,Bárbara Lennie,Irene Pellicer,Joaquín Cortés,Lidia María Cánovas,Luna Pamiés,Nayara de Lucas,Nieve de Medina,Pascual Valero,Zacarias Arzine.</desc>
+		<icon src="https://img2.rtve.es/v/16130675/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924204500 +0000" stop="20260924223200 +0000">
+		<title>Día Marítimo Mundial - Mediterráneo</title>
+		<desc>Otoño 2015. Los socorristas Oscar y Gerard viajan hasta Lesbos (Grecia) impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Àlex Monner,Anna Castillo,Dani Rovira,Eduard Fernández,Melika Foroutan,Sergi López.</desc>
+		<icon src="https://img2.rtve.es/v/16163605/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260924223200 +0000" stop="20260925001400 +0000">
+		<title>Día Marítimo Mundial - Lejos del mar</title>
+		<desc>Santi sale de la cárcel y visita a Emilio, un antiguo compañero de celda con una enfermedad terminal. Su reencuentro revivirá los horrores del pasado. Adrián Hernández,Camino Texeira,Eduard Fernández,Elena Anaya,Eva Almaya,Ignacio Mateos,José Luis García Pérez,Juan Motilla,Maika Barroso,Manuel Tallafé,Martxelo Rubio,Olivia Delcán,Susi Sánchez,Teresa Arbolí,Verónica Moral.</desc>
+		<icon src="https://img2.rtve.es/v/6426129/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925001400 +0000" stop="20260925015500 +0000">
+		<title>Día Marítimo Mundial - El agua</title>
+		<desc>Una vieja creencia popular afirma que algunas mujeres están predestinadas a desaparecer con cada nueva inundación porque tienen "el agua adentro". Ahmed Hraita,Alberto Olmo,Bárbara Lennie,Irene Pellicer,Joaquín Cortés,Lidia María Cánovas,Luna Pamiés,Nayara de Lucas,Nieve de Medina,Pascual Valero,Zacarias Arzine.</desc>
+		<icon src="https://img2.rtve.es/v/16130675/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925015500 +0000" stop="20260925040000 +0000">
+		<title>Día Marítimo Mundial - Mediterráneo</title>
+		<desc>Otoño 2015. Los socorristas Oscar y Gerard viajan hasta Lesbos (Grecia) impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Àlex Monner,Anna Castillo,Dani Rovira,Eduard Fernández,Melika Foroutan,Sergi López.</desc>
+		<icon src="https://img2.rtve.es/v/16163605/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925040000 +0000" stop="20260925053700 +0000">
+		<title>Thriller - El correo</title>
+		<desc>Año 2002. España entra en el euro. Es tiempo de oportunidades, para los listos. Como Iván, un chaval de Vallecas al que su barrio se le queda pequeño. Antonio Buil,Arón Piper,José Manuel Poga,Laura Sépul,Luis Tosar,Luis Zahera,Manuel Gancedo,María Pedraza,Nourdin Batán.</desc>
+		<icon src="https://img2.rtve.es/v/16715784/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925053700 +0000" stop="20260925071400 +0000">
+		<title>Thriller - Entre la vida y la muerte</title>
+		<desc>Leo Castañeda, un conductor de metro, presencia una noche el suicidio de Hugo, su hijo, del que llevaba más de dos años sin saber nada. Antonio de la Torre,Marine Vacth,Olivier Gourmet.</desc>
+		<icon src="https://img2.rtve.es/v/16235524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925071400 +0000" stop="20260925084200 +0000">
+		<title>Thriller - Fatum</title>
+		<desc>Sergio, que tiene grandes problemas con el juego, recibe un soplo y acude a una casa de apuestas. Estando allí con sus hijos, el recinto es atracado. Pablo, francotirador del GEO, debe asistir la operación. El destino unirá a Sergio y Pablo, donde un disparo cambiará sus vidas para siempre. Álex García,Arón Piper,Elena Anaya,Luis Tosar,Luisa Mayol,Pepa Gracia.</desc>
+		<icon src="https://img2.rtve.es/v/16540791/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925084200 +0000" stop="20260925101500 +0000">
+		<title>Thriller - Espíritu sagrado</title>
+		<desc>La muerte de Julio golpeó fuerte a la asociación de aficionados a la ufología que dirigió. Tenían un proyecto secreto para cambiar el destino humano. Ainara Paredes,Antonio Vicente Boix,David Terol,Gorka Tszyu,Joanna Valverde,Llum Arqués,Nacho Fernández,Rocío Ibáñez,Vicente Piqueres.</desc>
+		<icon src="https://img2.rtve.es/v/16134806/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925101500 +0000" stop="20260925115300 +0000">
+		<title>Thriller - Entre la vida y la muerte</title>
+		<desc>Leo Castañeda, un conductor de metro, presencia una noche el suicidio de Hugo, su hijo, del que llevaba más de dos años sin saber nada. Antonio de la Torre,Marine Vacth,Olivier Gourmet.</desc>
+		<icon src="https://img2.rtve.es/v/16235524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925115300 +0000" stop="20260925132000 +0000">
+		<title>Thriller - Fatum</title>
+		<desc>Sergio, que tiene grandes problemas con el juego, recibe un soplo y acude a una casa de apuestas. Estando allí con sus hijos, el recinto es atracado. Pablo, francotirador del GEO, debe asistir la operación. El destino unirá a Sergio y Pablo, donde un disparo cambiará sus vidas para siempre. Álex García,Arón Piper,Elena Anaya,Luis Tosar,Luisa Mayol,Pepa Gracia.</desc>
+		<icon src="https://img2.rtve.es/v/16540791/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925132000 +0000" stop="20260925145400 +0000">
+		<title>Thriller - Espíritu sagrado</title>
+		<desc>La muerte de Julio golpeó fuerte a la asociación de aficionados a la ufología que dirigió. Tenían un proyecto secreto para cambiar el destino humano. Ainara Paredes,Antonio Vicente Boix,David Terol,Gorka Tszyu,Joanna Valverde,Llum Arqués,Nacho Fernández,Rocío Ibáñez,Vicente Piqueres.</desc>
+		<icon src="https://img2.rtve.es/v/16134806/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925145400 +0000" stop="20260925163100 +0000">
+		<title>Thriller - El correo</title>
+		<desc>Año 2002. España entra en el euro. Es tiempo de oportunidades, para los listos. Como Iván, un chaval de Vallecas al que su barrio se le queda pequeño. Antonio Buil,Arón Piper,José Manuel Poga,Laura Sépul,Luis Tosar,Luis Zahera,Manuel Gancedo,María Pedraza,Nourdin Batán.</desc>
+		<icon src="https://img2.rtve.es/v/16715784/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925163100 +0000" stop="20260925175900 +0000">
+		<title>Thriller - Fatum</title>
+		<desc>Sergio, que tiene grandes problemas con el juego, recibe un soplo y acude a una casa de apuestas. Estando allí con sus hijos, el recinto es atracado. Pablo, francotirador del GEO, debe asistir la operación. El destino unirá a Sergio y Pablo, donde un disparo cambiará sus vidas para siempre. Álex García,Arón Piper,Elena Anaya,Luis Tosar,Luisa Mayol,Pepa Gracia.</desc>
+		<icon src="https://img2.rtve.es/v/16540791/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925175900 +0000" stop="20260925193300 +0000">
+		<title>Thriller - Espíritu sagrado</title>
+		<desc>La muerte de Julio golpeó fuerte a la asociación de aficionados a la ufología que dirigió. Tenían un proyecto secreto para cambiar el destino humano. Ainara Paredes,Antonio Vicente Boix,David Terol,Gorka Tszyu,Joanna Valverde,Llum Arqués,Nacho Fernández,Rocío Ibáñez,Vicente Piqueres.</desc>
+		<icon src="https://img2.rtve.es/v/16134806/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925193300 +0000" stop="20260925211000 +0000">
+		<title>Thriller - El correo</title>
+		<desc>Año 2002. España entra en el euro. Es tiempo de oportunidades, para los listos. Como Iván, un chaval de Vallecas al que su barrio se le queda pequeño. Antonio Buil,Arón Piper,José Manuel Poga,Laura Sépul,Luis Tosar,Luis Zahera,Manuel Gancedo,María Pedraza,Nourdin Batán.</desc>
+		<icon src="https://img2.rtve.es/v/16715784/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925211000 +0000" stop="20260925224700 +0000">
+		<title>Thriller - Entre la vida y la muerte</title>
+		<desc>Leo Castañeda, un conductor de metro, presencia una noche el suicidio de Hugo, su hijo, del que llevaba más de dos años sin saber nada. Antonio de la Torre,Marine Vacth,Olivier Gourmet.</desc>
+		<icon src="https://img2.rtve.es/v/16235524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260925224700 +0000" stop="20260926002100 +0000">
+		<title>Thriller - Espíritu sagrado</title>
+		<desc>La muerte de Julio golpeó fuerte a la asociación de aficionados a la ufología que dirigió. Tenían un proyecto secreto para cambiar el destino humano. Ainara Paredes,Antonio Vicente Boix,David Terol,Gorka Tszyu,Joanna Valverde,Llum Arqués,Nacho Fernández,Rocío Ibáñez,Vicente Piqueres.</desc>
+		<icon src="https://img2.rtve.es/v/16134806/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926002100 +0000" stop="20260926015900 +0000">
+		<title>Thriller - El correo</title>
+		<desc>Año 2002. España entra en el euro. Es tiempo de oportunidades, para los listos. Como Iván, un chaval de Vallecas al que su barrio se le queda pequeño. Antonio Buil,Arón Piper,José Manuel Poga,Laura Sépul,Luis Tosar,Luis Zahera,Manuel Gancedo,María Pedraza,Nourdin Batán.</desc>
+		<icon src="https://img2.rtve.es/v/16715784/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926015900 +0000" stop="20260926040000 +0000">
+		<title>Thriller - Entre la vida y la muerte</title>
+		<desc>Leo Castañeda, un conductor de metro, presencia una noche el suicidio de Hugo, su hijo, del que llevaba más de dos años sin saber nada. Antonio de la Torre,Marine Vacth,Olivier Gourmet.</desc>
+		<icon src="https://img2.rtve.es/v/16235524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926040000 +0000" stop="20260926054600 +0000">
+		<title>Bélicas - Dragón Rapide</title>
+		<desc>España, julio de 1936. Por primera vez una película muestra la vida íntima de Franco, quien gobernaría España durante cuarenta años. Carlos Lucena,Eduardo McGregor,Francisco Casares,José Luis Pellicena,Juan Diego,Laura García Lorca,Manuel de Blas,Miguel Molina,Pedro Díez del Corral,Ramón Durán,Santiago Ramos,Saturno Cerra,Victoria Peña.</desc>
+		<icon src="https://img2.rtve.es/v/6516727/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926054600 +0000" stop="20260926072700 +0000">
+		<title>Bélicas - Un día perfecto</title>
+		<desc>Un grupo de trabajadores humanitarios trata de sacar un cadáver de un pozo en una zona de conficto armado, tirado dentro para corromper el agua. Benicio del Toro,Eldar Residovic,Fedja Stukan,Mélanie Thierry,Olga Kurylenko,Sergi López,Tim Robbins.</desc>
+		<icon src="https://img2.rtve.es/v/5550674/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926072700 +0000" stop="20260926090400 +0000">
+		<title>Bélicas - Caleta palace. Revolución y tragedia en la ciudad</title>
+		<desc>El asedio de Málaga atrajo la atención mundial: tras fracasar el golpe de estado, la llamada “ciudad del paraíso” se había convertido en “Málaga la roja”.</desc>
+		<icon src="https://img2.rtve.es/v/16438391/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926090400 +0000" stop="20260926110700 +0000">
+		<title>Bélicas - Sinjar</title>
+		<desc>Narra las historias de tres mujeres separadas de sus seres más queridos. ¿Hasta dónde están dispuestas a llegar para recuperarlos? Álex Casanovas,Eman Eido,Franz Harram,Guim Puig,Halima Ilter,Hennan Bereket Qasso,Luisa Gavasa,Mouafaq Rushdie,Nora Navas.</desc>
+		<icon src="https://img2.rtve.es/v/16087312/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926110700 +0000" stop="20260926124800 +0000">
+		<title>Bélicas - Un día perfecto</title>
+		<desc>Un grupo de trabajadores humanitarios trata de sacar un cadáver de un pozo en una zona de conficto armado, tirado dentro para corromper el agua. Benicio del Toro,Eldar Residovic,Fedja Stukan,Mélanie Thierry,Olga Kurylenko,Sergi López,Tim Robbins.</desc>
+		<icon src="https://img2.rtve.es/v/5550674/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926124800 +0000" stop="20260926142500 +0000">
+		<title>Bélicas - Caleta palace. Revolución y tragedia en la ciudad</title>
+		<desc>El asedio de Málaga atrajo la atención mundial: tras fracasar el golpe de estado, la llamada “ciudad del paraíso” se había convertido en “Málaga la roja”.</desc>
+		<icon src="https://img2.rtve.es/v/16438391/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926142500 +0000" stop="20260926162800 +0000">
+		<title>Bélicas - Sinjar</title>
+		<desc>Narra las historias de tres mujeres separadas de sus seres más queridos. ¿Hasta dónde están dispuestas a llegar para recuperarlos? Álex Casanovas,Eman Eido,Franz Harram,Guim Puig,Halima Ilter,Hennan Bereket Qasso,Luisa Gavasa,Mouafaq Rushdie,Nora Navas.</desc>
+		<icon src="https://img2.rtve.es/v/16087312/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926162800 +0000" stop="20260926181400 +0000">
+		<title>Bélicas - Dragón Rapide</title>
+		<desc>España, julio de 1936. Por primera vez una película muestra la vida íntima de Franco, quien gobernaría España durante cuarenta años. Carlos Lucena,Eduardo McGregor,Francisco Casares,José Luis Pellicena,Juan Diego,Laura García Lorca,Manuel de Blas,Miguel Molina,Pedro Díez del Corral,Ramón Durán,Santiago Ramos,Saturno Cerra,Victoria Peña.</desc>
+		<icon src="https://img2.rtve.es/v/6516727/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926181400 +0000" stop="20260926195200 +0000">
+		<title>Bélicas - Caleta palace. Revolución y tragedia en la ciudad</title>
+		<desc>El asedio de Málaga atrajo la atención mundial: tras fracasar el golpe de estado, la llamada “ciudad del paraíso” se había convertido en “Málaga la roja”.</desc>
+		<icon src="https://img2.rtve.es/v/16438391/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926195200 +0000" stop="20260926215400 +0000">
+		<title>Bélicas - Sinjar</title>
+		<desc>Narra las historias de tres mujeres separadas de sus seres más queridos. ¿Hasta dónde están dispuestas a llegar para recuperarlos? Álex Casanovas,Eman Eido,Franz Harram,Guim Puig,Halima Ilter,Hennan Bereket Qasso,Luisa Gavasa,Mouafaq Rushdie,Nora Navas.</desc>
+		<icon src="https://img2.rtve.es/v/16087312/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_SomosCine.TV" start="20260926215400 +0000" stop="20260926234100 +0000">
+		<title>Bélicas - Dragón Rapide</title>
+		<desc>España, julio de 1936. Por primera vez una película muestra la vida íntima de Franco, quien gobernaría España durante cuarenta años. Carlos Lucena,Eduardo McGregor,Francisco Casares,José Luis Pellicena,Juan Diego,Laura García Lorca,Manuel de Blas,Miguel Molina,Pedro Díez del Corral,Ramón Durán,Santiago Ramos,Saturno Cerra,Victoria Peña.</desc>
+		<icon src="https://img2.rtve.es/v/6516727/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260923221700 +0000" stop="20260923230700 +0000">
+		<title>Cocina al punto con Peña y Tamara - Arroz largo vaporizado</title>
+		<desc>En el programa de hoy, Peña se desplaza hasta Extremadura para descubrir su producción de arroz. El Guadiana ha permitido que "Vegas del Guadiana" sea una zona fértil regada por sus aguas en su camino hacia el Atlántico. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5669921/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260923230700 +0000" stop="20260923233800 +0000">
+		<title>Torres en la cocina - De rojo</title>
+		<desc>Una receta inspirada en un famoso cóctel, Pasta Bloody Mary, y una rojiza receta con producto e ingrediente rojos e intensos: crema de azafrán.</desc>
+		<icon src="https://img2.rtve.es/v/3805325/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260923233800 +0000" stop="20260924000900 +0000">
+		<title>Torres en la cocina - Especial croquetas</title>
+		<desc>Hoy Javier y Sergio nos enseñan distintas formas de cocinar croquetas, a cual más deliciosa. Les acompaña Ana Vega.</desc>
+		<icon src="https://img2.rtve.es/v/4424522/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924000900 +0000" stop="20260924004000 +0000">
+		<title>Torres en la cocina - Huevos rotos y raviolis de piña</title>
+		<desc>Hoy acompañan a los Torres el grupo Tricicle. Juntos preparan unos huevos rotos con patata y setas y unos exquisitos raviolis de piña con helado.</desc>
+		<icon src="https://img2.rtve.es/v/4434700/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924004000 +0000" stop="20260924011100 +0000">
+		<title>Torres en la cocina - Jurel guisado y gofre de cerezas</title>
+		<desc>Hoy nos vamos al Sur con un jurel con salsa roux. De postre Javier y Sergio elaboran la masa de gofre y la cocerán en la tradicional gofrera para llevarla, a continuación, a un molde que será horneado y en el que habrá una de las frutas estrellas de esta temporada, la cereza.</desc>
+		<icon src="https://img2.rtve.es/v/4663372/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924011100 +0000" stop="20260924014200 +0000">
+		<title>Torres en la cocina - Patatas como no las habías visto</title>
+		<desc>Hoy tres platos basados en la versatilidad de la patata: vieiras con cremoso de patatas y queso; sopa de patatas y tortillita de patatas y camarones.</desc>
+		<icon src="https://img2.rtve.es/v/3821179/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924014200 +0000" stop="20260924021300 +0000">
+		<title>Torres en la cocina - Celebración</title>
+		<desc>Javi y Sergio hoy nos regalan dos recetas para ocasiones especiales. Langostinos al estilo cóctel, con matices orientales y rodaballo al vermut.</desc>
+		<icon src="https://img2.rtve.es/v/3932694/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924021300 +0000" stop="20260924024200 +0000">
+		<title>A pedir de boca - Queso manchego artesano</title>
+		<desc>Documental sobre el queso manchego, orígenes, la elaboración tradicional artesana e industrial, el proceso de maduración del queso, los requisitos para ser considerado con denominación de origen por el Consejo Regulador, características de las ovejas cuya leche se utiliza para la elaboración del queso manchego, la importancia de la alimentación de las mismas y recetas de cocina para la degustación del queso manchego. Se intercalan declaraciones de Juan moreno Manzanaro (maestro quesero) sobre la elaboración artesanal del queso, Jesús García (ganadero de la cooperativa de Tomelloso) sobre el tipo de ovejas que se cría en la mancha y la alimentación que favorece la producción de leche, Andrés de la Plata (maestro quesero) sobre los secretos de una correcta maduración del queso y Adolfo Muñoz (restaurador de Adolfo en Toledo) sobre cómo partir el queso para la degustación y recetas con queso manchego. Histórico de emisiones: -04/03/1998 -23/01/2010 -15/09/2011.</desc>
+		<icon src="https://img2.rtve.es/v/675557/vertical/?h=400" />
+		<category>CULTURE</category>
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924024200 +0000" stop="20260924031300 +0000">
+		<title>A pedir de boca - Frutas tropicales. Canarias</title>
+		<desc>Frutas tropicales de Canarias.</desc>
+		<icon src="https://img2.rtve.es/v/675883/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924031300 +0000" stop="20260924040000 +0000">
+		<title>A pedir de boca - Aceite de oliva DO. Baena</title>
+		<desc>Aceite de oliva virgen de Baena.</desc>
+		<icon src="https://img2.rtve.es/v/681524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924040000 +0000" stop="20260924042800 +0000">
+		<title>El señor de los bosques - La Parzonería (Guipúzcoa)</title>
+		<desc>El veterano actor Fele Martínez acompaña a Vicente Sevilla a La Parzonería.</desc>
+		<icon src="https://img2.rtve.es/v/6436575/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924042800 +0000" stop="20260924045700 +0000">
+		<title>El señor de los bosques - La cascada de Mea</title>
+		<desc>En la provincia de Burgos, a 90 kilómetros de su capital, se encuentra el bosque que envuelve la cascada de Mea. En este asombroso lugar de cortados de piedra caliza, caminan juntos el actor sevillano Félix Gómez y Vicente Sevilla.</desc>
+		<icon src="https://img2.rtve.es/v/6452879/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924045700 +0000" stop="20260924052500 +0000">
+		<title>El señor de los bosques - Cuevas del Águila</title>
+		<desc>Las dehesas abundan en la Sierra del Águila en la provincia de Ávila. El escritor gallego Manuel Rivas se adentra en esta zona del Valle del Tiétar para conocer el particular hábitat de la dehesa.</desc>
+		<icon src="https://img2.rtve.es/v/6476136/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924052500 +0000" stop="20260924055400 +0000">
+		<title>El señor de los bosques - Hoyo de Pinares</title>
+		<desc>Elena Sánchez, la presentadora de Historia de nuestro Cine de La 2 regresa a Ávila, su tierra de la infancia.</desc>
+		<icon src="https://img2.rtve.es/v/6433778/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924055400 +0000" stop="20260924062300 +0000">
+		<title>El señor de los bosques- Hoyo de Pinares, Cristina Medina</title>
+		<desc>Entre las montañas de las sierras de Guadarrama y de Gredos, se encuentra Hoyo de Pinares, un gran pinar de la provincia que el pasado año sufrió un grave incendio.</desc>
+		<icon src="https://img2.rtve.es/v/6774614/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924062300 +0000" stop="20260924065100 +0000">
+		<title>El señor de los bosques - Bosque de Matarredonda</title>
+		<desc>Bosque de Matarredonda (Guadalajara). En la vertiente oriental de la Sierra de Ayllón en Guadalajara se encuentra el bosque de Matarredonda. Destaca por el aspecto de las hayas en otoño.</desc>
+		<icon src="https://img2.rtve.es/v/6773763/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924065100 +0000" stop="20260924074200 +0000">
+		<title>Cocina al punto con Peña y Tamara - El caviar de Riofrío</title>
+		<desc>En el programa de hoy, Peña viaja hasta Riofrío en Granada para descubrir los secretos del caviar de esturión de producción nacional. Además, el chef y Tamara cocinan Blini con gambas al ajillo, caviar y carne de esturión y Cucharita de crème fraîche y caviar. Invitada: Marina Castaño. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5644186/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924074200 +0000" stop="20260924083100 +0000">
+		<title>Cocina al punto con Peña y Tamara - El pollo Pita Pinta</title>
+		<desc>Hoy, el chef Peña se desplaza hasta Oviedo para conocer de cerca la única raza de pollo autóctona del Principado de Asturias: el pita pinta. Además, Peña y Tamara cocinan Pitu a la sal con salsa dulce de piparras y Cachopo de salmón. Invitado: el cantante Carlos Right. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5647860/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924083100 +0000" stop="20260924092000 +0000">
+		<title>Cocina al punto con Peña y Tamara - Arroz a la zamorana</title>
+		<desc>En el programa de hoy recibimos la visita de la periodista Alejandra Andrade que vendrá a cocinar junto a Peña y Tamara Pez espada al curry. También cocinan otras dos recetas: Arroz a la zamorana y Chips de Verduras. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5674800/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924092000 +0000" stop="20260924101200 +0000">
+		<title>Cocina al punto - Vieiras con lombarda y manzana</title>
+		<desc>En esta nueva entrega de Cocina al Punto, Peña y Tamara reciben la visita de la actriz y presentadora Rocío Muñoz para cocinar una paella tradicional. Además, el chef nos deleita con otras dos riquísimas recetas: Vieiras con col lombarda y manzana y Sandwich de queso con membrillo. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5680014/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924101200 +0000" stop="20260924110300 +0000">
+		<title>Cocina al punto con Peña y Tamara - Dorada de Despesque</title>
+		<desc>Javier Peña visita hoy la localidad de Chiclana en Cádiz para conocer de cerca la pesca de la dorada de estero. Tamara y el chef cocinan Dorada en adobo y Gazpacho de espárragos blancos de lata. Invitado: el futbolista Joan Capdevila. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5650877/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924110300 +0000" stop="20260924113400 +0000">
+		<title>Torres en la cocina Espárragos, guisantes,erizos, cochinillo</title>
+		<desc>Espárragos, guisantes y erizos y terrina de cochinillo. Hoy Javier y Sergio nos sorprenden con unos erizos de mar sobre una base de espárragos y guisantes muy especial y una deliciosa terrina de cochinillo que sorprenderá.</desc>
+		<icon src="https://img2.rtve.es/v/4383232/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924113400 +0000" stop="20260924120500 +0000">
+		<title>Torres en la cocina - Crema de soja y salmonete con pan</title>
+		<desc>Hoy los Torres nos sorprenden con una crema a base de brotes de soja y un sabroso salmonete sobre una base de pan.</desc>
+		<icon src="https://img2.rtve.es/v/4428233/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924120500 +0000" stop="20260924123600 +0000">
+		<title>Torres en la cocina - Faisán con frutos secos y bica</title>
+		<desc>Hoy último programa de Torres en la cocina, Javier y Sergio despiden con un faisán, cocinado con frutas y frutos secos. Para el postre se han inspirado en el Carnaval de Galicia para cocinar una bica, bizcocho muy esponjoso sin levadura.</desc>
+		<icon src="https://img2.rtve.es/v/5024886/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924123600 +0000" stop="20260924130700 +0000">
+		<title>Torres en la cocina - Manzanas dulces y saladas</title>
+		<desc>Hoy los gemelos Torres elaboran una caballa con crema de manzana y, a continuación, uno de los postres más deliciosos elaborado con esta magnífica fruta, un Afplestrudle.</desc>
+		<icon src="https://img2.rtve.es/v/3488786/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924130700 +0000" stop="20260924133800 +0000">
+		<title>Torres en la cocina - Vacaciones en Italia</title>
+		<desc>Hoy dos platos de la cocina italiana: un ossobuco a la milanesa, pero con varios toques y un postre que ya es universal, un delicioso tiramisú.</desc>
+		<icon src="https://img2.rtve.es/v/3633690/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924133800 +0000" stop="20260924140900 +0000">
+		<title>Torres en la cocina - Pasta de albahaca y rabo de cerdo</title>
+		<desc>Pasta de albahaca y terrina de rabo de cerdo. Hoy unos raviolis rellenos de queso, verdes por la masa con albahaca. El segundo es un rabo de cerdo presentado en terrina.</desc>
+		<icon src="https://img2.rtve.es/v/4535947/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924140900 +0000" stop="20260924143900 +0000">
+		<title>A pedir de boca - Quesos de Cantabria, de Liébana y Picón</title>
+		<desc>Durante el recorrido por el Valle de Liébana los artesanos nos muestran cómo elaboran los quesucos. En Bejes y Tresviso visitamos las Cuevas donde maduran los quesos denominación de origen Picón.</desc>
+		<icon src="https://img2.rtve.es/v/1192437/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924143900 +0000" stop="20260924150900 +0000">
+		<title>A pedir de boca - Setas de otoño</title>
+		<desc>En los bosques y praderas de Asturias encontramos diversas variedades de setas. En los montes y pinares de León recogemos las muy preciadas setas de otoño que degustaremos en un conocido restaurante de la ciudad.</desc>
+		<icon src="https://img2.rtve.es/v/1191545/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924150900 +0000" stop="20260924153600 +0000">
+		<title>A pedir de boca - Mazapán de Toledo</title>
+		<desc>Documental sobre el mazapán, dulce típico de Toledo, su origen, elaboración de sus diferentes variedades: figuritas de mazapán, delicias de mazapán, caprichos de mazapán, anguilas de mazapán y barras de mazapán, los secretos del mazapán y la degustación del mismo. Histórico de emisiones: -22/04/1998 -14/02/2010 -06/09/2011.</desc>
+		<icon src="https://img2.rtve.es/v/693202/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924153600 +0000" stop="20260924160400 +0000">
+		<title>A pedir de boca - Jamón DO. Dehesa de Extremadura</title>
+		<desc>Jamón de la Dehesa de Extremadura.</desc>
+		<icon src="https://img2.rtve.es/v/700536/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924160400 +0000" stop="20260924163200 +0000">
+		<title>El señor de los bosques - La Parzonería (Guipúzcoa)</title>
+		<desc>El veterano actor Fele Martínez acompaña a Vicente Sevilla a La Parzonería.</desc>
+		<icon src="https://img2.rtve.es/v/6436575/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924163200 +0000" stop="20260924170100 +0000">
+		<title>El señor de los bosques - La cascada de Mea</title>
+		<desc>En la provincia de Burgos, a 90 kilómetros de su capital, se encuentra el bosque que envuelve la cascada de Mea. En este asombroso lugar de cortados de piedra caliza, caminan juntos el actor sevillano Félix Gómez y Vicente Sevilla.</desc>
+		<icon src="https://img2.rtve.es/v/6452879/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924170100 +0000" stop="20260924172900 +0000">
+		<title>El señor de los bosques - Cuevas del Águila</title>
+		<desc>Las dehesas abundan en la Sierra del Águila en la provincia de Ávila. El escritor gallego Manuel Rivas se adentra en esta zona del Valle del Tiétar para conocer el particular hábitat de la dehesa.</desc>
+		<icon src="https://img2.rtve.es/v/6476136/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924172900 +0000" stop="20260924175800 +0000">
+		<title>El señor de los bosques - Hoyo de Pinares</title>
+		<desc>Elena Sánchez, la presentadora de Historia de nuestro Cine de La 2 regresa a Ávila, su tierra de la infancia.</desc>
+		<icon src="https://img2.rtve.es/v/6433778/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924175800 +0000" stop="20260924182700 +0000">
+		<title>El señor de los bosques- Hoyo de Pinares, Cristina Medina</title>
+		<desc>Entre las montañas de las sierras de Guadarrama y de Gredos, se encuentra Hoyo de Pinares, un gran pinar de la provincia que el pasado año sufrió un grave incendio.</desc>
+		<icon src="https://img2.rtve.es/v/6774614/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924182700 +0000" stop="20260924185500 +0000">
+		<title>El señor de los bosques - Bosque de Matarredonda</title>
+		<desc>Bosque de Matarredonda (Guadalajara). En la vertiente oriental de la Sierra de Ayllón en Guadalajara se encuentra el bosque de Matarredonda. Destaca por el aspecto de las hayas en otoño.</desc>
+		<icon src="https://img2.rtve.es/v/6773763/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924185500 +0000" stop="20260924194600 +0000">
+		<title>Cocina al punto con Peña y Tamara - El caviar de Riofrío</title>
+		<desc>En el programa de hoy, Peña viaja hasta Riofrío en Granada para descubrir los secretos del caviar de esturión de producción nacional. Además, el chef y Tamara cocinan Blini con gambas al ajillo, caviar y carne de esturión y Cucharita de crème fraîche y caviar. Invitada: Marina Castaño. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5644186/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924194600 +0000" stop="20260924203500 +0000">
+		<title>Cocina al punto con Peña y Tamara - El pollo Pita Pinta</title>
+		<desc>Hoy, el chef Peña se desplaza hasta Oviedo para conocer de cerca la única raza de pollo autóctona del Principado de Asturias: el pita pinta. Además, Peña y Tamara cocinan Pitu a la sal con salsa dulce de piparras y Cachopo de salmón. Invitado: el cantante Carlos Right. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5647860/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924203500 +0000" stop="20260924212500 +0000">
+		<title>Cocina al punto con Peña y Tamara - Arroz a la zamorana</title>
+		<desc>En el programa de hoy recibimos la visita de la periodista Alejandra Andrade que vendrá a cocinar junto a Peña y Tamara Pez espada al curry. También cocinan otras dos recetas: Arroz a la zamorana y Chips de Verduras. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5674800/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924212500 +0000" stop="20260924221700 +0000">
+		<title>Cocina al punto - Vieiras con lombarda y manzana</title>
+		<desc>En esta nueva entrega de Cocina al Punto, Peña y Tamara reciben la visita de la actriz y presentadora Rocío Muñoz para cocinar una paella tradicional. Además, el chef nos deleita con otras dos riquísimas recetas: Vieiras con col lombarda y manzana y Sandwich de queso con membrillo. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5680014/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924221700 +0000" stop="20260924230800 +0000">
+		<title>Cocina al punto con Peña y Tamara - Dorada de Despesque</title>
+		<desc>Javier Peña visita hoy la localidad de Chiclana en Cádiz para conocer de cerca la pesca de la dorada de estero. Tamara y el chef cocinan Dorada en adobo y Gazpacho de espárragos blancos de lata. Invitado: el futbolista Joan Capdevila. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5650877/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924230800 +0000" stop="20260924233900 +0000">
+		<title>Torres en cocina Espárragos, guisantes, erizos, cochinillo</title>
+		<desc>Espárragos, guisantes y erizos y terrina de cochinillo. Hoy Javier y Sergio nos sorprenden con unos erizos de mar sobre una base de espárragos y guisantes muy especial y una deliciosa terrina de cochinillo que sorprenderá.</desc>
+		<icon src="https://img2.rtve.es/v/4383232/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260924233900 +0000" stop="20260925001000 +0000">
+		<title>Torres en la cocina - Crema de soja y salmonete con pan</title>
+		<desc>Hoy los Torres nos sorprenden con una crema a base de brotes de soja y un sabroso salmonete sobre una base de pan.</desc>
+		<icon src="https://img2.rtve.es/v/4428233/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925001000 +0000" stop="20260925004100 +0000">
+		<title>Torres en la cocina - Faisán con frutos secos y bica</title>
+		<desc>Hoy último programa de Torres en la cocina, Javier y Sergio despiden con un faisán, cocinado con frutas y frutos secos. Para el postre se han inspirado en el Carnaval de Galicia para cocinar una bica, bizcocho muy esponjoso sin levadura.</desc>
+		<icon src="https://img2.rtve.es/v/5024886/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925004100 +0000" stop="20260925011200 +0000">
+		<title>Torres en la cocina - Manzanas dulces y saladas</title>
+		<desc>Hoy los gemelos Torres elaboran una caballa con crema de manzana y, a continuación, uno de los postres más deliciosos elaborado con esta magnífica fruta, un Afplestrudle.</desc>
+		<icon src="https://img2.rtve.es/v/3488786/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925011200 +0000" stop="20260925014300 +0000">
+		<title>Torres en la cocina - Vacaciones en Italia</title>
+		<desc>Hoy dos platos de la cocina italiana: un ossobuco a la milanesa, pero con varios toques y un postre que ya es universal, un delicioso tiramisú.</desc>
+		<icon src="https://img2.rtve.es/v/3633690/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925014300 +0000" stop="20260925021400 +0000">
+		<title>Torres en la cocina - Pasta de albahaca y rabo de cerdo</title>
+		<desc>Pasta de albahaca y terrina de rabo de cerdo. Hoy unos raviolis rellenos de queso, verdes por la masa con albahaca. El segundo es un rabo de cerdo presentado en terrina.</desc>
+		<icon src="https://img2.rtve.es/v/4535947/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925021400 +0000" stop="20260925024300 +0000">
+		<title>A pedir de boca - Quesos de Cantabria, de Liébana y Picón</title>
+		<desc>Durante el recorrido por el Valle de Liébana los artesanos nos muestran cómo elaboran los quesucos. En Bejes y Tresviso visitamos las Cuevas donde maduran los quesos denominación de origen Picón.</desc>
+		<icon src="https://img2.rtve.es/v/1192437/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925024300 +0000" stop="20260925031300 +0000">
+		<title>A pedir de boca - Setas de otoño</title>
+		<desc>En los bosques y praderas de Asturias encontramos diversas variedades de setas. En los montes y pinares de León recogemos las muy preciadas setas de otoño que degustaremos en un conocido restaurante de la ciudad.</desc>
+		<icon src="https://img2.rtve.es/v/1191545/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925031300 +0000" stop="20260925040000 +0000">
+		<title>A pedir de boca - Mazapán de Toledo</title>
+		<desc>Documental sobre el mazapán, dulce típico de Toledo, su origen, elaboración de sus diferentes variedades: figuritas de mazapán, delicias de mazapán, caprichos de mazapán, anguilas de mazapán y barras de mazapán, los secretos del mazapán y la degustación del mismo. Histórico de emisiones: -22/04/1998 -14/02/2010 -06/09/2011.</desc>
+		<icon src="https://img2.rtve.es/v/693202/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925040000 +0000" stop="20260925042800 +0000">
+		<title>El señor de los bosques - Bosque del camino de Espata</title>
+		<desc>En el Pirineo Aragonés, dentro del Parque natural de los Valles Occidentales, se encuentra el bosque que acompaña al barranco de Espata.</desc>
+		<icon src="https://img2.rtve.es/v/6778537/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925042800 +0000" stop="20260925045700 +0000">
+		<title>El señor de los bosques - Alto de Malagón</title>
+		<desc>A más de 1500 metros de altitud, entre las provincias de Ávila y Madrid, se eleva el Puerto de Malagón. Un paraje de la Sierra de Guadarrama.</desc>
+		<icon src="https://img2.rtve.es/v/6780524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925045700 +0000" stop="20260925052500 +0000">
+		<title>El señor de los bosques - Gorbea</title>
+		<desc>En la vertiente vizcaína del Parque Natural de Gorbea se encuentra el río Zubizabala, que llena de vida un increíble bosque de hayas.</desc>
+		<icon src="https://img2.rtve.es/v/6787380/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925052500 +0000" stop="20260925055400 +0000">
+		<title>El señor de los bosques - Castañar de Casillas</title>
+		<desc>En la parte oriental de la Sierra de Gredos (Ávila), se encuentra el Castañar de Casillas. Un bosque de castaños que se convierte en paraíso en otoño.</desc>
+		<icon src="https://img2.rtve.es/v/6799093/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925055400 +0000" stop="20260925062300 +0000">
+		<title>El señor de los bosques - Igatz</title>
+		<desc>A los pies del Monte Gorbea en la provincia de Álava se despliega el bosque de Igatz que sigue la ribera del río Bayas.</desc>
+		<icon src="https://img2.rtve.es/v/6804612/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925062300 +0000" stop="20260925065200 +0000">
+		<title>El señor de los bosques - Senda del hornillo</title>
+		<desc>En la provincia de Madrid, si nos adentramos en la vertiente noroeste de la Sierra de Guadarrama, llegamos a la senda del Hornillo.</desc>
+		<icon src="https://img2.rtve.es/v/6813578/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925065200 +0000" stop="20260925074000 +0000">
+		<title>Cocina al punto con Peña y Tamara - Guisantes (Valladolid)</title>
+		<desc>Javier Peña se desplaza hoy hasta Laguna de Duero, en la provincia de Valladolid donde conocerá de cerca el cómo se cultiva el guisante. Junto a Tamara Falcó elaborará dos deliciosas recetas: Ensaladilla de guisantes en aguacate y Nube de guisantes. Invitada: la diseñadora Agatha Ruiz de la Prada. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5620261/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925074000 +0000" stop="20260925083200 +0000">
+		<title>Cocina al punto con Peña y Tamara - Gazpachos manchegos</title>
+		<desc>En el programa de hoy, recibimos la visita del humorista Joaquín Reyes, que viene a cocinar con Peña y Tamara una receta muy especial para él: Alcachofas con huevo Poché. Además, en el programa cocinamos otras dos recetas: Gazpacho manchego y Pepinillos encurtidos. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5687918/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925083200 +0000" stop="20260925092300 +0000">
+		<title>Cocina al punto con Peña y Tamara - Piparra</title>
+		<desc>Peña visita Ibarra, en Guipúzcoa. Allí conocerá de cerca el cultivo de sus famosas piparras. También Tamara y Peña nos sorprenderán con dos deliciosas recetas: Boquerones en vinagre con piparras y Albóndigas de bacalao con salsa de espinacas y rúcula. Invitada: la escritora Espido Freire. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5654736/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925092300 +0000" stop="20260925101200 +0000">
+		<title>Cocina al punto con Peña y Tamara - El tomate del Perelló</title>
+		<desc>Javier Peña viaja hasta el Perelló, en Valencia, para descubrir las características de su famoso tomate cultivado en arena de playa. También, el chef y Tamara cocinan dos recetas muy frescas: Gelatina de tomate, pepino, mejillón y azafrán y Tomate al natural con stracciatella y pesto. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5625377/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925101200 +0000" stop="20260925110300 +0000">
+		<title>Cocina al punto con Peña y Tamara - Conejo en Salmorejo</title>
+		<desc>Hoy, en Cocina al Punto, Peña y Tamara elaborarán tres deliciosas recetas: Conejo con Salmorejo, Lentejas naranjas con setas y Boquerones glaseados. Además, hoy recibirán la visita de la cantante Ana Guerra. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5706411/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925110300 +0000" stop="20260925113400 +0000">
+		<title>Torres en la cocina - Cabrito y tronco de Navidad</title>
+		<desc>Hoy Mariana trae una receta típica de Brasil por Navidad, la copa de chía y mango. Como plato principal Sergio y Javier cocinan un cabrito a la sidra y de postre un tronco de Navidad con toque Torres.</desc>
+		<icon src="https://img2.rtve.es/v/4903780/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925113400 +0000" stop="20260925120500 +0000">
+		<title>Torres en la cocina - Hojas de acelgas y merluza con limón</title>
+		<desc>Hojas de acelgas rellenas y merluza con limón. Sergio y Javier cocinarán unas hojas de acelga rellenas de carne como primer plato y una merluza con salsa de lima como segunda elaboración.</desc>
+		<icon src="https://img2.rtve.es/v/4929990/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925120500 +0000" stop="20260925123600 +0000">
+		<title>Torres en la cocina - Canelones de puerro y dorada</title>
+		<desc>Canelones de puerro y dorada a la marsellesa. Hoy Javier y Sergio preparan unos canelones de puerro rellenos con salmón y con verduras y una espectacular dorada a la marsellesa, una guarnición a base de anchoas, aceitunas, tomate, ajo y perejil.</desc>
+		<icon src="https://img2.rtve.es/v/4949323/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925123600 +0000" stop="20260925130700 +0000">
+		<title>Torres en la cocina - Cocina para invitados</title>
+		<desc>Sergio y Javier nos hacen dos sugerencias para cuando tengamos invitados a comer: una ensalada crujiente de pollo y un delicioso rape con tomate.</desc>
+		<icon src="https://img2.rtve.es/v/3634772/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925130700 +0000" stop="20260925133800 +0000">
+		<title>Torres en la cocina - Recetas del revés</title>
+		<desc>Sergio y Javier elaboran dos recetas del revés: unas salchichas que en lugar de carne llevan rape y una horchata con fresas y con su especial toque.</desc>
+		<icon src="https://img2.rtve.es/v/3654753/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925133800 +0000" stop="20260925140900 +0000">
+		<title>Torres en la cocina - Hamburguesas de cine</title>
+		<desc>Hoy Javier y Sergio nos preparan un típico plato americano, pero a lo Torres, dos hamburguesas, una de atún y calamar y otra de carne de cordero.</desc>
+		<icon src="https://img2.rtve.es/v/3927738/vertical/?h=400" />
+		<category>FILM</category>
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925140900 +0000" stop="20260925143700 +0000">
+		<title>A pedir de boca - Frutas tropicales Málaga</title>
+		<desc>Frutos tropicales de Málaga.</desc>
+		<icon src="https://img2.rtve.es/v/706987/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925143700 +0000" stop="20260925150500 +0000">
+		<title>A pedir de boca - Queso Flor Guía y Galdar y queso Herreño</title>
+		<desc>Queso Flor de Guía, Galdar, Hereño. Queso canario Flor de guía y Herreño.</desc>
+		<icon src="https://img2.rtve.es/v/718870/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925150500 +0000" stop="20260925153500 +0000">
+		<title>A pedir de boca - Vinos Rías Baixas</title>
+		<desc>Vinos Rías Baixas.</desc>
+		<icon src="https://img2.rtve.es/v/725096/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925153500 +0000" stop="20260925160400 +0000">
+		<title>A pedir de boca - Queso denominación origen Cabrales</title>
+		<desc>El queso de Cabrales.</desc>
+		<icon src="https://img2.rtve.es/v/731086/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925160400 +0000" stop="20260925163200 +0000">
+		<title>El señor de los bosques - Bosque del camino de Espata</title>
+		<desc>En el Pirineo Aragonés, dentro del Parque natural de los Valles Occidentales, se encuentra el bosque que acompaña al barranco de Espata.</desc>
+		<icon src="https://img2.rtve.es/v/6778537/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925163200 +0000" stop="20260925170100 +0000">
+		<title>El señor de los bosques - Alto de Malagón</title>
+		<desc>A más de 1500 metros de altitud, entre las provincias de Ávila y Madrid, se eleva el Puerto de Malagón. Un paraje de la Sierra de Guadarrama.</desc>
+		<icon src="https://img2.rtve.es/v/6780524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925170100 +0000" stop="20260925172900 +0000">
+		<title>El señor de los bosques - Gorbea</title>
+		<desc>En la vertiente vizcaína del Parque Natural de Gorbea se encuentra el río Zubizabala, que llena de vida un increíble bosque de hayas.</desc>
+		<icon src="https://img2.rtve.es/v/6787380/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925172900 +0000" stop="20260925175800 +0000">
+		<title>El señor de los bosques - Castañar de Casillas</title>
+		<desc>En la parte oriental de la Sierra de Gredos (Ávila), se encuentra el Castañar de Casillas. Un bosque de castaños que se convierte en paraíso en otoño.</desc>
+		<icon src="https://img2.rtve.es/v/6799093/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925175800 +0000" stop="20260925182700 +0000">
+		<title>El señor de los bosques - Igatz</title>
+		<desc>A los pies del Monte Gorbea en la provincia de Álava se despliega el bosque de Igatz que sigue la ribera del río Bayas.</desc>
+		<icon src="https://img2.rtve.es/v/6804612/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925182700 +0000" stop="20260925185600 +0000">
+		<title>El señor de los bosques - Senda del hornillo</title>
+		<desc>En la provincia de Madrid, si nos adentramos en la vertiente noroeste de la Sierra de Guadarrama, llegamos a la senda del Hornillo.</desc>
+		<icon src="https://img2.rtve.es/v/6813578/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925185600 +0000" stop="20260925194400 +0000">
+		<title>Cocina al punto con Peña y Tamara - Guisantes (Valladolid)</title>
+		<desc>Javier Peña se desplaza hoy hasta Laguna de Duero, en la provincia de Valladolid donde conocerá de cerca el cómo se cultiva el guisante. Junto a Tamara Falcó elaborará dos deliciosas recetas: Ensaladilla de guisantes en aguacate y Nube de guisantes. Invitada: la diseñadora Agatha Ruiz de la Prada. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5620261/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925194400 +0000" stop="20260925203600 +0000">
+		<title>Cocina al punto con Peña y Tamara - Gazpachos manchegos</title>
+		<desc>En el programa de hoy, recibimos la visita del humorista Joaquín Reyes, que viene a cocinar con Peña y Tamara una receta muy especial para él: Alcachofas con huevo Poché. Además, en el programa cocinamos otras dos recetas: Gazpacho manchego y Pepinillos encurtidos. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5687918/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925203600 +0000" stop="20260925212700 +0000">
+		<title>Cocina al punto con Peña y Tamara - Piparra</title>
+		<desc>Peña visita Ibarra, en Guipúzcoa. Allí conocerá de cerca el cultivo de sus famosas piparras. También Tamara y Peña nos sorprenderán con dos deliciosas recetas: Boquerones en vinagre con piparras y Albóndigas de bacalao con salsa de espinacas y rúcula. Invitada: la escritora Espido Freire. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5654736/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925212700 +0000" stop="20260925221600 +0000">
+		<title>Cocina al punto con Peña y Tamara - El tomate del Perelló</title>
+		<desc>Javier Peña viaja hasta el Perelló, en Valencia, para descubrir las características de su famoso tomate cultivado en arena de playa. También, el chef y Tamara cocinan dos recetas muy frescas: Gelatina de tomate, pepino, mejillón y azafrán y Tomate al natural con stracciatella y pesto. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5625377/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925221600 +0000" stop="20260925230700 +0000">
+		<title>Cocina al punto con Peña y Tamara - Conejo en Salmorejo</title>
+		<desc>Hoy, en Cocina al Punto, Peña y Tamara elaborarán tres deliciosas recetas: Conejo con Salmorejo, Lentejas naranjas con setas y Boquerones glaseados. Además, hoy recibirán la visita de la cantante Ana Guerra. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5706411/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925230700 +0000" stop="20260925233800 +0000">
+		<title>Torres en la cocina - Cabrito y tronco de Navidad</title>
+		<desc>Hoy Mariana trae una receta típica de Brasil por Navidad, la copa de chía y mango. Como plato principal Sergio y Javier cocinan un cabrito a la sidra y de postre un tronco de Navidad con toque Torres.</desc>
+		<icon src="https://img2.rtve.es/v/4903780/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260925233800 +0000" stop="20260926000900 +0000">
+		<title>Torres en la cocina - Hojas de acelgas y merluza con limón</title>
+		<desc>Hojas de acelgas rellenas y merluza con limón. Sergio y Javier cocinarán unas hojas de acelga rellenas de carne como primer plato y una merluza con salsa de lima como segunda elaboración.</desc>
+		<icon src="https://img2.rtve.es/v/4929990/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926000900 +0000" stop="20260926004000 +0000">
+		<title>Torres en la cocina - Canelones de puerro y dorada</title>
+		<desc>Canelones de puerro y dorada a la marsellesa. Hoy Javier y Sergio preparan unos canelones de puerro rellenos con salmón y con verduras y una espectacular dorada a la marsellesa, una guarnición a base de anchoas, aceitunas, tomate, ajo y perejil.</desc>
+		<icon src="https://img2.rtve.es/v/4949323/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926004000 +0000" stop="20260926011100 +0000">
+		<title>Torres en la cocina - Cocina para invitados</title>
+		<desc>Sergio y Javier nos hacen dos sugerencias para cuando tengamos invitados a comer: una ensalada crujiente de pollo y un delicioso rape con tomate.</desc>
+		<icon src="https://img2.rtve.es/v/3634772/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926011100 +0000" stop="20260926014200 +0000">
+		<title>Torres en la cocina - Recetas del revés</title>
+		<desc>Sergio y Javier elaboran dos recetas del revés: unas salchichas que en lugar de carne llevan rape y una horchata con fresas y con su especial toque.</desc>
+		<icon src="https://img2.rtve.es/v/3654753/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926014200 +0000" stop="20260926021300 +0000">
+		<title>Torres en la cocina - Hamburguesas de cine</title>
+		<desc>Hoy Javier y Sergio nos preparan un típico plato americano, pero a lo Torres, dos hamburguesas, una de atún y calamar y otra de carne de cordero.</desc>
+		<icon src="https://img2.rtve.es/v/3927738/vertical/?h=400" />
+		<category>FILM</category>
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926021300 +0000" stop="20260926024100 +0000">
+		<title>A pedir de boca - Frutas tropicales Málaga</title>
+		<desc>Frutos tropicales de Málaga.</desc>
+		<icon src="https://img2.rtve.es/v/706987/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926024100 +0000" stop="20260926030900 +0000">
+		<title>A pedir de boca - Queso Flor Guía y Galdar y queso Herreño</title>
+		<desc>Queso Flor de Guía, Galdar, Hereño. Queso canario Flor de guía y Herreño.</desc>
+		<icon src="https://img2.rtve.es/v/718870/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926030900 +0000" stop="20260926040000 +0000">
+		<title>A pedir de boca - Vinos Rías Baixas</title>
+		<desc>Vinos Rías Baixas.</desc>
+		<icon src="https://img2.rtve.es/v/725096/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926040000 +0000" stop="20260926042800 +0000">
+		<title>El señor de los bosques - Orbaiceta</title>
+		<desc>La Selva de Irati, en la parte oriental del pirineo navarro, es una inmensa masa forestal donde conviven hayas y abetos en más de 16. 000 hectáreas.</desc>
+		<icon src="https://img2.rtve.es/v/6819710/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926042800 +0000" stop="20260926045700 +0000">
+		<title>El señor de los bosques - Senda del Helechal</title>
+		<desc>En la vertiente oeste de la Comunidad de Madrid se levanta el Monte Abantos. Este monte esconde el bosque que envuelve los senderos del Helechal.</desc>
+		<icon src="https://img2.rtve.es/v/6829276/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926045700 +0000" stop="20260926052500 +0000">
+		<title>El señor de los bosques - Valle del río Lillas</title>
+		<desc>En el Parque Natural de la Sierra Norte de Guadalajara, se encuentra el Valle del Río Lillas. Lo visitan la actriz Bárbara Goenaga y César Palacios.</desc>
+		<icon src="https://img2.rtve.es/v/6835605/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926052500 +0000" stop="20260926055400 +0000">
+		<title>El señor de los bosques - La Dehesa de la Acebeda</title>
+		<desc>En la Sierra de Guadarrama se encuentra la cordillera de Somosierra, donde podemos encontrar paisajes formidables como La Dehesa de la Acebeda.</desc>
+		<icon src="https://img2.rtve.es/v/6839949/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926055400 +0000" stop="20260926062300 +0000">
+		<title>El señor de los bosques - Peña de Cenicientos</title>
+		<desc>En la Sierra Oeste de Madrid se encuentra un paraje formado por grandes rocas de granito. Los bosques y cerros que culminan en la Peña de Cenicientos.</desc>
+		<icon src="https://img2.rtve.es/v/6843967/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926062300 +0000" stop="20260926065100 +0000">
+		<title>El señor de los bosques - Valle de Pineta: Huesca</title>
+		<desc>En los Pirineos aragoneses se encuentra un pequeño y encantador valle conocido como el Valle de Pineta.</desc>
+		<icon src="https://img2.rtve.es/v/7050524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926065100 +0000" stop="20260926074300 +0000">
+		<title>Cocina al punto - Bacalao con sus callos y boletus</title>
+		<desc>En el programa de hoy, Peña y Tamara reciben la visita del chef Ramón Freixa que cocina sus famosos canelones de asado de tres carnes. También en Cocina al Punto, cocinan Bacalao con sus callos y boletus y Brocheta de Patata. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5699996/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926074300 +0000" stop="20260926083400 +0000">
+		<title>Cocina al punto con Peña y Tamara - Miel de Villuerca Ibores</title>
+		<desc>Hoy, el chef Javier Peña se desplaza hasta la provincia de Cáceres para conocer la producción de Miel Villuercas-Ibores. También, Tamara y Peña sorprenden al presentador Oscar Martínez con una Carré de cordero con berenjenas glaseadas y unos Merengues rellenos de higos salteados con crema de queso Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5658761/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926083400 +0000" stop="20260926092500 +0000">
+		<title>Cocina al punto con Peña y Tamara - La chufa</title>
+		<desc>En el programa de hoy, el chef Javier Peña viaja hasta Valencia. En Alboraya descubre el cultivo de la Chufa, el tubérculo más característico de la zona. Además, Tamara y Peña cocinan: Ceviche de Lubina con leche de chufa y Coquinas al vermut. Invitado: el chef Juanjo López Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5630065/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926092500 +0000" stop="20260926101400 +0000">
+		<title>Cocina al punto - Arroz negro calamares majado de perejil</title>
+		<desc>Arroz negro con calamares con majado de perejil. En el programa de hoy, Peña y Tamara cocinan un arroz negro con calamares, unas yemas inyectadas rellenas y reciben la visita de la chef Begoña Fraire, con quien hacen su receta estrella: Lomo de corzo a la extremeña. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5713189/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926101400 +0000" stop="20260926110500 +0000">
+		<title>Cocina al punto con Peña y Tamara - Sobrasada</title>
+		<desc>Hoy, el chef Javier Peña se desplaza hasta Petra, en Mallorca, para ver la elaboración de la sobrasada. Además, Tamara y Peña sorprenderán al invitado, el chef Oscar Velasco del restaurante Santceloni, con estas dos recetas: Raviolis de Albahaca rellenos de ricotta y sobrasada con salsa de tomate. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5663414/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926110500 +0000" stop="20260926113600 +0000">
+		<title>Torres en la cocina - Buey de mar. Panettone de chocolate</title>
+		<desc>Hoy Javier y Sergio preparan un buey de mar presentado de una forma muy original y además de postre navideño un panettone de chocolate delicioso.</desc>
+		<icon src="https://img2.rtve.es/v/4381516/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926113600 +0000" stop="20260926120700 +0000">
+		<title>Torres en la cocina - Coles de Bruselas y civet de jabalí</title>
+		<desc>Hoy coles de Bruselas rellenas con ajos tiernos y morcillas y con huevos de codorniz pochados. Además, un civet de jabalí contundente. Sergio y Javier también enseñan cómo marinar la carne de caza para que quede tierna y jugosa.</desc>
+		<icon src="https://img2.rtve.es/v/4467917/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926120700 +0000" stop="20260926123800 +0000">
+		<title>Torres en la cocina - Ensalada legumbres y onigiri de atún</title>
+		<desc>Ensalada de legumbres y onigiri de atún. Hoy una ensalada de legumbres con toques muy orientales. El segundo será un plato muy típico en Japón, el onigiri de atún, pero con toques para españolizarlo. Josep Arrom trae un atún gigante al plató.</desc>
+		<icon src="https://img2.rtve.es/v/4633378/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926123800 +0000" stop="20260926130900 +0000">
+		<title>Torres en la cocina - Ensalada de otoño y bizcocho melocotón</title>
+		<desc>Ensalada de otoño y bizcocho con melocotón. Hoy Javier y Sergio preparan una ensalada de otoño con setas, calabaza, membrillo… y un bizcocho con melocotones de Calanda. Nos visita David Arango para hablar de la influencia del clima en las setas.</desc>
+		<icon src="https://img2.rtve.es/v/4766104/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926130900 +0000" stop="20260926134000 +0000">
+		<title>Torres en la cocina - Crema de altramuces y ternera rellena</title>
+		<desc>Hoy Javier y Sergio presentan una receta original y económica una crema fría de altramuces y una sencilla ternera rellena de huevo, pimiento, jamón..</desc>
+		<icon src="https://img2.rtve.es/v/4443699/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926134000 +0000" stop="20260926141200 +0000">
+		<title>Torres en la cocina - Reto de arroces</title>
+		<desc>Hoy un duelo de arroces y como juez el mismísimo padre de los Torres. Sergio cocinará un arroz negro con caracolines y Javier, un delicioso arroz de lubina. Los espectadores también podrán votar en las redes.</desc>
+		<icon src="https://img2.rtve.es/v/3772924/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926141200 +0000" stop="20260926144000 +0000">
+		<title>A pedir de boca - Anchoa del Cantábrico</title>
+		<desc>Anchoa del Cantábrico.</desc>
+		<icon src="https://img2.rtve.es/v/741960/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926144000 +0000" stop="20260926150800 +0000">
+		<title>A pedir de boca - Frutas tropicales de Granada</title>
+		<desc>Un viaje agrícola y gastronómico por la provincia de Granada para descubrir la gran variedad y calidad de las frutas tropicales que se cultivan en la zona, gracias a la situación geográfica que propicia un microclima subtropical. Descubriremos también las propiedades nutritivas de estos frutos y su consumo, tanto al natural como combinados con otros alimentos. Histórico de emisiones: -21/12/2000 -18/04/2010 -26/08/2011.</desc>
+		<icon src="https://img2.rtve.es/v/748012/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926150800 +0000" stop="20260926153700 +0000">
+		<title>A pedir de boca - Alimentos de Murcia</title>
+		<desc>Un viaje por la Comunidad Autónoma de Murcia para descubrir la calidad de sus productos de la huerta, como el arroz, tomate, pimiento, melones, etc., así como su proceso industrial. Algunos restauradores ofrecen un espectáculo gastronómico basado en estos productos. Histórico de emisiones: -18/08/2000 -02/05/2010 -25/08/2011.</desc>
+		<icon src="https://img2.rtve.es/v/759733/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926153700 +0000" stop="20260926160500 +0000">
+		<title>A pedir de boca - Sobrasada y ensaimada de Mallorca</title>
+		<desc>Un viaje gastronómico por la isla de Mallorca para conocer la historia y los controles que garantizan el origen y la calidad de sus embutidos, en especial la sobrasada, y la repostería, sobre todo la típica ensaimada. Se explican procesos de elaboración, parámetros que se valoran en la cata, formas de degustación y su utilización culinaria. Histórico de emisiones: -01/09/2000 -08/11/2009 -24/08/2011.</desc>
+		<icon src="https://img2.rtve.es/v/624323/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926160500 +0000" stop="20260926163400 +0000">
+		<title>El señor de los bosques - Orbaiceta</title>
+		<desc>La Selva de Irati, en la parte oriental del pirineo navarro, es una inmensa masa forestal donde conviven hayas y abetos en más de 16. 000 hectáreas.</desc>
+		<icon src="https://img2.rtve.es/v/6819710/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926163400 +0000" stop="20260926170300 +0000">
+		<title>El señor de los bosques - Senda del Helechal</title>
+		<desc>En la vertiente oeste de la Comunidad de Madrid se levanta el Monte Abantos. Este monte esconde el bosque que envuelve los senderos del Helechal.</desc>
+		<icon src="https://img2.rtve.es/v/6829276/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926170300 +0000" stop="20260926173100 +0000">
+		<title>El señor de los bosques - Valle del río Lillas</title>
+		<desc>En el Parque Natural de la Sierra Norte de Guadalajara, se encuentra el Valle del Río Lillas. Lo visitan la actriz Bárbara Goenaga y César Palacios.</desc>
+		<icon src="https://img2.rtve.es/v/6835605/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926173100 +0000" stop="20260926180000 +0000">
+		<title>El señor de los bosques - La Dehesa de la Acebeda</title>
+		<desc>En la Sierra de Guadarrama se encuentra la cordillera de Somosierra, donde podemos encontrar paisajes formidables como La Dehesa de la Acebeda.</desc>
+		<icon src="https://img2.rtve.es/v/6839949/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926180000 +0000" stop="20260926182800 +0000">
+		<title>El señor de los bosques - Peña de Cenicientos</title>
+		<desc>En la Sierra Oeste de Madrid se encuentra un paraje formado por grandes rocas de granito. Los bosques y cerros que culminan en la Peña de Cenicientos.</desc>
+		<icon src="https://img2.rtve.es/v/6843967/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926182800 +0000" stop="20260926185700 +0000">
+		<title>El señor de los bosques - Valle de Pineta: Huesca</title>
+		<desc>En los Pirineos aragoneses se encuentra un pequeño y encantador valle conocido como el Valle de Pineta.</desc>
+		<icon src="https://img2.rtve.es/v/7050524/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926185700 +0000" stop="20260926194900 +0000">
+		<title>Cocina al punto - Bacalao con sus callos y boletus</title>
+		<desc>En el programa de hoy, Peña y Tamara reciben la visita del chef Ramón Freixa que cocina sus famosos canelones de asado de tres carnes. También en Cocina al Punto, cocinan Bacalao con sus callos y boletus y Brocheta de Patata. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5699996/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926194900 +0000" stop="20260926204000 +0000">
+		<title>Cocina al punto con Peña y Tamara - Miel de Villuerca Ibores</title>
+		<desc>Hoy, el chef Javier Peña se desplaza hasta la provincia de Cáceres para conocer la producción de Miel Villuercas-Ibores. También, Tamara y Peña sorprenden al presentador Oscar Martínez con una Carré de cordero con berenjenas glaseadas y unos Merengues rellenos de higos salteados con crema de queso Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5658761/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926204000 +0000" stop="20260926213100 +0000">
+		<title>Cocina al punto con Peña y Tamara - La chufa</title>
+		<desc>En el programa de hoy, el chef Javier Peña viaja hasta Valencia. En Alboraya descubre el cultivo de la Chufa, el tubérculo más característico de la zona. Además, Tamara y Peña cocinan: Ceviche de Lubina con leche de chufa y Coquinas al vermut. Invitado: el chef Juanjo López Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5630065/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20260926213100 +0000" stop="20260926222000 +0000">
+		<title>Cocina al punto - Arroz negro calamares majado de perejil</title>
+		<desc>Arroz negro con calamares con majado de perejil. En el programa de hoy, Peña y Tamara cocinan un arroz negro con calamares, unas yemas inyectadas rellenas y reciben la visita de la chef Begoña Fraire, con quien hacen su receta estrella: Lomo de corzo a la extremeña. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5713189/vertical/?h=400" />
+	</programme>
 	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20260924000000 +0000" stop="20260924003000 +0000">
 		<title>LA CADIRA. EL PINELL DE BRAI</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
@@ -2670,5 +3515,461 @@
 		<title>Seis Hermanas</title>
 		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
 		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260923232200 +0000" stop="20260924002100 +0000">
+		<title>Teleplanistas - Programa 2 - Entrevista con Inma ('MasterChef') y Alba Morena ('La casa de la música')</title>
+		<desc>Esta semana Teleplanistas recibe a Inma, la última expulsada de Masterchef. También abrimos las puertas de La Casa de la Música, el gran evento musical de RTVE, con la visita de Alba Morena. 'Teleplanistas' es el punto de encuentro para los amantes de la televisión que no se conforman con mirar desde el sofá.</desc>
+		<icon src="https://img.rtve.es/imagenes/teleplanistas/01788851141517.jpg" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924002100 +0000" stop="20260924011100 +0000">
+		<title>Entrevista d’Or – Episodio 2 - Mariang y Raquel Hervás</title>
+		<desc>La guionista e influencer Mariang, de "La pija y la quinqui", y la guionista y cómica Raquel Hervás, visitan el programa para dejar claro las ventajas de ser murciano. Absurdarium es un videopodcast de divulgación y entretenimiento que explora la cara B de la historia.</desc>
+		<icon src="https://img.rtve.es/imagenes/absurdarium/01772092586346.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924011100 +0000" stop="20260924014800 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 3: Los límites</title>
+		<desc>Lía ha mordido otra vez a un compañero. Samuel se reivindica como padre, mostrándole el juguetito que acaba de comprar para que Lía canalice su rabia. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924014900 +0000" stop="20260924023000 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 4: El sexo</title>
+		<desc>Mariana quiere recuperar la pasión, pero Sam no está por la labor. Ansioso por sentirse realizado, empieza a trabajar a sus espaldas y está cansado. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924023000 +0000" stop="20260924024900 +0000">
+		<title>Así somos - Temporada 2 - Episodio 3 - Somos ansiosos</title>
+		<desc>¿Y si tu ansiedad fuese una alarma que no siempre acierta? A partir de la historia de Stanislav Petrov, el teniente coronel soviético que en 1983 evitó una catástrofe al cuestionar una alerta que parecía real, exploramos cómo la ansiedad funciona como un sistema de detección de peligros. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924024900 +0000" stop="20260924030800 +0000">
+		<title>Así somos - Temporada 2 - Episodio 4 - Somos perfeccionistas</title>
+		<desc>¿Hasta qué punto perseguir la perfección es sentirnos a salvo? Exploramos cómo el perfeccionismo puede ser un refugio emocional o un freno a lo inesperado. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924030900 +0000" stop="20260924035900 +0000">
+		<title>Entrevista d’Or – Episodio 2 - Mariang y Raquel Hervás</title>
+		<desc>La guionista e influencer Mariang, de "La pija y la quinqui", y la guionista y cómica Raquel Hervás, visitan el programa para dejar claro las ventajas de ser murciano. Absurdarium es un videopodcast de divulgación y entretenimiento que explora la cara B de la historia.</desc>
+		<icon src="https://img.rtve.es/imagenes/absurdarium/01772092586346.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924040000 +0000" stop="20260924060000 +0000">
+		<title>En Play - Mañana más - El 'Amor compartido' de Cupido</title>
+		<desc>Contamos con con la visita de Cupido, el grupo de electropop e indiepop que llega con nuevo álbum: 'Amor compartido', donde se crea un espacio de encuentro entre distintas escenas, acentos y tradiciones musicales de ambos lados del Atlántico. RTVE Play amplía su apuesta estratégica por los contenidos en directo de entretenimiento con el lanzamiento del canal digital ‘EN PLAY’.</desc>
+		<icon src="https://img.rtve.es/imagenes/en-play/01771846443421.jpg" />
+		<category>CULTURE</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924060000 +0000" stop="20260924075900 +0000">
+		<title>En Play - Mañana Más - Dani Llamas y el 'cante rojo'</title>
+		<desc>Hoy hacemos intensivo de varios de los colaboradores que nos han acompañado esta temporada y que también tienen que cogerse vacaciones en algún momento. RTVE Play amplía su apuesta estratégica por los contenidos en directo de entretenimiento con el lanzamiento del canal digital ‘EN PLAY’.</desc>
+		<icon src="https://img.rtve.es/imagenes/en-play/01771846443421.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924075900 +0000" stop="20260924084800 +0000">
+		<title>Literal - Programa 7 - ¿Y tú, qué puedes hacer por Gaza?</title>
+		<desc>Emilio, Alba y Albanta conversan con el médico Raúl Incertis sobre Gaza, el activismo y el papel ciudadano frente a la masacre.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924084800 +0000" stop="20260924094500 +0000">
+		<title>Literal - Programa 8 - ¿Los jóvenes tenemos menos sexo que antes?</title>
+		<desc>Emilio, Alba y Albanta conversan con los sexólogos Adrián Chico y Mónica Branni sobre la relación de los jóvenes con el sexo.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924094500 +0000" stop="20260924114400 +0000">
+		<title>En Play - Mañana Más - Dani Llamas y el 'cante rojo'</title>
+		<desc>Hoy hacemos intensivo de varios de los colaboradores que nos han acompañado esta temporada y que también tienen que cogerse vacaciones en algún momento. RTVE Play amplía su apuesta estratégica por los contenidos en directo de entretenimiento con el lanzamiento del canal digital ‘EN PLAY’.</desc>
+		<icon src="https://img.rtve.es/imagenes/en-play/01771846443421.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924114400 +0000" stop="20260924120000 +0000">
+		<title>El Método Delicious - Episodio 7 - Postres saludables con chocolate</title>
+		<desc>Marta Sanahuja prepara dos postres que tienen cabida en una dieta saludable y equilibrada: unos donuts al microondas y una trenza de chocolate. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924120000 +0000" stop="20260924121400 +0000">
+		<title>El Método Delicious - Episodio 8 - Recetas fáciles en 15 minutos</title>
+		<desc>Marta Sanahuja prepara un salmón con costra de pistachos y una 'one pot pasta' en solo 15 minutos, un menú perfecto para sorprender a tus invitados. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924121400 +0000" stop="20260924132700 +0000">
+		<title>Se nos ha ido de las manos - Episodio 1: Un activo seguro</title>
+		<desc>Carles Tamayo retrata desde dentro la locura del mercado inmobiliario, donde el beneficio económico manda por encima de todo. "Se nos ha ido de las manos" es un programa presentado por el periodista Carles Tamayo en el que se analizan temas que hemos normalizado, aunque claramente se nos han ido de las manos.</desc>
+		<icon src="https://img.rtve.es/imagenes/se-nos-ha-ido-de-las-manos/01772634884162.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924132700 +0000" stop="20260924140600 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 7: Autoconocimiento</title>
+		<desc>Mariana y Samuel se sientan a hablar del estado de su relación. Sam la deja tocada al acusarla de haber perdido el norte desde el suicidio de Magnus. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924140700 +0000" stop="20260924144900 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 8: Todo pasa</title>
+		<desc>La casa de las suecas está llena de cajas de mudanza. Se marchan del barrio. Dos meses más tarde, la vida de Mariana y Samuel ha dado un vuelco. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia-version-doblada/1700647784565.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924144900 +0000" stop="20260924150700 +0000">
+		<title>Así somos - Episodio 7: Somos mentirosos</title>
+		<desc>¿Hasta qué punto puede una mentira convertirse en tu verdad? Contamos la historia de Enric Marco, cuya vida se construyó sobre una gran mentira que le dio fama. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924150700 +0000" stop="20260924152700 +0000">
+		<title>Así somos - Episodio 8 - Somos influyentes</title>
+		<desc>¿Sabías que todos tenemos la capacidad de influir, incluso sin darnos cuenta? En este episodio tomamos como hilo conductor la historia de Félix Rodríguez de la Fuente, un influencer mucho antes de que existieran las redes sociales. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924152700 +0000" stop="20260924160100 +0000">
+		<title>Cosas de palacio - Episodio 7 - Dos verdades y una mentira</title>
+		<desc>Gonzalo Ramos, Marco Pernas, Iván Renedo e Isabel Serrano nos cuentan tres anécdotas: dos son verdad y una es mentira. ¿Cuál es cuál? "Cosas de palacio\.</desc>
+		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924160100 +0000" stop="20260924163600 +0000">
+		<title>Cosas de palacio - Episodio 8 - Abracadabra</title>
+		<desc>Gonzalo Ramos, Marco Pernas, Iván Renedo e Isabel Serrano nos demuestran sus talentos más ocultos, ¡con show de magia incluido! "Cosas de palacio\.</desc>
+		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924163600 +0000" stop="20260924173400 +0000">
+		<title>Teleplanistas - Episodio 4 - Entrevista con Germán ('MasterChef') y Mercedes Milá ('Me meto en un jardín')</title>
+		<desc>'Teleplanistas' no para, igual que la tensión en las cocinas de 'MasterChef'. Javi Hoyos y Marta Verona repasan el programa de Germán Sánchez, el último expulsado, y para muchos uno de los principales candidatos para ser el ganador del 'talent' culinario. En la segunda parte, 'Teleplanistas' cuenta con la participación de Mercedes Milá. 'Teleplanistas' es el punto de encuentro para los amantes de la televisión que no se conforman con mirar desde el sofá.</desc>
+		<icon src="https://img.rtve.es/imagenes/teleplanistas/01788851141517.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924173400 +0000" stop="20260924182200 +0000">
+		<title>Entrevista d'Or - Ignatius Farray</title>
+		<desc>Ignatius Farray pone contra las cuerdas a Miguel Maldonado en Entrevista d'Or. Absurdarium es un videopodcast de divulgación y entretenimiento que explora la cara B de la historia.</desc>
+		<icon src="https://img.rtve.es/imagenes/absurdarium/01772092586346.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924182200 +0000" stop="20260924200500 +0000">
+		<title>El perro andaluz - Programa 4 - Niña Pastori y Anabel Alonso</title>
+		<desc>Noche especial de emoción, mensajes, música y humor con Niña Pastori y Anabel Alonso, con el Mundial y el partido de España como marco de celebración. 'El perro andaluz by Manu Sánchez' es el nuevo gran formato de entretenimiento del prime time de La 1. Humor, música, entrevistas y actualidad desde Andalucía para toda España.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-perro-andaluz-by-manu-sanchez/01780908979805.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924200500 +0000" stop="20260924204400 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 7: Autoconocimiento</title>
+		<desc>Mariana y Samuel se sientan a hablar del estado de su relación. Sam la deja tocada al acusarla de haber perdido el norte desde el suicidio de Magnus. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924204500 +0000" stop="20260924212700 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 8: Todo pasa</title>
+		<desc>La casa de las suecas está llena de cajas de mudanza. Se marchan del barrio. Dos meses más tarde, la vida de Mariana y Samuel ha dado un vuelco. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia-version-doblada/1700647784565.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924212700 +0000" stop="20260924222100 +0000">
+		<title>Los invasores - Episodio 4 - ¿Se saluda con demasiados besos en España?</title>
+		<desc>La primera impresión determina mucho las interacciones entre personas, pero ese primer contacto es diferente en cada cultura. ¿Qué impresión dan los españoles al saludar? ¿Hay demasiado contacto? ¿Son los españoles demasiado directos en general? Jiajun Yin y Alex Ayres no se conforman con venir a quitarnos el trabajo, robarnos a nuestras parejas y cobrar paguitas. Ahora, además, se han propuesto rajar sobre nosotros.</desc>
+		<icon src="https://img.rtve.es/imagenes/los-invasores/01778060215803.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260924222100 +0000" stop="20260925000400 +0000">
+		<title>El perro andaluz - Programa 4 - Niña Pastori y Anabel Alonso</title>
+		<desc>Noche especial de emoción, mensajes, música y humor con Niña Pastori y Anabel Alonso, con el Mundial y el partido de España como marco de celebración. 'El perro andaluz by Manu Sánchez' es el nuevo gran formato de entretenimiento del prime time de La 1. Humor, música, entrevistas y actualidad desde Andalucía para toda España.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-perro-andaluz-by-manu-sanchez/01780908979805.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925000400 +0000" stop="20260925010200 +0000">
+		<title>Teleplanistas - Episodio 4 - Entrevista con Germán ('MasterChef') y Mercedes Milá ('Me meto en un jardín')</title>
+		<desc>'Teleplanistas' no para, igual que la tensión en las cocinas de 'MasterChef'. Javi Hoyos y Marta Verona repasan el programa de Germán Sánchez, el último expulsado, y para muchos uno de los principales candidatos para ser el ganador del 'talent' culinario. En la segunda parte, 'Teleplanistas' cuenta con la participación de Mercedes Milá. 'Teleplanistas' es el punto de encuentro para los amantes de la televisión que no se conforman con mirar desde el sofá.</desc>
+		<icon src="https://img.rtve.es/imagenes/teleplanistas/01788851141517.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925010200 +0000" stop="20260925015100 +0000">
+		<title>Entrevista d'Or - Ignatius Farray</title>
+		<desc>Ignatius Farray pone contra las cuerdas a Miguel Maldonado en Entrevista d'Or. Absurdarium es un videopodcast de divulgación y entretenimiento que explora la cara B de la historia.</desc>
+		<icon src="https://img.rtve.es/imagenes/absurdarium/01772092586346.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925015100 +0000" stop="20260925023000 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 7: Autoconocimiento</title>
+		<desc>Mariana y Samuel se sientan a hablar del estado de su relación. Sam la deja tocada al acusarla de haber perdido el norte desde el suicidio de Magnus. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925023000 +0000" stop="20260925031200 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 8: Todo pasa</title>
+		<desc>La casa de las suecas está llena de cajas de mudanza. Se marchan del barrio. Dos meses más tarde, la vida de Mariana y Samuel ha dado un vuelco. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia-version-doblada/1700647784565.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925031200 +0000" stop="20260925033000 +0000">
+		<title>Así somos - Episodio 7: Somos mentirosos</title>
+		<desc>¿Hasta qué punto puede una mentira convertirse en tu verdad? Contamos la historia de Enric Marco, cuya vida se construyó sobre una gran mentira que le dio fama. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925033100 +0000" stop="20260925035100 +0000">
+		<title>Así somos - Episodio 8 - Somos influyentes</title>
+		<desc>¿Sabías que todos tenemos la capacidad de influir, incluso sin darnos cuenta? En este episodio tomamos como hilo conductor la historia de Félix Rodríguez de la Fuente, un influencer mucho antes de que existieran las redes sociales. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925040000 +0000" stop="20260925060000 +0000">
+		<title>En Play - Mañana Más (especial) - 20 años de Maika Makovski en la música</title>
+		<desc>La cantante y compositora Maika Makovski cumple 20 años desde su debut discográfico y viene a celebrarlo con nosotros antes de su gran concierto en el Palau de la Música Catalana.</desc>
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925060000 +0000" stop="20260925075700 +0000">
+		<title>En Play - Mañana Más - Programa 1 - Willie Colón, la despedida al trombonista salsero</title>
+		<desc>La dramática errante vuelve al teatro de la Abadía con Ane Pikaza y María Goiricelaya, con el estreno de 'Ni flores, ni funeral, ni cenizas, ni tantán'; María Rodrigo, directora de casting que ha participado en películas como 'Sirat' o 'Romería', desvela lo que hay detrás de cada casting.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925075700 +0000" stop="20260925084900 +0000">
+		<title>Literal - Programa 9 - ¿Por qué humanizamos a los animales de compañía?</title>
+		<desc>Emilio, Alba y Candela conversan con Dani Jiménez, educador canino, sobre por qué humanizamos a nuestros animales de compañía.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925084900 +0000" stop="20260925094800 +0000">
+		<title>Literal - Programa 10 - ¿Por qué apostamos más que nunca?</title>
+		<desc>Emilio, Alba y Candela conversan con Inés Lemmel y Juan Martínez sobre cómo el juego se ha colado en nuestra vida diaria.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925094800 +0000" stop="20260925114500 +0000">
+		<title>En Play - Mañana Más - Programa 1 - Willie Colón, la despedida al trombonista salsero</title>
+		<desc>La dramática errante vuelve al teatro de la Abadía con Ane Pikaza y María Goiricelaya, con el estreno de 'Ni flores, ni funeral, ni cenizas, ni tantán'; María Rodrigo, directora de casting que ha participado en películas como 'Sirat' o 'Romería', desvela lo que hay detrás de cada casting.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925114500 +0000" stop="20260925120100 +0000">
+		<title>El Método Delicious - Episodio 9 - Receta de la tarta Sacher</title>
+		<desc>Marta Sanahuja elabora la tarta de chocolate por excelencia: la tarta Sacher. El postre perfecto para todos los aficiones al dulce. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925120100 +0000" stop="20260925121900 +0000">
+		<title>El Método Delicious - Episodio 10 - Recetas con mango para el verano: Ceviche y postre</title>
+		<desc>Marta Sanahuja se prepara para el verano con dos recetas muy ligeras y frescas: ceviche de lubina con calabaza y mango y postre de mango. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925122000 +0000" stop="20260925131200 +0000">
+		<title>Se nos ha ido de las manos - Programa 2: Se nos ha ido la luz</title>
+		<desc>Carles Tamayo investiga el apagón del 28 de abril de 2025, sus causas y cómo surge y se difunde la desinformación en situaciones de emergencias. "Se nos ha ido de las manos" es un programa presentado por el periodista Carles Tamayo en el que se analizan temas que hemos normalizado, aunque claramente se nos han ido de las manos.</desc>
+		<icon src="https://img.rtve.es/imagenes/se-nos-ha-ido-de-las-manos/01772634884162.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925131200 +0000" stop="20260925135200 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 1: El cambio</title>
+		<desc>Mariana y Samuel se han mudado a un barrio idílico, el lugar perfecto para criar a Lía y Max de una forma más natural y respetuosa. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925135200 +0000" stop="20260925142700 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 2: El miedo</title>
+		<desc>El suicidio de Magnus hunde a Mariana: en sus pesadillas Lía yace muerta. Mariana se apunta al AFA, anhelando control sobre la vida escolar de su hija. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925142700 +0000" stop="20260925144900 +0000">
+		<title>Así somos - Episodio 9 - Somos envidiosos</title>
+		<desc>¿Alguna vez has sentido un pequeño pinchazo al ver el éxito de otra persona? Inspirados en la intensa rivalidad entre Steve Jobs y Bill Gates, en este episodio exploramos la envidia: una emoción que surge cuando nos comparamos con los demás. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925144900 +0000" stop="20260925150800 +0000">
+		<title>Así somos - Episodio 10 - Somos rebeldes</title>
+		<desc>¿Has sentido ese impulso de decir 'no', aunque todos esperan que digas 'sí'? Con la historia de Rosa Parks como hilo conductor, exploramos la rebeldía. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925150800 +0000" stop="20260925155400 +0000">
+		<title>Cosas de palacio - Episodio 9 - En busca del mejor chiste</title>
+		<desc>Manuel Regueiro y José M. Blanco (La Promesa) y Loren Mairena y Rafa Álamos (Valle Salvaje) cuentan su mejor chiste... y responden preguntas difíciles. "Cosas de palacio\.</desc>
+		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925155400 +0000" stop="20260925162300 +0000">
+		<title>Cosas de palacio - Episodio 10 - Examen de historia</title>
+		<desc>Loren Mairena, Rafa Álamos, Manuel Regueiro y José M. Blanco demuestran lo que saben de las épocas de 'La Promesa' y 'Valle Salvaje'. "Cosas de palacio\.</desc>
+		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925162300 +0000" stop="20260925172000 +0000">
+		<title>Teleplanistas - Episodio 5 - Entrevista con Javier ('MasterChef') y Carlos del Amor</title>
+		<desc>Javi Hoyos y Marta Verona cuentan en 'Teleplanistas' con el último expulsado: Javier. Además, charlamos con Carlos del Amor sobre el proyecto de la Sagrada Familia. 'Teleplanistas' es el punto de encuentro para los amantes de la televisión que no se conforman con mirar desde el sofá.</desc>
+		<icon src="https://img.rtve.es/imagenes/teleplanistas/01788851141517.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925172000 +0000" stop="20260925181100 +0000">
+		<title>Entrevista d’Or – Detective Murciano</title>
+		<desc>¿Reconoceríais una charla entre dos amigos en un bar? ¿El típico devenir de conversaciones que parece que llegan a puerto, pero no? Algo así es lo que ha ocurrido con Detective Murciano y Miguel Maldonado en "Entrevista d'Or". Absurdarium es un videopodcast de divulgación y entretenimiento que explora la cara B de la historia.</desc>
+		<icon src="https://img.rtve.es/imagenes/absurdarium/01772092586346.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925181100 +0000" stop="20260925194900 +0000">
+		<title>El perro andaluz - Programa 5 - María del Monte y Paula Vázquez</title>
+		<desc>Manu Sánchez recibe a María del Monte y Paula Vázquez en una nueva noche de humor, actualidad y música, de la mano de María Peláe y José Luis Jaén. 'El perro andaluz by Manu Sánchez' es el nuevo gran formato de entretenimiento del prime time de La 1. Humor, música, entrevistas y actualidad desde Andalucía para toda España.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-perro-andaluz-by-manu-sanchez/01780908979805.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925194900 +0000" stop="20260925202900 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 1: El cambio</title>
+		<desc>Mariana y Samuel se han mudado a un barrio idílico, el lugar perfecto para criar a Lía y Max de una forma más natural y respetuosa. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925202900 +0000" stop="20260925210400 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 2: El miedo</title>
+		<desc>El suicidio de Magnus hunde a Mariana: en sus pesadillas Lía yace muerta. Mariana se apunta al AFA, anhelando control sobre la vida escolar de su hija. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925210500 +0000" stop="20260925220300 +0000">
+		<title>Los invasores - Episodio 5 - ¿Quién maneja mejor el dinero?</title>
+		<desc>Hamza Zaidi y Daniela Expósito charlan con Alex y Jiajun sobre cómo se ve el dinero en Marruecos, Venezuela, Inglaterra, China... Y en España, claro. Jiajun Yin y Alex Ayres no se conforman con venir a quitarnos el trabajo, robarnos a nuestras parejas y cobrar paguitas. Ahora, además, se han propuesto rajar sobre nosotros.</desc>
+		<icon src="https://img.rtve.es/imagenes/los-invasores/01778060215803.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925220300 +0000" stop="20260925234100 +0000">
+		<title>El perro andaluz - Programa 5 - María del Monte y Paula Vázquez</title>
+		<desc>Manu Sánchez recibe a María del Monte y Paula Vázquez en una nueva noche de humor, actualidad y música, de la mano de María Peláe y José Luis Jaén. 'El perro andaluz by Manu Sánchez' es el nuevo gran formato de entretenimiento del prime time de La 1. Humor, música, entrevistas y actualidad desde Andalucía para toda España.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-perro-andaluz-by-manu-sanchez/01780908979805.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260925234100 +0000" stop="20260926003800 +0000">
+		<title>Teleplanistas - Episodio 5 - Entrevista con Javier ('MasterChef') y Carlos del Amor</title>
+		<desc>Javi Hoyos y Marta Verona cuentan en 'Teleplanistas' con el último expulsado: Javier. Además, charlamos con Carlos del Amor sobre el proyecto de la Sagrada Familia. 'Teleplanistas' es el punto de encuentro para los amantes de la televisión que no se conforman con mirar desde el sofá.</desc>
+		<icon src="https://img.rtve.es/imagenes/teleplanistas/01788851141517.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926003800 +0000" stop="20260926012900 +0000">
+		<title>Entrevista d’Or – Detective Murciano</title>
+		<desc>¿Reconoceríais una charla entre dos amigos en un bar? ¿El típico devenir de conversaciones que parece que llegan a puerto, pero no? Algo así es lo que ha ocurrido con Detective Murciano y Miguel Maldonado en "Entrevista d'Or". Absurdarium es un videopodcast de divulgación y entretenimiento que explora la cara B de la historia.</desc>
+		<icon src="https://img.rtve.es/imagenes/absurdarium/01772092586346.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926012900 +0000" stop="20260926020900 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 1: El cambio</title>
+		<desc>Mariana y Samuel se han mudado a un barrio idílico, el lugar perfecto para criar a Lía y Max de una forma más natural y respetuosa. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926020900 +0000" stop="20260926024400 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 2: El miedo</title>
+		<desc>El suicidio de Magnus hunde a Mariana: en sus pesadillas Lía yace muerta. Mariana se apunta al AFA, anhelando control sobre la vida escolar de su hija. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926024400 +0000" stop="20260926030600 +0000">
+		<title>Así somos - Episodio 9 - Somos envidiosos</title>
+		<desc>¿Alguna vez has sentido un pequeño pinchazo al ver el éxito de otra persona? Inspirados en la intensa rivalidad entre Steve Jobs y Bill Gates, en este episodio exploramos la envidia: una emoción que surge cuando nos comparamos con los demás. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926030600 +0000" stop="20260926032500 +0000">
+		<title>Así somos - Episodio 10 - Somos rebeldes</title>
+		<desc>¿Has sentido ese impulso de decir 'no', aunque todos esperan que digas 'sí'? Con la historia de Rosa Parks como hilo conductor, exploramos la rebeldía. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926032500 +0000" stop="20260926034300 +0000">
+		<title>El Método Delicious - Episodio 10 - Recetas con mango para el verano: Ceviche y postre</title>
+		<desc>Marta Sanahuja se prepara para el verano con dos recetas muy ligeras y frescas: ceviche de lubina con calabaza y mango y postre de mango. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926040000 +0000" stop="20260926060000 +0000">
+		<title>En Play - Mañana Más (especial) - 20 años de Maika Makovski en la música</title>
+		<desc>La cantante y compositora Maika Makovski cumple 20 años desde su debut discográfico y viene a celebrarlo con nosotros antes de su gran concierto en el Palau de la Música Catalana.</desc>
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926060000 +0000" stop="20260926075700 +0000">
+		<title>En Play - Mañana Más - Programa 1 - Willie Colón, la despedida al trombonista salsero</title>
+		<desc>La dramática errante vuelve al teatro de la Abadía con Ane Pikaza y María Goiricelaya, con el estreno de 'Ni flores, ni funeral, ni cenizas, ni tantán'; María Rodrigo, directora de casting que ha participado en películas como 'Sirat' o 'Romería', desvela lo que hay detrás de cada casting.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926075700 +0000" stop="20260926084900 +0000">
+		<title>Literal - Programa 9 - ¿Por qué humanizamos a los animales de compañía?</title>
+		<desc>Emilio, Alba y Candela conversan con Dani Jiménez, educador canino, sobre por qué humanizamos a nuestros animales de compañía.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926084900 +0000" stop="20260926094800 +0000">
+		<title>Literal - Programa 10 - ¿Por qué apostamos más que nunca?</title>
+		<desc>Emilio, Alba y Candela conversan con Inés Lemmel y Juan Martínez sobre cómo el juego se ha colado en nuestra vida diaria.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926094800 +0000" stop="20260926114500 +0000">
+		<title>En Play - Mañana Más - Programa 1 - Willie Colón, la despedida al trombonista salsero</title>
+		<desc>La dramática errante vuelve al teatro de la Abadía con Ane Pikaza y María Goiricelaya, con el estreno de 'Ni flores, ni funeral, ni cenizas, ni tantán'; María Rodrigo, directora de casting que ha participado en películas como 'Sirat' o 'Romería', desvela lo que hay detrás de cada casting.</desc>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926114500 +0000" stop="20260926120100 +0000">
+		<title>El Método Delicious - Episodio 9 - Receta de la tarta Sacher</title>
+		<desc>Marta Sanahuja elabora la tarta de chocolate por excelencia: la tarta Sacher. El postre perfecto para todos los aficiones al dulce. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926120100 +0000" stop="20260926121900 +0000">
+		<title>El Método Delicious - Episodio 10 - Recetas con mango para el verano: Ceviche y postre</title>
+		<desc>Marta Sanahuja se prepara para el verano con dos recetas muy ligeras y frescas: ceviche de lubina con calabaza y mango y postre de mango. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926122000 +0000" stop="20260926131200 +0000">
+		<title>Se nos ha ido de las manos - Programa 2: Se nos ha ido la luz</title>
+		<desc>Carles Tamayo investiga el apagón del 28 de abril de 2025, sus causas y cómo surge y se difunde la desinformación en situaciones de emergencias. "Se nos ha ido de las manos" es un programa presentado por el periodista Carles Tamayo en el que se analizan temas que hemos normalizado, aunque claramente se nos han ido de las manos.</desc>
+		<icon src="https://img.rtve.es/imagenes/se-nos-ha-ido-de-las-manos/01772634884162.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926131200 +0000" stop="20260926135200 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 1: El cambio</title>
+		<desc>Mariana y Samuel se han mudado a un barrio idílico, el lugar perfecto para criar a Lía y Max de una forma más natural y respetuosa. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926135200 +0000" stop="20260926142700 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 2: El miedo</title>
+		<desc>El suicidio de Magnus hunde a Mariana: en sus pesadillas Lía yace muerta. Mariana se apunta al AFA, anhelando control sobre la vida escolar de su hija. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926142700 +0000" stop="20260926144900 +0000">
+		<title>Así somos - Episodio 9 - Somos envidiosos</title>
+		<desc>¿Alguna vez has sentido un pequeño pinchazo al ver el éxito de otra persona? Inspirados en la intensa rivalidad entre Steve Jobs y Bill Gates, en este episodio exploramos la envidia: una emoción que surge cuando nos comparamos con los demás. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926144900 +0000" stop="20260926150800 +0000">
+		<title>Así somos - Episodio 10 - Somos rebeldes</title>
+		<desc>¿Has sentido ese impulso de decir 'no', aunque todos esperan que digas 'sí'? Con la historia de Rosa Parks como hilo conductor, exploramos la rebeldía. "Así Somos" te propone un viaje junto a Molo Cebrián y Luis Muiño (Entiende Tu Mente) para descubrir, desde el punto de vista de la psicología, aquello que nos hace humanos.</desc>
+		<icon src="https://img.rtve.es/imagenes/asi-somos/01768818872962.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926150800 +0000" stop="20260926155400 +0000">
+		<title>Cosas de palacio - Episodio 9 - En busca del mejor chiste</title>
+		<desc>Manuel Regueiro y José M. Blanco (La Promesa) y Loren Mairena y Rafa Álamos (Valle Salvaje) cuentan su mejor chiste... y responden preguntas difíciles. "Cosas de palacio\.</desc>
+		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926155400 +0000" stop="20260926162300 +0000">
+		<title>Cosas de palacio - Episodio 10 - Examen de historia</title>
+		<desc>Loren Mairena, Rafa Álamos, Manuel Regueiro y José M. Blanco demuestran lo que saben de las épocas de 'La Promesa' y 'Valle Salvaje'. "Cosas de palacio\.</desc>
+		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926162300 +0000" stop="20260926172000 +0000">
+		<title>Teleplanistas - Episodio 5 - Entrevista con Javier ('MasterChef') y Carlos del Amor</title>
+		<desc>Javi Hoyos y Marta Verona cuentan en 'Teleplanistas' con el último expulsado: Javier. Además, charlamos con Carlos del Amor sobre el proyecto de la Sagrada Familia. 'Teleplanistas' es el punto de encuentro para los amantes de la televisión que no se conforman con mirar desde el sofá.</desc>
+		<icon src="https://img.rtve.es/imagenes/teleplanistas/01788851141517.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926172000 +0000" stop="20260926181100 +0000">
+		<title>Entrevista d’Or – Detective Murciano</title>
+		<desc>¿Reconoceríais una charla entre dos amigos en un bar? ¿El típico devenir de conversaciones que parece que llegan a puerto, pero no? Algo así es lo que ha ocurrido con Detective Murciano y Miguel Maldonado en "Entrevista d'Or". Absurdarium es un videopodcast de divulgación y entretenimiento que explora la cara B de la historia.</desc>
+		<icon src="https://img.rtve.es/imagenes/absurdarium/01772092586346.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926181100 +0000" stop="20260926194900 +0000">
+		<title>El perro andaluz - Programa 5 - María del Monte y Paula Vázquez</title>
+		<desc>Manu Sánchez recibe a María del Monte y Paula Vázquez en una nueva noche de humor, actualidad y música, de la mano de María Peláe y José Luis Jaén. 'El perro andaluz by Manu Sánchez' es el nuevo gran formato de entretenimiento del prime time de La 1. Humor, música, entrevistas y actualidad desde Andalucía para toda España.</desc>
+		<icon src="https://img.rtve.es/imagenes/el-perro-andaluz-by-manu-sanchez/01780908979805.jpg" />
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926194900 +0000" stop="20260926202900 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 1: El cambio</title>
+		<desc>Mariana y Samuel se han mudado a un barrio idílico, el lugar perfecto para criar a Lía y Max de una forma más natural y respetuosa. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926202900 +0000" stop="20260926210400 +0000">
+		<title>Esto no es Suecia (Versión doblada) - Episodio 2: El miedo</title>
+		<desc>El suicidio de Magnus hunde a Mariana: en sus pesadillas Lía yace muerta. Mariana se apunta al AFA, anhelando control sobre la vida escolar de su hija. Mariana y Samuel se mudan a un barrio idílico, el lugar perfecto para criar a sus hijos de forma más natural, sana y respetuosa.  Ganadora del Premio Ondas a mejor comedia, a la mejor interpretación para Aina Clotet en Canneseries, del Prix Europa a mejor serie y nominada a los Feroz.</desc>
+		<icon src="https://img.rtve.es/imagenes/esto-no-es-suecia/1700647687297.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="RTVE_En_Play.TV" start="20260926210500 +0000" stop="20260926220300 +0000">
+		<title>Los invasores - Episodio 5 - ¿Quién maneja mejor el dinero?</title>
+		<desc>Hamza Zaidi y Daniela Expósito charlan con Alex y Jiajun sobre cómo se ve el dinero en Marruecos, Venezuela, Inglaterra, China... Y en España, claro. Jiajun Yin y Alex Ayres no se conforman con venir a quitarnos el trabajo, robarnos a nuestras parejas y cobrar paguitas. Ahora, además, se han propuesto rajar sobre nosotros.</desc>
+		<icon src="https://img.rtve.es/imagenes/los-invasores/01778060215803.jpg" />
+		<category>SERIES</category>
 	</programme>
 	</tv>
