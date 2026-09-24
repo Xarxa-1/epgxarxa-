@@ -2,9 +2,12 @@ name: Actualitza EPG XML
 
 on:
   schedule:
-    # Freqüència d'execució (cada 5 minuts)
     - cron: '*/5 * * * *'
-  workflow_dispatch: # Permet l'execució manual si es necessita
+  workflow_dispatch:
+
+# Permet que el bot pugi els canvis de codi/arxius
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Check out repositori
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -26,5 +31,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add epg.xml
-          git commit -m "Auto-update epg.xml" || exit 0
+          git commit -m "Auto-update epg.xml" || echo "No hi ha canvis per publicar"
           git push
