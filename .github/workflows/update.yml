@@ -1,30 +1,30 @@
-name: Actualitza EPG
+name: Actualitza EPG XML
 
 on:
   schedule:
-    # Executa cada 5 minuts (màxima freqüència recomanada per GH Actions)
+    # Freqüència d'execució (cada 5 minuts)
     - cron: '*/5 * * * *'
-  workflow_dispatch: # Permet executar-ho manualment si es desitja
+  workflow_dispatch: # Permet l'execució manual si es necessita
 
 jobs:
   build:
-    runs-runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repositori
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Executar script d'actualització
+      - name: Executar script d'actualització EPG
         run: python update_epg.py
 
       - name: Fer commit i push dels canvis
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.json
-          git commit -m "Auto-update EPG" || exit 0
+          git add epg.xml
+          git commit -m "Auto-update epg.xml" || exit 0
           git push
