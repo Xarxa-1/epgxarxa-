@@ -30,66 +30,6 @@
 	<channel id="RTVE_En_Play.TV">
 		<display-name>RTVE_En_Play.TV</display-name>
 	</channel>
-	<programme channel="RTVE_SomosCine.TV" start="20261011040000 +0000" stop="20261011052700 +0000">
-		<title>Día Internacional de la Niña - Chavalas</title>
-		<desc>Marta, fotógrafa, regresa a Cornellà tras ser despedida de Shame, un magazine de Barcelona. Ahora debe volver a la vida que pensaba haber dejado atrás Ana Fernández,Andreas Muñoz Blázquez,Ángela Cervantes,Carolina Yuste,Cristina Plazas,Elisabet Casanovas Torruella,Frank Feys,José Mota,Louise Good,Mario Zorrilla,Vicky Luengo.</desc>
-		<icon src="https://img2.rtve.es/v/6982152/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011052700 +0000" stop="20261011072100 +0000">
-		<title>Día Internacional de la Niña - Chinas</title>
-		<desc>“Chinas” es la historia de Lucía, Xiang y Claudia, tres chicas de origen chino que viven en Madrid pero con realidades completamente opuestas. Daniela Shiman Yang,Xinyi Ye,Ella Qiu,Pablo Molinero,Leonor Watling,Carolina Yuste.</desc>
-		<icon src="https://img2.rtve.es/v/16887669/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011072100 +0000" stop="20261011084200 +0000">
-		<title>Día Internacional de la Niña - Cuidando al sol</title>
-		<desc>En el lago Titicaca boliviano, una niña de diez años se enfrenta a una serie de emociones nuevas y conflictivas cuando su padre se va. Francisco Miranda,Karina Paco,Katerine Choque Huanca,Luis Aduviri,Maria Belen Callisaya.</desc>
-		<icon src="https://img2.rtve.es/v/16020555/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011084200 +0000" stop="20261011102200 +0000">
-		<title>Día Internacional de la Niña - Las niñas</title>
-		<desc>Celia, una niña de 11 años, estudia en un colegio de monjas de Zaragoza. Brisa, una nueva compañera, la empuja a una nueva etapa: la adolescencia. Ainara Nieto,Andrea Fandos,Carlota Gurpegui,Daniel García,Elisa Martínez,Francesca Piñón,Jesusa Andany,Julia Sierra,Natalia de Molina,Zoe Arnao.</desc>
-		<icon src="https://img2.rtve.es/v/6529895/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011102200 +0000" stop="20261011121600 +0000">
-		<title>Día Internacional de la Niña - Chinas</title>
-		<desc>“Chinas” es la historia de Lucía, Xiang y Claudia, tres chicas de origen chino que viven en Madrid pero con realidades completamente opuestas. Daniela Shiman Yang,Xinyi Ye,Ella Qiu,Pablo Molinero,Leonor Watling,Carolina Yuste.</desc>
-		<icon src="https://img2.rtve.es/v/16887669/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011121600 +0000" stop="20261011133600 +0000">
-		<title>Día Internacional de la Niña - Cuidando al sol</title>
-		<desc>En el lago Titicaca boliviano, una niña de diez años se enfrenta a una serie de emociones nuevas y conflictivas cuando su padre se va. Francisco Miranda,Karina Paco,Katerine Choque Huanca,Luis Aduviri,Maria Belen Callisaya.</desc>
-		<icon src="https://img2.rtve.es/v/16020555/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011133600 +0000" stop="20261011151700 +0000">
-		<title>Día Internacional de la Niña - Las niñas</title>
-		<desc>Celia, una niña de 11 años, estudia en un colegio de monjas de Zaragoza. Brisa, una nueva compañera, la empuja a una nueva etapa: la adolescencia. Ainara Nieto,Andrea Fandos,Carlota Gurpegui,Daniel García,Elisa Martínez,Francesca Piñón,Jesusa Andany,Julia Sierra,Natalia de Molina,Zoe Arnao.</desc>
-		<icon src="https://img2.rtve.es/v/6529895/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011151700 +0000" stop="20261011164500 +0000">
-		<title>Día Internacional de la Niña - Chavalas</title>
-		<desc>Marta, fotógrafa, regresa a Cornellà tras ser despedida de Shame, un magazine de Barcelona. Ahora debe volver a la vida que pensaba haber dejado atrás Ana Fernández,Andreas Muñoz Blázquez,Ángela Cervantes,Carolina Yuste,Cristina Plazas,Elisabet Casanovas Torruella,Frank Feys,José Mota,Louise Good,Mario Zorrilla,Vicky Luengo.</desc>
-		<icon src="https://img2.rtve.es/v/6982152/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011164500 +0000" stop="20261011180600 +0000">
-		<title>Día Internacional de la Niña - Cuidando al sol</title>
-		<desc>En el lago Titicaca boliviano, una niña de diez años se enfrenta a una serie de emociones nuevas y conflictivas cuando su padre se va. Francisco Miranda,Karina Paco,Katerine Choque Huanca,Luis Aduviri,Maria Belen Callisaya.</desc>
-		<icon src="https://img2.rtve.es/v/16020555/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011180600 +0000" stop="20261011194600 +0000">
-		<title>Día Internacional de la Niña - Las niñas</title>
-		<desc>Celia, una niña de 11 años, estudia en un colegio de monjas de Zaragoza. Brisa, una nueva compañera, la empuja a una nueva etapa: la adolescencia. Ainara Nieto,Andrea Fandos,Carlota Gurpegui,Daniel García,Elisa Martínez,Francesca Piñón,Jesusa Andany,Julia Sierra,Natalia de Molina,Zoe Arnao.</desc>
-		<icon src="https://img2.rtve.es/v/6529895/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011194600 +0000" stop="20261011211400 +0000">
-		<title>Día Internacional de la Niña - Chavalas</title>
-		<desc>Marta, fotógrafa, regresa a Cornellà tras ser despedida de Shame, un magazine de Barcelona. Ahora debe volver a la vida que pensaba haber dejado atrás Ana Fernández,Andreas Muñoz Blázquez,Ángela Cervantes,Carolina Yuste,Cristina Plazas,Elisabet Casanovas Torruella,Frank Feys,José Mota,Louise Good,Mario Zorrilla,Vicky Luengo.</desc>
-		<icon src="https://img2.rtve.es/v/6982152/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261011211400 +0000" stop="20261011230700 +0000">
-		<title>Día Internacional de la Niña - Chinas</title>
-		<desc>“Chinas” es la historia de Lucía, Xiang y Claudia, tres chicas de origen chino que viven en Madrid pero con realidades completamente opuestas. Daniela Shiman Yang,Xinyi Ye,Ella Qiu,Pablo Molinero,Leonor Watling,Carolina Yuste.</desc>
-		<icon src="https://img2.rtve.es/v/16887669/vertical/?h=400" />
-	</programme>
 	<programme channel="RTVE_SomosCine.TV" start="20261011230700 +0000" stop="20261012004800 +0000">
 		<title>Día Internacional de la Niña - Las niñas</title>
 		<desc>Celia, una niña de 11 años, estudia en un colegio de monjas de Zaragoza. Brisa, una nueva compañera, la empuja a una nueva etapa: la adolescencia. Ainara Nieto,Andrea Fandos,Carlota Gurpegui,Daniel García,Elisa Martínez,Francesca Piñón,Jesusa Andany,Julia Sierra,Natalia de Molina,Zoe Arnao.</desc>
@@ -240,212 +180,80 @@
 		<desc>Un arquitecto jubilado acepta que un inmigrante búlgaro duerma en su sofá durante un tiempo. Es un sin techo, pero es un número 1 jugando al bridge y al ajedrez. Alexandra Jiménez,Ivan Barnev,Karra Elejalde,Sue Flack.</desc>
 		<icon src="https://img2.rtve.es/v/16511082/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261010222400 +0000" stop="20261010231400 +0000">
-		<title>Cocina al punto con Peña y Tamara - El longuerón de Ayamonte</title>
-		<desc>En el programa de hoy Peña visita Ayamonte, en Huelva, donde se sumergirá en el mar para pescar el famoso longuerón. También, el chef y Tamara cocinan hoy estas dos recetas: Fideuá de longuerón, chopitos y gambas y Tarta rústica de melocotón. Invitado: el dúo Camela. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5640595/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261013221600 +0000" stop="20261013235200 +0000">
+		<title>Drama - Matria</title>
+		<desc>Ramona vive en un pueblo de Galicia sumida en un contexto laboral y personal tenso e impredecible. Isabel Naveira,María Vázquez,Santi Prego,Susana Sampedro.</desc>
+		<icon src="https://img2.rtve.es/v/16430035/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261010231400 +0000" stop="20261010234500 +0000">
-		<title>Torres en la cocina - San Jacobos brócoli. Tarta de manzana</title>
-		<desc>San Jacobos de brócoli. Tarta de manzana. La cantante malagueña Nuria Fergó ayuda a elaborar unos San Jacobos hechos de brócoli, muy sabrosos pero al mismo tiempo muy ligeros.</desc>
-		<icon src="https://img2.rtve.es/v/4724313/vertical/?h=400" />
-		<category>CULTURE</category>
+	<programme channel="RTVE_SomosCine.TV" start="20261013235200 +0000" stop="20261014011700 +0000">
+		<title>Drama - Jean François y el sentido de la vida</title>
+		<desc>Francesc, un niño solitario de trece años, descubre en la escuela el libro El mito de Sísifo del filósofo Albert Camus por el que queda fascinado. A partir de este momento decide convertirse en existencialista, se sube el cuello de la chaqueta y se hace llamar Jean-François. Su nuevo objetivo será ir a París a encontrar a Camus. Lluna, una adolescente que vive el presente, le acompañará en su aventura con una única condición: parar por el camino para reencontrarse con el chico francés con el que tuvo una historia el verano pasado. Juntos emprenden un viaje para, con Camus o sin él, descubrir cuál es el sentido de la vida. Contenido disponible en España hasta el 5 de febrero de 2030. Adeline Flaun,Ágata Roca,Anna Roca,Chap Rodriguez Rossel,Clàudia Pons,Claudia Vega,Eli Iranzo,Enric Ases,Eudald Font,Matthieu Duret,Max Megias,Pau Durá,Pepo Blasco,Théo Cholbi,Xavi Sáez.</desc>
+		<icon src="https://img2.rtve.es/v/5758962/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261010234500 +0000" stop="20261011001600 +0000">
-		<title>Torres en la cocina - Ensalada de cigalas. Mejillones</title>
-		<desc>Ensalada de cigalas. Mejillones con cachelos. Hoy desde Ogrove paraíso de mariscos y otros productos excelentes, Javier y Sergio preparan una ensalada de cigalas con algas de primero, y almejas y mejillones acompañados de cachelos o patatas gallegas. Les acompaña David Arango y una mariscadora que hablará de su profesión.</desc>
-		<icon src="https://img2.rtve.es/v/4787326/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014011700 +0000" stop="20261014040000 +0000">
+		<title>Drama - Vasil</title>
+		<desc>Un arquitecto jubilado acepta que un inmigrante búlgaro duerma en su sofá durante un tiempo. Es un sin techo, pero es un número 1 jugando al bridge y al ajedrez. Alexandra Jiménez,Ivan Barnev,Karra Elejalde,Sue Flack.</desc>
+		<icon src="https://img2.rtve.es/v/16511082/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011001600 +0000" stop="20261011004800 +0000">
-		<title>Torres en la cocina - Universo carne</title>
-		<desc>Los hermanos Torres ofrecen las recetas de dos platos de carne: codillo de cerdo al vino blanco y picaña con chimichurri a la brasa.</desc>
-		<icon src="https://img2.rtve.es/v/3409693/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014040000 +0000" stop="20261014053300 +0000">
+		<title>Thriller - Feedback</title>
+		<desc>Jarvis Dolan, conduce un exitoso programa. Dos enmascarados entran a la fuerza en el programa. La emisión debe continuar y que nadie sepa qué pasa. Alana Boden,Alexis Rodney,Anthony Head,Eddie Marsan,Garrett Wall,Ivana Baquero,Lis Torrón,Nacho Aldeguer,Oliver Coopersmith,Paul Anderson,Richard Brake,Stephen Hughes.</desc>
+		<icon src="https://img2.rtve.es/v/5917972/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011004800 +0000" stop="20261011011900 +0000">
-		<title>Torres en la Cocina - Listos para llevar</title>
-		<desc>Los Torres nos ofrecen dos ideas muy prácticas de platos para llevar: una ensalada fría de pasta orzo con tomate seco, aceitunas y bonito y una tartaleta de puerros y salmón.</desc>
-		<icon src="https://img2.rtve.es/v/3712820/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014053300 +0000" stop="20261014070500 +0000">
+		<title>Thriller - La estrategia del pequinés</title>
+		<desc>El Rubio dejó de delinquir hace años, pero la enfermedad de su mujer le hace replanteárselo cuando le proponen atracar al testaferro de sus jefes. Alejandro Almeida,Antonio Báez,Chicho Castillo,Enrique Alcides,Gonzalo Hernández,Ismael Fritschi,John Dickson,Jorge Bosch,Kira Miró,Lorenza Machín,Miguel Angel Maciel,Miriam Faura,Pep Jové,Ruth González,Víctor Formoso.</desc>
+		<icon src="https://img2.rtve.es/v/5837048/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011011900 +0000" stop="20261011015000 +0000">
-		<title>Torres en la cocina - Ensalada de endibias costillas cabrito</title>
-		<desc>Ensalada de endibias con costillas de cabrito y cake d limón. Hoy una ensalada de endibias con costillita de cabrito y para terminar un postre ligero y cítrico, muy indicado para esta época del año, un cake de limón.</desc>
-		<icon src="https://img2.rtve.es/v/4065144/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014070500 +0000" stop="20261014084400 +0000">
+		<title>Thriller - Llegaron de noche</title>
+		<desc>El testimonio real de Lucía, única testigo del crimen de los jesuitas en El Salvador. Ángel Bonanni,Ben Temple,Carmelo Gómez,Carolina Román,Christian Esquivel,Ernesto Collado,Gerald Filmore,Harlys Becerra,Juan Carlos Martínez Antuña,JuanA Acosta,Julio Pach,Karra Elejalde.</desc>
+		<icon src="https://img2.rtve.es/v/16349776/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011015000 +0000" stop="20261011022200 +0000">
-		<title>Torres en la cocina - Especial chocolate</title>
-		<desc>Hoy tres platos con chocolate: cuencos de chocolate con frutos rojos y nata; mousse de chocolate y vino tinto.</desc>
-		<icon src="https://img2.rtve.es/v/4547878/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014084400 +0000" stop="20261014102500 +0000">
+		<title>Thriller - Crónica sentimental en rojo</title>
+		<desc>Una muchacha es encontrada muerta y con un pecho amputado en la playa de San Salvador. El pecho aparece, después, sobre la mesa de trabajo de la juez Olvido, como si alguien quisiera relacionar el hecho con la fabulosa herencia de Don Carlos Bassagoda, de la que la señora juez es albacea. Contenido disponible hasta el 14 de noviembre de 2037. Assumpta Serna,Fabiá Mata,Hugo Blanco,Jordi Serrat,José Luis López Vázquez,José María Blanco,Lorenzo Santamaría.</desc>
+		<icon src="https://img2.rtve.es/v/4477218/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011022200 +0000" stop="20261011025300 +0000">
-		<title>A pedir de boca - Frutas tropicales. Canarias</title>
-		<desc>Frutas tropicales de Canarias.</desc>
-		<icon src="https://img2.rtve.es/v/675883/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014102500 +0000" stop="20261014115700 +0000">
+		<title>Thriller - La estrategia del pequinés</title>
+		<desc>El Rubio dejó de delinquir hace años, pero la enfermedad de su mujer le hace replanteárselo cuando le proponen atracar al testaferro de sus jefes. Alejandro Almeida,Antonio Báez,Chicho Castillo,Enrique Alcides,Gonzalo Hernández,Ismael Fritschi,John Dickson,Jorge Bosch,Kira Miró,Lorenza Machín,Miguel Angel Maciel,Miriam Faura,Pep Jové,Ruth González,Víctor Formoso.</desc>
+		<icon src="https://img2.rtve.es/v/5837048/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011025300 +0000" stop="20261011032200 +0000">
-		<title>A pedir de boca - Aceite de oliva DO. Baena</title>
-		<desc>Aceite de oliva virgen de Baena.</desc>
-		<icon src="https://img2.rtve.es/v/681524/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014115700 +0000" stop="20261014133600 +0000">
+		<title>Thriller - Llegaron de noche</title>
+		<desc>El testimonio real de Lucía, única testigo del crimen de los jesuitas en El Salvador. Ángel Bonanni,Ben Temple,Carmelo Gómez,Carolina Román,Christian Esquivel,Ernesto Collado,Gerald Filmore,Harlys Becerra,Juan Carlos Martínez Antuña,JuanA Acosta,Julio Pach,Karra Elejalde.</desc>
+		<icon src="https://img2.rtve.es/v/16349776/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011032200 +0000" stop="20261011040000 +0000">
-		<title>A pedir de boca - Jamón de Huelva</title>
-		<desc>Documental sobre el jamón de Huelva con denominación de origen, características del cerdo ibérico y del ecosistema adecuado para su crianza, requisitos para que el jamón tenga la denominación de origen de Huelva, la relación entre la calidad del jamón y la alimentación del cerdo, fases de elaboración del jamón ibérico: curación, secado, maduración y envejecimiento; las diferencias en sabor, textura y color entre el jamón ibérico de bellota y el de pienso y forma de cortar el jamón para su degustación. Histórico de emisiones: -01/04/1998 -29/04/2008 -09/09/2011.</desc>
-		<icon src="https://img2.rtve.es/v/56832/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014133600 +0000" stop="20261014151700 +0000">
+		<title>Thriller - Crónica sentimental en rojo</title>
+		<desc>Una muchacha es encontrada muerta y con un pecho amputado en la playa de San Salvador. El pecho aparece, después, sobre la mesa de trabajo de la juez Olvido, como si alguien quisiera relacionar el hecho con la fabulosa herencia de Don Carlos Bassagoda, de la que la señora juez es albacea. Contenido disponible hasta el 14 de noviembre de 2037. Assumpta Serna,Fabiá Mata,Hugo Blanco,Jordi Serrat,José Luis López Vázquez,José María Blanco,Lorenzo Santamaría.</desc>
+		<icon src="https://img2.rtve.es/v/4477218/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011040000 +0000" stop="20261011042800 +0000">
-		<title>El señor de los bosques - Santa María de la Alameda (Madrid)</title>
-		<desc>La nieve protagoniza este paseo por Santa María de la Alameda junto a Vicente Sevilla y el actor Ramón Langa. Encontrarán varias setas comestibles, entre ellas una llanega negra, típica de las primeras nevadas y conocerán a un artesano que construye vajilla con elementos del bosque. Javier Peña propone una receta casera para combatir el frío.</desc>
-		<icon src="https://img2.rtve.es/v/5552070/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014151700 +0000" stop="20261014165000 +0000">
+		<title>Thriller - Feedback</title>
+		<desc>Jarvis Dolan, conduce un exitoso programa. Dos enmascarados entran a la fuerza en el programa. La emisión debe continuar y que nadie sepa qué pasa. Alana Boden,Alexis Rodney,Anthony Head,Eddie Marsan,Garrett Wall,Ivana Baquero,Lis Torrón,Nacho Aldeguer,Oliver Coopersmith,Paul Anderson,Richard Brake,Stephen Hughes.</desc>
+		<icon src="https://img2.rtve.es/v/5917972/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011042800 +0000" stop="20261011045700 +0000">
-		<title>El señor de los bosques - Dos Grobos</title>
-		<desc>El bosque Dos Grobos es un laberinto de rocas cubiertas de musgo, además de robles, avellanos, helechos y una gran variedad de aromáticas setas. La actriz gallega Marta Larralde será la encargada de acompañar a Vicente Sevilla y disfrutar de las fragancias a almendras amargas o anís.</desc>
-		<icon src="https://img2.rtve.es/v/5763986/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014165000 +0000" stop="20261014182900 +0000">
+		<title>Thriller - Llegaron de noche</title>
+		<desc>El testimonio real de Lucía, única testigo del crimen de los jesuitas en El Salvador. Ángel Bonanni,Ben Temple,Carmelo Gómez,Carolina Román,Christian Esquivel,Ernesto Collado,Gerald Filmore,Harlys Becerra,Juan Carlos Martínez Antuña,JuanA Acosta,Julio Pach,Karra Elejalde.</desc>
+		<icon src="https://img2.rtve.es/v/16349776/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011045700 +0000" stop="20261011052500 +0000">
-		<title>El señor de los bosques - Mirador dels Orris</title>
-		<desc>Situado a 1. 887 metros de altitud, el Mirador dels Orris en la provincia de Barcelona es el espectacular enclave de este capítulo, donde paseamos junto a Iván Massagué, el protagonista de la película "El Hoyo". Vicente Sevilla nos habla de setas comestibles como el níscalo y el rebozuelo.</desc>
-		<icon src="https://img2.rtve.es/v/5770944/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014182900 +0000" stop="20261014201000 +0000">
+		<title>Thriller - Crónica sentimental en rojo</title>
+		<desc>Una muchacha es encontrada muerta y con un pecho amputado en la playa de San Salvador. El pecho aparece, después, sobre la mesa de trabajo de la juez Olvido, como si alguien quisiera relacionar el hecho con la fabulosa herencia de Don Carlos Bassagoda, de la que la señora juez es albacea. Contenido disponible hasta el 14 de noviembre de 2037. Assumpta Serna,Fabiá Mata,Hugo Blanco,Jordi Serrat,José Luis López Vázquez,José María Blanco,Lorenzo Santamaría.</desc>
+		<icon src="https://img2.rtve.es/v/4477218/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011052500 +0000" stop="20261011055400 +0000">
-		<title>El Señor de los bosques - Mirador de la Forestal</title>
-		<desc>El actor Fernando Tejero será el acompañante de Vicente Sevilla a través de los jóvenes pinos del Mirador de la Forestal, en la provincia de Segovia.</desc>
-		<icon src="https://img2.rtve.es/v/5778032/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014201000 +0000" stop="20261014214300 +0000">
+		<title>Thriller - Feedback</title>
+		<desc>Jarvis Dolan, conduce un exitoso programa. Dos enmascarados entran a la fuerza en el programa. La emisión debe continuar y que nadie sepa qué pasa. Alana Boden,Alexis Rodney,Anthony Head,Eddie Marsan,Garrett Wall,Ivana Baquero,Lis Torrón,Nacho Aldeguer,Oliver Coopersmith,Paul Anderson,Richard Brake,Stephen Hughes.</desc>
+		<icon src="https://img2.rtve.es/v/5917972/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011055400 +0000" stop="20261011062300 +0000">
-		<title>El Señor de los bosques - Hayedo de Urbasa</title>
-		<desc>El Hayedo de Urbasa, en Navarra, es un laberinto de hayas y formaciones rocosas cubiertas de musgo. Andrés Salado, director de orquesta y jurado de Prodigios, será el atento acompañante de Vicente Sevilla por esta ruta, donde conoceremos un método para saber la edad de los árboles sin talarlos.</desc>
-		<icon src="https://img2.rtve.es/v/5785690/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011062300 +0000" stop="20261011065100 +0000">
-		<title>El señor de los bosques - Braña de las Cadenas</title>
-		<desc>Para conocer la Braña de las Cadenas, en la comunidad de Asturias, Vicente Sevilla cuenta con una olímpica invitada: la ex saltadora de altura Ruth Beitia. La mejor atleta española de todos los tiempos y el micólogo hablan de osos con dos miembros de la Fundación Oso de Asturias y encuentran setas.</desc>
-		<icon src="https://img2.rtve.es/v/5792452/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011065100 +0000" stop="20261011074200 +0000">
-		<title>Cocina al punto con Peña y Tamara - Almejas y berberechos</title>
-		<desc>Peña visita la asociación de mujeres mariscadoras de Cambados, en Pontevedra, y pasa una jornada de trabajo con ellas para ver el esfuerzo que hay tras la recolección de las almejas y los berberechos. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5645765/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011074200 +0000" stop="20261011083300 +0000">
-		<title>Cocina al punto con Peña y Tamara - Frutas tropicales</title>
-		<desc>En el programa de hoy, Peña visita Las Palmas de Gran Canaria para descubrir las frutas tropicales que se cultivan en la isla gracias a su microclima. También, el chef y Tamara cocinan: Rape alangostado con crema de mango y Ropa vieja canaria. Invitado: el chef canario Omar Páez. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5672345/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011083300 +0000" stop="20261011092500 +0000">
-		<title>Cocna al punto con Peña y Tamara - Bonito del Norte</title>
-		<desc>Hoy, el chef Peña, nos enseña desde Santander todos los secretos del bonito del norte. También en el programa, Peña y Tamara cocinan estas dos recetas: Mosaico de bonito macerado y Ternera asada a la cerveza negra con nabo encurtido. Invitado: el chef cántabro Floren Bueyes. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5648865/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011092500 +0000" stop="20261011101500 +0000">
-		<title>Cocina al punto con Peña y Tamara - Solomillo Wellington</title>
-		<desc>Hoy, en Cocina al Punto, Peña y Tamara reciben la visita de la cantautora malagueña María Peláe para cocinar un Gazpachuelo con chirivía. Además, el chef nos deleita con otras dos recetas: Solomillo Wellington y unos divertidos Cake Pops. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5677384/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011101500 +0000" stop="20261011110600 +0000">
-		<title>Cocina al punto con Peña y Tamara - Pollo asado en calabaza</title>
-		<desc>Hoy en Cocina al Punto, Peña y Tamara cocinan tres recetas espectaculares: Pollo tomatero en calabaza, Ceviche de calamar y maracuyá y Tortitas soufflé. También reciben como invitada a la periodista y psicóloga Irene Villa. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5683895/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011110600 +0000" stop="20261011113700 +0000">
-		<title>Torres en la cocina - Cocina a la brasa</title>
-		<desc>Hoy cocinamos a la parrilla un rodaballo con refrito de ajos, un secreto ibérico al aroma de jengibre y cítricos y una brocheta de frutas caramelizada.</desc>
-		<icon src="https://img2.rtve.es/v/3620134/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011113700 +0000" stop="20261011120800 +0000">
-		<title>Torres en la cocina - Zarzuela y galletas de jengibre</title>
-		<desc>Hoy Javier y Sergio tienen la visita de Mariana. Con ella preparan una completa zarzuela de pescado y unas tradicionales galletas de jengibre y de propina unos caramelos de jengibre.</desc>
-		<icon src="https://img2.rtve.es/v/4393035/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011120800 +0000" stop="20261011124000 +0000">
-		<title>Torres en la cocina - Magret de pato y roscos de vino</title>
-		<desc>Los Torres cocinan con vino dos platos: un magret de pato cocinado a la sal con vino y unas rosquillas con vino tinto. Además, Sergio y Javier asumirán un reto: cortar una botella de vidrio limpiamente por la mitad sólo con un cordel.</desc>
-		<icon src="https://img2.rtve.es/v/4649274/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011124000 +0000" stop="20261011131100 +0000">
-		<title>Torres en la cocina - Bocaditos de lentejas y pizza de pera</title>
-		<desc>Bocaditos de lentejas y pizza de pera y quesos.</desc>
-		<icon src="https://img2.rtve.es/v/4883288/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011131100 +0000" stop="20261011134300 +0000">
-		<title>Torres en la cocina - Todo por la pasta</title>
-		<desc>Los Torres nos enseñan dos platos con pasta: macarrones gigantes rellenos sobre cama de espárragos y tagliatelle negros con pesto de eneldo.</desc>
-		<icon src="https://img2.rtve.es/v/3560702/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011134300 +0000" stop="20261011141400 +0000">
-		<title>Torres en la cocina - Cocina de temporada: Espárragos</title>
-		<desc>Hoy tres platos con espárragos: espárragos con mayonesa de anchoas y lima, crema de espárragos en conserva y una merluza con pill pil de espárragos.</desc>
-		<icon src="https://img2.rtve.es/v/3604857/vertical/?h=400" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011141400 +0000" stop="20261011144400 +0000">
-		<title>A pedir de boca - Setas de otoño</title>
-		<desc>En los bosques y praderas de Asturias encontramos diversas variedades de setas. En los montes y pinares de León recogemos las muy preciadas setas de otoño que degustaremos en un conocido restaurante de la ciudad.</desc>
-		<icon src="https://img2.rtve.es/v/1191545/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011144400 +0000" stop="20261011151100 +0000">
-		<title>A pedir de boca - Mazapán de Toledo</title>
-		<desc>Documental sobre el mazapán, dulce típico de Toledo, su origen, elaboración de sus diferentes variedades: figuritas de mazapán, delicias de mazapán, caprichos de mazapán, anguilas de mazapán y barras de mazapán, los secretos del mazapán y la degustación del mismo. Histórico de emisiones: -22/04/1998 -14/02/2010 -06/09/2011.</desc>
-		<icon src="https://img2.rtve.es/v/693202/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011151100 +0000" stop="20261011153900 +0000">
-		<title>A pedir de boca - Jamón DO. Dehesa de Extremadura</title>
-		<desc>Jamón de la Dehesa de Extremadura.</desc>
-		<icon src="https://img2.rtve.es/v/700536/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011153900 +0000" stop="20261011160700 +0000">
-		<title>A pedir de boca - Frutas tropicales Málaga</title>
-		<desc>Frutos tropicales de Málaga.</desc>
-		<icon src="https://img2.rtve.es/v/706987/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011160700 +0000" stop="20261011163500 +0000">
-		<title>El señor de los bosques - Santa María de la Alameda (Madrid)</title>
-		<desc>La nieve protagoniza este paseo por Santa María de la Alameda junto a Vicente Sevilla y el actor Ramón Langa. Encontrarán varias setas comestibles, entre ellas una llanega negra, típica de las primeras nevadas y conocerán a un artesano que construye vajilla con elementos del bosque. Javier Peña propone una receta casera para combatir el frío.</desc>
-		<icon src="https://img2.rtve.es/v/5552070/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011163500 +0000" stop="20261011170400 +0000">
-		<title>El señor de los bosques - Dos Grobos</title>
-		<desc>El bosque Dos Grobos es un laberinto de rocas cubiertas de musgo, además de robles, avellanos, helechos y una gran variedad de aromáticas setas. La actriz gallega Marta Larralde será la encargada de acompañar a Vicente Sevilla y disfrutar de las fragancias a almendras amargas o anís.</desc>
-		<icon src="https://img2.rtve.es/v/5763986/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011170400 +0000" stop="20261011173300 +0000">
-		<title>El señor de los bosques - Mirador dels Orris</title>
-		<desc>Situado a 1. 887 metros de altitud, el Mirador dels Orris en la provincia de Barcelona es el espectacular enclave de este capítulo, donde paseamos junto a Iván Massagué, el protagonista de la película "El Hoyo". Vicente Sevilla nos habla de setas comestibles como el níscalo y el rebozuelo.</desc>
-		<icon src="https://img2.rtve.es/v/5770944/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011173300 +0000" stop="20261011180100 +0000">
-		<title>El Señor de los bosques - Mirador de la Forestal</title>
-		<desc>El actor Fernando Tejero será el acompañante de Vicente Sevilla a través de los jóvenes pinos del Mirador de la Forestal, en la provincia de Segovia.</desc>
-		<icon src="https://img2.rtve.es/v/5778032/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011180100 +0000" stop="20261011183000 +0000">
-		<title>El Señor de los bosques - Hayedo de Urbasa</title>
-		<desc>El Hayedo de Urbasa, en Navarra, es un laberinto de hayas y formaciones rocosas cubiertas de musgo. Andrés Salado, director de orquesta y jurado de Prodigios, será el atento acompañante de Vicente Sevilla por esta ruta, donde conoceremos un método para saber la edad de los árboles sin talarlos.</desc>
-		<icon src="https://img2.rtve.es/v/5785690/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011183000 +0000" stop="20261011185900 +0000">
-		<title>El señor de los bosques - Braña de las Cadenas</title>
-		<desc>Para conocer la Braña de las Cadenas, en la comunidad de Asturias, Vicente Sevilla cuenta con una olímpica invitada: la ex saltadora de altura Ruth Beitia. La mejor atleta española de todos los tiempos y el micólogo hablan de osos con dos miembros de la Fundación Oso de Asturias y encuentran setas.</desc>
-		<icon src="https://img2.rtve.es/v/5792452/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011185900 +0000" stop="20261011194900 +0000">
-		<title>Cocina al punto con Peña y Tamara - Almejas y berberechos</title>
-		<desc>Peña visita la asociación de mujeres mariscadoras de Cambados, en Pontevedra, y pasa una jornada de trabajo con ellas para ver el esfuerzo que hay tras la recolección de las almejas y los berberechos. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5645765/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011194900 +0000" stop="20261011204000 +0000">
-		<title>Cocina al punto con Peña y Tamara - Frutas tropicales</title>
-		<desc>En el programa de hoy, Peña visita Las Palmas de Gran Canaria para descubrir las frutas tropicales que se cultivan en la isla gracias a su microclima. También, el chef y Tamara cocinan: Rape alangostado con crema de mango y Ropa vieja canaria. Invitado: el chef canario Omar Páez. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5672345/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011204000 +0000" stop="20261011213200 +0000">
-		<title>Cocna al punto con Peña y Tamara - Bonito del Norte</title>
-		<desc>Hoy, el chef Peña, nos enseña desde Santander todos los secretos del bonito del norte. También en el programa, Peña y Tamara cocinan estas dos recetas: Mosaico de bonito macerado y Ternera asada a la cerveza negra con nabo encurtido. Invitado: el chef cántabro Floren Bueyes. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5648865/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261011213200 +0000" stop="20261011222300 +0000">
-		<title>Cocina al punto con Peña y Tamara - Solomillo Wellington</title>
-		<desc>Hoy, en Cocina al Punto, Peña y Tamara reciben la visita de la cantautora malagueña María Peláe para cocinar un Gazpachuelo con chirivía. Además, el chef nos deleita con otras dos recetas: Solomillo Wellington y unos divertidos Cake Pops. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
-		<icon src="https://img2.rtve.es/v/5677384/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261014214300 +0000" stop="20261014231500 +0000">
+		<title>Thriller - La estrategia del pequinés</title>
+		<desc>El Rubio dejó de delinquir hace años, pero la enfermedad de su mujer le hace replanteárselo cuando le proponen atracar al testaferro de sus jefes. Alejandro Almeida,Antonio Báez,Chicho Castillo,Enrique Alcides,Gonzalo Hernández,Ismael Fritschi,John Dickson,Jorge Bosch,Kira Miró,Lorenza Machín,Miguel Angel Maciel,Miriam Faura,Pep Jové,Ruth González,Víctor Formoso.</desc>
+		<icon src="https://img2.rtve.es/v/5837048/vertical/?h=400" />
 	</programme>
 	<programme channel="RTVE_Cocina.TV" start="20261011222300 +0000" stop="20261011231300 +0000">
 		<title>Cocina al punto con Peña y Tamara - Pollo asado en calabaza</title>
@@ -853,77 +661,212 @@
 		<desc>En el programa de hoy, Peña se desplaza a Mallorca para conocer el universo del famoso youtuber Miquel Montoro y cocinar sus famosas "pilotes". Además, el chef y Tamara deleitarán a la invitada, la chef de Santceloni Montse Abellá, con estas dos recetas: Pilotes y Lasaña de verduras. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
 		<icon src="https://img2.rtve.es/v/5664922/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011000000 +0000" stop="20261011003000 +0000">
-		<title>LO VARIAT: ADAM TOMÀS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261013221500 +0000" stop="20261013230500 +0000">
+		<title>Cocina al punto con Peña y Tamara - Las tapas</title>
+		<desc>En el programa de hoy, nuestro chef nos enseña de primera mano el arte de tapear por el centro de Granada. También cocina con Tamara dos deliciosas recetas de dos clásicos Croquetas de jamón y Empanadillas de huevo y pulpo. Invitada: la chef Pepa Muñoz. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5636452/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011003000 +0000" stop="20261011010000 +0000">
-		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261013230500 +0000" stop="20261013233700 +0000">
+		<title>Torres en la cocina - Hamburguesa Portobello y ternera</title>
+		<desc>Hamburguesa portobello y ternera con pan rápido. Hoy una hamburguesa muy especial, hecha de un producto delicado y sabroso como el portobello, una maxi seta que servirá de carne y además un bocadillo, de pan propio, de ternera con encurtidos caseros.</desc>
+		<icon src="https://img2.rtve.es/v/4860940/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011010000 +0000" stop="20261011013000 +0000">
-		<title>TORNA-LA A TOCAR, SAM</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c" />
+	<programme channel="RTVE_Cocina.TV" start="20261013233700 +0000" stop="20261014000800 +0000">
+		<title>Torres en la cocina - Menú bueno, bonito, barato</title>
+		<desc>Los hermanos Torres cocinarán una crema de aguacates con langostinos y unos muslos de pavo al cava, un menú económico, sabroso y divertido.</desc>
+		<icon src="https://img2.rtve.es/v/3625919/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011013000 +0000" stop="20261011020000 +0000">
-		<title>MÉS BÀSQUET</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>SPORTS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261014000800 +0000" stop="20261014003900 +0000">
+		<title>Torres en la cocina - Para triunfar con los invitados</title>
+		<desc>La primera propuesta para triunfar será un arroz seco de costilla y pulpo, una apuesta segura casi para cualquier tipo de comensal. La segunda será una esplendorosa y estética tarta de queso y frutos rojos.</desc>
+		<icon src="https://img2.rtve.es/v/3806265/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011020000 +0000" stop="20261011023000 +0000">
-		<title>VEUS QUE INSPIREN</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2a14cf7c1f234f0eb6c165f3399bd362/Images/0a6de9ab924c427d965a0069deaafbda" />
+	<programme channel="RTVE_Cocina.TV" start="20261014003900 +0000" stop="20261014011100 +0000">
+		<title>Torres en la cocina - Bogavante y pintada rellena</title>
+		<desc>Hoy una comida muy apropiada para una celebración: un bogavante con una vinagreta Torres y una pintada rellena con pasas, muy sencilla pero deliciosa.</desc>
+		<icon src="https://img2.rtve.es/v/4385070/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011023000 +0000" stop="20261011030000 +0000">
-		<title>CIUTADELLA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
+	<programme channel="RTVE_Cocina.TV" start="20261014011100 +0000" stop="20261014014200 +0000">
+		<title>Torres en la cocina - Pescados blancos</title>
+		<desc>Hoy los Torres apuestan por tres pescados blancos muy importantes con tres sanas recetas: lubina con su piel, sargo en papillote y cebiche de corvina.</desc>
+		<icon src="https://img2.rtve.es/v/3457158/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011030000 +0000" stop="20261011033000 +0000">
-		<title>GAUDEIX LA FESTA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
+	<programme channel="RTVE_Cocina.TV" start="20261014014200 +0000" stop="20261014021400 +0000">
+		<title>Torres en la cocina - Tataki de atún y cocas dulces</title>
+		<desc>San Juan se celebra en muchos lugares de España donde se elaboran deliciosos postres. Los Torres y X. Barriga enseñan cocinan dos cocas de San Juan: de crema y de chicharrones. Además un delicioso tataki de atún en dos formatos.</desc>
+		<icon src="https://img2.rtve.es/v/4077438/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011033000 +0000" stop="20261011040000 +0000">
-		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261014021400 +0000" stop="20261014024200 +0000">
+		<title>A pedir de boca - Frutas tropicales de Granada</title>
+		<desc>Un viaje agrícola y gastronómico por la provincia de Granada para descubrir la gran variedad y calidad de las frutas tropicales que se cultivan en la zona, gracias a la situación geográfica que propicia un microclima subtropical. Descubriremos también las propiedades nutritivas de estos frutos y su consumo, tanto al natural como combinados con otros alimentos. Histórico de emisiones: -21/12/2000 -18/04/2010 -26/08/2011.</desc>
+		<icon src="https://img2.rtve.es/v/748012/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011040000 +0000" stop="20261011080000 +0000">
-		<title>GASTROCAÇA 2026 ROQUETES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261014024200 +0000" stop="20261014031100 +0000">
+		<title>A pedir de boca - Alimentos de Murcia</title>
+		<desc>Un viaje por la Comunidad Autónoma de Murcia para descubrir la calidad de sus productos de la huerta, como el arroz, tomate, pimiento, melones, etc., así como su proceso industrial. Algunos restauradores ofrecen un espectáculo gastronómico basado en estos productos. Histórico de emisiones: -18/08/2000 -02/05/2010 -25/08/2011.</desc>
+		<icon src="https://img2.rtve.es/v/759733/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011080000 +0000" stop="20261011090000 +0000">
-		<title>ANIMALS TORTOSINS: JACINT ESPUNY</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261014031100 +0000" stop="20261014040000 +0000">
+		<title>A pedir de boca - Sobrasada y ensaimada de Mallorca</title>
+		<desc>Un viaje gastronómico por la isla de Mallorca para conocer la historia y los controles que garantizan el origen y la calidad de sus embutidos, en especial la sobrasada, y la repostería, sobre todo la típica ensaimada. Se explican procesos de elaboración, parámetros que se valoran en la cata, formas de degustación y su utilización culinaria. Histórico de emisiones: -01/09/2000 -08/11/2009 -24/08/2011.</desc>
+		<icon src="https://img2.rtve.es/v/624323/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011090000 +0000" stop="20261011103000 +0000">
-		<title>MISSA DE MONTSERRAT</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
+	<programme channel="RTVE_Cocina.TV" start="20261014040000 +0000" stop="20261014042800 +0000">
+		<title>El señor de los bosques - Selva de Oza (Huesca)</title>
+		<desc>El actor José Manuel Seda se adentra junto a Vicente Sevilla en la parte más occidental del Pirineo Aragonés, donde se encuentra la Selva de Oza.</desc>
+		<icon src="https://img2.rtve.es/v/6348123/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011103000 +0000" stop="20261011110000 +0000">
-		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261014042800 +0000" stop="20261014045700 +0000">
+		<title>El señor de los bosques - Iturrigorri (Guipúzcoa)</title>
+		<desc>Tamara, la famosa cantante sevillana de boleros, es la invitada de Vicente Sevilla en el Parque Natural de Aizkorri-Aratz de la provincia de Guipúzcoa.</desc>
+		<icon src="https://img2.rtve.es/v/6381643/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011110000 +0000" stop="20261011183000 +0000">
-		<title>DIADA CASTELLERA DE SANTA TERESA DEL VENDRELL + EN JOC</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261014045700 +0000" stop="20261014052500 +0000">
+		<title>El señor de los bosques - Valle de hecho</title>
+		<desc>En el Pirineo Aragonés, en la provincia de Huesca, se encuentra el valle de Hecho, un increíble espacio natural.</desc>
+		<icon src="https://img2.rtve.es/v/6380307/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011183000 +0000" stop="20261011190000 +0000">
-		<title>NEX CAP DE SETMANA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
+	<programme channel="RTVE_Cocina.TV" start="20261014052500 +0000" stop="20261014055400 +0000">
+		<title>El señor de los bosques - Piedrasluengas (Palencia)</title>
+		<desc>En las montañas palentinas se encuentra Piedrasluengas, un espectacular hayedo que recorren la actriz y escritora Itziar Castro y Vicente Sevilla.</desc>
+		<icon src="https://img2.rtve.es/v/6390429/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011190000 +0000" stop="20261011210000 +0000">
-		<title>PRESENTACIÓ DE PUBILLES I PREGÓ DE LES FESTES DEL REMEI D'ALCANAR</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261014055400 +0000" stop="20261014062200 +0000">
+		<title>El señor de los bosques - La Parzonería (Guipúzcoa)</title>
+		<desc>El veterano actor Fele Martínez acompaña a Vicente Sevilla a La Parzonería.</desc>
+		<icon src="https://img2.rtve.es/v/6436575/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011210000 +0000" stop="20261011230000 +0000">
-		<title>TORTOSA EBRE - R. BÍTEM</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261014062200 +0000" stop="20261014065100 +0000">
+		<title>El señor de los bosques - La cascada de Mea</title>
+		<desc>En la provincia de Burgos, a 90 kilómetros de su capital, se encuentra el bosque que envuelve la cascada de Mea. En este asombroso lugar de cortados de piedra caliza, caminan juntos el actor sevillano Félix Gómez y Vicente Sevilla.</desc>
+		<icon src="https://img2.rtve.es/v/6452879/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261011230000 +0000" stop="20261012030000 +0000">
-		<title>GASTROCAÇA 2026 ROQUETES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261014065100 +0000" stop="20261014074100 +0000">
+		<title>Cocina al punto con Peña y Tamara - Arroz largo vaporizado</title>
+		<desc>En el programa de hoy, Peña se desplaza hasta Extremadura para descubrir su producción de arroz. El Guadiana ha permitido que "Vegas del Guadiana" sea una zona fértil regada por sus aguas en su camino hacia el Atlántico. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5669921/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014074100 +0000" stop="20261014083100 +0000">
+		<title>Cocina al punto con Peña y Tamara - El caviar de Riofrío</title>
+		<desc>En el programa de hoy, Peña viaja hasta Riofrío en Granada para descubrir los secretos del caviar de esturión de producción nacional. Además, el chef y Tamara cocinan Blini con gambas al ajillo, caviar y carne de esturión y Cucharita de crème fraîche y caviar. Invitada: Marina Castaño. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5644186/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014083100 +0000" stop="20261014092000 +0000">
+		<title>Cocina al punto con Peña y Tamara - El pollo Pita Pinta</title>
+		<desc>Hoy, el chef Peña se desplaza hasta Oviedo para conocer de cerca la única raza de pollo autóctona del Principado de Asturias: el pita pinta. Además, Peña y Tamara cocinan Pitu a la sal con salsa dulce de piparras y Cachopo de salmón. Invitado: el cantante Carlos Right. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5647860/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014092000 +0000" stop="20261014101000 +0000">
+		<title>Cocina al punto con Peña y Tamara - Arroz a la zamorana</title>
+		<desc>En el programa de hoy recibimos la visita de la periodista Alejandra Andrade que vendrá a cocinar junto a Peña y Tamara Pez espada al curry. También cocinan otras dos recetas: Arroz a la zamorana y Chips de Verduras. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5674800/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014101000 +0000" stop="20261014110200 +0000">
+		<title>Cocina al punto - Vieiras con lombarda y manzana</title>
+		<desc>En esta nueva entrega de Cocina al Punto, Peña y Tamara reciben la visita de la actriz y presentadora Rocío Muñoz para cocinar una paella tradicional. Además, el chef nos deleita con otras dos riquísimas recetas: Vieiras con col lombarda y manzana y Sandwich de queso con membrillo. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5680014/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014110200 +0000" stop="20261014113300 +0000">
+		<title>Torres en la cocina - Pan sorpresa y vichyssoise de castañas</title>
+		<desc>Hoy cocina con los Torres la actriz, bailarina y deportista Patricia Montero. La primera receta viene con regalo incluido: se trata de un pan sorpresa, relleno de una completa ensalada y además un huevo poché muy bien acompañado.</desc>
+		<icon src="https://img2.rtve.es/v/4864640/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014113300 +0000" stop="20261014120500 +0000">
+		<title>Torres en la cocina - Bomba de queso y pincho de moruno</title>
+		<desc>Hoy Javier y Sergio hacen un homenaje a los bares y preparan una bomba de patata con queso del casar espectacular y además un pincho moruno muy especial elaborado con atún.</desc>
+		<icon src="https://img2.rtve.es/v/4608775/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014120500 +0000" stop="20261014123600 +0000">
+		<title>Torres en la cocina - Raviolis de buey de mar y tarta cebra</title>
+		<desc>Hoy los Torres y Niña Pastori preparan unos raviolis caseros pero rellenos de una farsa extraordinaria, buey de mar. De postre una tarta cebra, de dos colores acompañada de unas moras llenas de antioxidantes.</desc>
+		<icon src="https://img2.rtve.es/v/4632120/vertical/?h=400" />
+		<category>CULTURE</category>
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014123600 +0000" stop="20261014130800 +0000">
+		<title>Torres en la cocina - Pasta con mejillones y tortilla dulce</title>
+		<desc>Hoy Javier y Sergio cocinan unos mejillones con rape y pasta negra y un postre con aspecto de tortilla de patata que sorprenderá por sus ingredientes.</desc>
+		<icon src="https://img2.rtve.es/v/4199378/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014130800 +0000" stop="20261014133900 +0000">
+		<title>Torres en la cocina - Tartar de brócoli y galletas pistacho</title>
+		<desc>Tartar de brócoli y galletas de pistacho. El actor David Verdaguer será el invitado que ayudará a los Torres en la preparación de un tartar de brócoli y bacalao y unas galletas de pasta filo con pistachos.</desc>
+		<icon src="https://img2.rtve.es/v/4601242/vertical/?h=400" />
+		<category>CULTURE</category>
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014133900 +0000" stop="20261014141100 +0000">
+		<title>Torres en la cocina - Crema de setas. Stroganoff de cerdo</title>
+		<desc>Hoy crema de setas portobello con trompetas de la muerte acompañado de boniato salteado. De segundo, un stroganoff de solomillo de cerdo, al estilo Torres, con setas pie de rata y un acompañamiento de patata asada.</desc>
+		<icon src="https://img2.rtve.es/v/4807467/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014141100 +0000" stop="20261014143900 +0000">
+		<title>A pedir de boca - Jamón denominación origen Guijuelo</title>
+		<desc>A pedir de boca. Empezó el 5-8-2001. Serie documental de 8 capítulos, de 30 minutos de duración, dirigida por Rafael Romero.</desc>
+		<icon src="https://img2.rtve.es/v/779598/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014143900 +0000" stop="20261014150700 +0000">
+		<title>A pedir de boca - Delicias de las tierras leonesas</title>
+		<desc>Delicias de tierras leonesas. Un viaje por la provincia de Leon para descubrir algunos de sus alimentos de calidad mas tipicos. Nos adentramos por los Ancares en la comarca berciana para investigar el origen del singular embutido: el Botillo de El Bierzo. Historia, elaboracion, cocinado y los goces de su degustacion, acompañado de los Vinos con Denominacion de Origen Bierzo. En Astorga, asistimos a la elaboración de la preciada Cecina de Leon. Y nos abandonamos en manos de grandes cocineros que nos procuran placeres gastronómicos insospechados. Histórico de emisiones: - 04/01/2001 - 14/05/2008.</desc>
+		<icon src="https://img2.rtve.es/v/79236/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014150700 +0000" stop="20261014153500 +0000">
+		<title>A pedir de boca - Quesos de Cáceres</title>
+		<desc>Quesos de Cáceres.</desc>
+		<icon src="https://img2.rtve.es/v/643733/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014153500 +0000" stop="20261014160400 +0000">
+		<title>A pedir de boca - Espárragos de Navarra</title>
+		<desc>Espárragos de Navarra.</desc>
+		<icon src="https://img2.rtve.es/v/825945/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014160400 +0000" stop="20261014163200 +0000">
+		<title>El señor de los bosques - Selva de Oza (Huesca)</title>
+		<desc>El actor José Manuel Seda se adentra junto a Vicente Sevilla en la parte más occidental del Pirineo Aragonés, donde se encuentra la Selva de Oza.</desc>
+		<icon src="https://img2.rtve.es/v/6348123/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014163200 +0000" stop="20261014170100 +0000">
+		<title>El señor de los bosques - Iturrigorri (Guipúzcoa)</title>
+		<desc>Tamara, la famosa cantante sevillana de boleros, es la invitada de Vicente Sevilla en el Parque Natural de Aizkorri-Aratz de la provincia de Guipúzcoa.</desc>
+		<icon src="https://img2.rtve.es/v/6381643/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014170100 +0000" stop="20261014172900 +0000">
+		<title>El señor de los bosques - Valle de hecho</title>
+		<desc>En el Pirineo Aragonés, en la provincia de Huesca, se encuentra el valle de Hecho, un increíble espacio natural.</desc>
+		<icon src="https://img2.rtve.es/v/6380307/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014172900 +0000" stop="20261014175800 +0000">
+		<title>El señor de los bosques - Piedrasluengas (Palencia)</title>
+		<desc>En las montañas palentinas se encuentra Piedrasluengas, un espectacular hayedo que recorren la actriz y escritora Itziar Castro y Vicente Sevilla.</desc>
+		<icon src="https://img2.rtve.es/v/6390429/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014175800 +0000" stop="20261014182700 +0000">
+		<title>El señor de los bosques - La Parzonería (Guipúzcoa)</title>
+		<desc>El veterano actor Fele Martínez acompaña a Vicente Sevilla a La Parzonería.</desc>
+		<icon src="https://img2.rtve.es/v/6436575/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014182700 +0000" stop="20261014185500 +0000">
+		<title>El señor de los bosques - La cascada de Mea</title>
+		<desc>En la provincia de Burgos, a 90 kilómetros de su capital, se encuentra el bosque que envuelve la cascada de Mea. En este asombroso lugar de cortados de piedra caliza, caminan juntos el actor sevillano Félix Gómez y Vicente Sevilla.</desc>
+		<icon src="https://img2.rtve.es/v/6452879/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014185500 +0000" stop="20261014194500 +0000">
+		<title>Cocina al punto con Peña y Tamara - Arroz largo vaporizado</title>
+		<desc>En el programa de hoy, Peña se desplaza hasta Extremadura para descubrir su producción de arroz. El Guadiana ha permitido que "Vegas del Guadiana" sea una zona fértil regada por sus aguas en su camino hacia el Atlántico. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5669921/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014194500 +0000" stop="20261014203500 +0000">
+		<title>Cocina al punto con Peña y Tamara - El caviar de Riofrío</title>
+		<desc>En el programa de hoy, Peña viaja hasta Riofrío en Granada para descubrir los secretos del caviar de esturión de producción nacional. Además, el chef y Tamara cocinan Blini con gambas al ajillo, caviar y carne de esturión y Cucharita de crème fraîche y caviar. Invitada: Marina Castaño. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5644186/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014203500 +0000" stop="20261014212500 +0000">
+		<title>Cocina al punto con Peña y Tamara - El pollo Pita Pinta</title>
+		<desc>Hoy, el chef Peña se desplaza hasta Oviedo para conocer de cerca la única raza de pollo autóctona del Principado de Asturias: el pita pinta. Además, Peña y Tamara cocinan Pitu a la sal con salsa dulce de piparras y Cachopo de salmón. Invitado: el cantante Carlos Right. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5647860/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261014212500 +0000" stop="20261014221400 +0000">
+		<title>Cocina al punto con Peña y Tamara - Arroz a la zamorana</title>
+		<desc>En el programa de hoy recibimos la visita de la periodista Alejandra Andrade que vendrá a cocinar junto a Peña y Tamara Pez espada al curry. También cocinan otras dos recetas: Arroz a la zamorana y Chips de Verduras. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5674800/vertical/?h=400" />
 	</programme>
 	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261012030000 +0000" stop="20261012033000 +0000">
 		<title>SPi+TV</title>
@@ -1127,121 +1070,23 @@
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Minut-91--CARRUSSEL-LAXARXA-1064x609px_1760628304943" />
 		<category>CULTURE</category>
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011000000 +0000" stop="20261011010000 +0000">
-		<title>La setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Laura La setmana 2_1742558703086" />
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261013220000 +0000" stop="20261013223000 +0000">
+		<title>SE FA SABER</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011010000 +0000" stop="20261011013000 +0000">
-		<title>Com la nit i el dia. On tour</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261013223000 +0000" stop="20261013230000 +0000">
+		<title>L'EBRE NOTÍCIES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
+		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011013000 +0000" stop="20261011020000 +0000">
-		<title>Saló de Plens</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/salo_1761288900554" />
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261013230000 +0000" stop="20261013233000 +0000">
+		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
+		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011020000 +0000" stop="20261011023000 +0000">
-		<title>Gaudeix la festa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011023000 +0000" stop="20261011030000 +0000">
-		<title>Aventurístic</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011030000 +0000" stop="20261011033000 +0000">
-		<title>Destí 2030</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011033000 +0000" stop="20261011040000 +0000">
-		<title>SPI+TV</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011040000 +0000" stop="20261011050000 +0000">
-		<title>La setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Laura La setmana 2_1742558703086" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011050000 +0000" stop="20261011053000 +0000">
-		<title>In situ</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/in situ_1760635456769" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011053000 +0000" stop="20261011060000 +0000">
-		<title>Com la nit i el dia. On tour</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011060000 +0000" stop="20261011063000 +0000">
-		<title>Saló de Plens</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/salo_1761288900554" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011063000 +0000" stop="20261011070000 +0000">
-		<title>Gaudeix la festa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011070000 +0000" stop="20261011073000 +0000">
-		<title>Aventurístic</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011073000 +0000" stop="20261011080000 +0000">
-		<title>Destí 2030</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011080000 +0000" stop="20261011090000 +0000">
-		<title>La setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Laura La setmana 2_1742558703086" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011090000 +0000" stop="20261011103000 +0000">
-		<title>Missa de Montserrat</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011103000 +0000" stop="20261011110000 +0000">
-		<title>In situ</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/in situ_1760635456769" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011110000 +0000" stop="20261011150000 +0000">
-		<title>Diada castellera de Santa Teresa del Vendrell</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011150000 +0000" stop="20261011183000 +0000">
-		<title>En joc. Edició diumenge</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2b4904102fa54c5891d3fe5ee6354864/Images/0f7c48af1c57417584e4b2166ea5e482" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011183000 +0000" stop="20261011193000 +0000">
-		<title>La setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Laura La setmana 2_1742558703086" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011193000 +0000" stop="20261011200000 +0000">
-		<title>Ciutadella</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011200000 +0000" stop="20261011203000 +0000">
-		<title>Vinum, de la vinya al paladar</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/710d65f34a6743fbb78127c83f98e75a/Images/94e291d8d6c2495dbcf77683f4899c06" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011203000 +0000" stop="20261011210000 +0000">
-		<title>Com la nit i el dia. On tour</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011210000 +0000" stop="20261011213000 +0000">
-		<title>Saló de Plens</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/salo_1761288900554" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011213000 +0000" stop="20261011220000 +0000">
-		<title>In situ</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/in situ_1760635456769" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011220000 +0000" stop="20261011223000 +0000">
-		<title>Gaudeix la festa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011223000 +0000" stop="20261011230000 +0000">
-		<title>Aventurístic</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011230000 +0000" stop="20261011233000 +0000">
-		<title>Destí 2030</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261011233000 +0000" stop="20261012000000 +0000">
-		<title>SPI+TV</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261013233000 +0000" stop="20261014000000 +0000">
+		<title>SE FA SABER</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
 	</programme>
 	<programme channel="Xarxa_TAC12.TV" start="20261012000000 +0000" stop="20261012010000 +0000">
 		<title>La setmana</title>
@@ -1495,109 +1340,18 @@
 		<title>La Post Diada</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA POST DIADA tots sants_1730810615395" />
 	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011000000 +0000" stop="20261011010000 +0000">
-		<title>Com Més Serem (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_CMS_1727361008361" />
+	<programme channel="Xarxa_TAC12.TV" start="20261013220000 +0000" stop="20261013223000 +0000">
+		<title>Notícies 12. Edició vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
+		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011010000 +0000" stop="20261011013000 +0000">
-		<title>Gent de Sabadell (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/GENT DE SABADELL_1784198496476" />
+	<programme channel="Xarxa_TAC12.TV" start="20261013223000 +0000" stop="20261013230000 +0000">
+		<title>Finet i pel mig</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
 	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011013000 +0000" stop="20261011020000 +0000">
-		<title>Va de Moda (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ca940359a8341ba8baedaa4cbb48db1/Images/b5a1b9e97c80458fb99e5075c1b1a4a6" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011020000 +0000" stop="20261011030000 +0000">
-		<title>La Mar De Bé (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA MAR DE BÃ\u0089_1784198328067" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011030000 +0000" stop="20261011033000 +0000">
-		<title>Protagonistes (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/PROTAGONISTES_1788181554584" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011033000 +0000" stop="20261011043000 +0000">
-		<title>Connecta't (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CONNECTA'T_1788181635131" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011043000 +0000" stop="20261011050000 +0000">
-		<title>En Primera Persona (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4118c191b5dc4aea876a0d67a63a46ec/Images/f3b27bc04e6541b39c2046b99bbf7088" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011050000 +0000" stop="20261011060000 +0000">
-		<title>Com Més Serem (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_CMS_1727361008361" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011060000 +0000" stop="20261011070000 +0000">
-		<title>La Mar De Bé (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA MAR DE BÃ\u0089_1784198328067" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011070000 +0000" stop="20261011073000 +0000">
-		<title>Gent de Sabadell (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/GENT DE SABADELL_1784198496476" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011073000 +0000" stop="20261011083000 +0000">
-		<title>L'Arlequinat (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011083000 +0000" stop="20261011090000 +0000">
-		<title>Gaudeix la Festa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011090000 +0000" stop="20261011102000 +0000">
-		<title>Missa de Montserrat</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011102000 +0000" stop="20261011105000 +0000">
-		<title>Sense Filtres (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011105000 +0000" stop="20261011140000 +0000">
-		<title>Diada castellera de Santa Teresa del Vendrell</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011140000 +0000" stop="20261011183000 +0000">
-		<title>En Joc</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/20a3d8b6394e4abf812dd01969bb0aeb" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011183000 +0000" stop="20261011190000 +0000">
-		<title>NEX Cap de Setmana</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011190000 +0000" stop="20261011193000 +0000">
-		<title>Gent de Sabadell (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/GENT DE SABADELL_1784198496476" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011193000 +0000" stop="20261011200000 +0000">
-		<title>Ciutadella</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011200000 +0000" stop="20261011203000 +0000">
-		<title>Vinum, de la vinya al paladar</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011203000 +0000" stop="20261011210000 +0000">
-		<title>En Primera Persona</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011210000 +0000" stop="20261011213000 +0000">
-		<title>Impuls</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011213000 +0000" stop="20261011220000 +0000">
-		<title>Protagonistes (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/PROTAGONISTES_1788181554584" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011220000 +0000" stop="20261011230000 +0000">
-		<title>Connecta't (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CONNECTA'T_1788181635131" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011230000 +0000" stop="20261011233000 +0000">
-		<title>Protagonistes (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/PROTAGONISTES_1788181554584" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261011233000 +0000" stop="20261012000000 +0000">
-		<title>Aventurístic (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
+	<programme channel="Xarxa_TAC12.TV" start="20261013230000 +0000" stop="20261014000000 +0000">
+		<title>La Post Diada</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA POST DIADA tots sants_1730810615395" />
 	</programme>
 	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261012000000 +0000" stop="20261012010000 +0000">
 		<title>Com Més Serem (R)</title>
@@ -1831,100 +1585,18 @@
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/â\u0080\u008Cinfo_1790158188154" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011030000 +0000" stop="20261011033000 +0000">
-		<title>NOTÍCIES Resum (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261013223000 +0000" stop="20261013230000 +0000">
+		<title>Sense Filtres (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261013230000 +0000" stop="20261013233000 +0000">
+		<title>Va de Moda (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ca940359a8341ba8baedaa4cbb48db1/Images/b5a1b9e97c80458fb99e5075c1b1a4a6" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261013233000 +0000" stop="20261014000000 +0000">
+		<title>L'Informatiu (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/â\u0080\u008Cinfo_1790158188154" />
 		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011033000 +0000" stop="20261011040000 +0000">
-		<title>LA COMARCAL (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA COMARCAL 2025 CLARA_1757518342309" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011040000 +0000" stop="20261011043000 +0000">
-		<title>NOTÍCIES Resum (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011043000 +0000" stop="20261011050000 +0000">
-		<title>AVENTURÍSTIC</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011050000 +0000" stop="20261011060000 +0000">
-		<title>THE WEEKLY MAG</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0c58f80f156844c090c240faf9945de8/Images/40869f97b3dd4f34acde8cb2b7964dbb" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011060000 +0000" stop="20261011063000 +0000">
-		<title>FOT-LI (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FOTLI 2025 OTT_1756720070430" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011063000 +0000" stop="20261011070000 +0000">
-		<title>QÜESTIÓ DE FONS (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/JORDI QDF_1759163070243" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011070000 +0000" stop="20261011073000 +0000">
-		<title>DESTÍ 2030 (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/DESTI 2024 MIREIA OTT_1743006323582" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011073000 +0000" stop="20261011080000 +0000">
-		<title>ACTIVA'T</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/ACTIVAT_1788856509053" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011080000 +0000" stop="20261011083000 +0000">
-		<title>NOTÍCIES Resum (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011083000 +0000" stop="20261011090000 +0000">
-		<title>AIXECA I PICA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011090000 +0000" stop="20261011103000 +0000">
-		<title>MISSA DE MONTSERRAT</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011103000 +0000" stop="20261011110000 +0000">
-		<title>QÜESTIÓ DE FONS (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/JORDI QDF_1759163070243" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011110000 +0000" stop="20261011150000 +0000">
-		<title>DIADA CASTELLERA DE SANTA TERESA AL VENDRELL</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011150000 +0000" stop="20261011183000 +0000">
-		<title>EN JOC DIUMENGE</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2b4904102fa54c5891d3fe5ee6354864/Images/0f7c48af1c57417584e4b2166ea5e482" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011183000 +0000" stop="20261011190000 +0000">
-		<title>NEX CAP DE SETMANA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011190000 +0000" stop="20261011193000 +0000">
-		<title>NOTÍCIES Resum (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011193000 +0000" stop="20261011200000 +0000">
-		<title>CIUTADELLA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011200000 +0000" stop="20261011203000 +0000">
-		<title>VINUM. DE LA VINYA AL PALADAR</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/710d65f34a6743fbb78127c83f98e75a/Images/94e291d8d6c2495dbcf77683f4899c06" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011203000 +0000" stop="20261011220000 +0000">
-		<title>DOCUMENTAL: AVELLANA CONNECTION</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>DOCUMENTARY</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011220000 +0000" stop="20261011223000 +0000">
-		<title>NOTÍCIES Resum (R)</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261011223000 +0000" stop="20261012030000 +0000">
-		<title>EN JOC DISSABTE</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
 	</programme>
 	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261012030000 +0000" stop="20261012033000 +0000">
 		<title>NOTÍCIES Resum (R)</title>
@@ -2178,54 +1850,20 @@
 		<title>FOT-LI (R)</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FOTLI 2025 OTT_1756720070430" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011060735 +0000" stop="20261011062501 +0000">
-		<title>Sindicats</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261013220000 +0000" stop="20261013223000 +0000">
+		<title>NOTÍCIES Vespre (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES VESPRE 2025 JORDI OTT_1759163102499" />
+		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011062501 +0000" stop="20261011070001 +0000">
-		<title>[Re]poblem - Passions nòmades</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011070001 +0000" stop="20261011082237 +0000">
-		<title>Presentació dels equips de la Secció Esportiva AEM</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261013223000 +0000" stop="20261013233000 +0000">
+		<title>LA PORTERIA</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/701bc533981e4cdbbfa96174758a1f48" />
 		<category>SPORTS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011082237 +0000" stop="20261011085959 +0000">
-		<title>Pista Oberta</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011085959 +0000" stop="20261011102200 +0000">
-		<title>Missa de Montserrat</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011102200 +0000" stop="20261011105500 +0000">
-		<title>PROGRAMA ENCONTATS 2026</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011105500 +0000" stop="20261011183000 +0000">
-		<title>Diada castellera de Santa Teresa del Vendrell + En joc. Diumenge</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011183000 +0000" stop="20261011190001 +0000">
-		<title>NEX cap de setmana</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011190001 +0000" stop="20261011193001 +0000">
-		<title>Gaudeix la festa - Patrocini a Cardona.</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011193001 +0000" stop="20261011200002 +0000">
-		<title>Ciutadella</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011200002 +0000" stop="20261011221525 +0000">
-		<title>Cafeïna</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/fra_AFEINA_IN_2021-04_1737102781401" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261011221525 +0000" stop="20261012075225 +0000">
-		<title>PROGRAMA ENCONTATS 2026</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261013233000 +0000" stop="20261014000000 +0000">
+		<title>+BÀSQUET</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/367b845f85a64770818f82aa821194b2/Images/651b0224e04b4edaa23b9b83f84b4f1d" />
+		<category>SPORTS</category>
 	</programme>
 	<programme channel="Xarxa_LleidaTV.TV" start="20261012075225 +0000" stop="20261012091502 +0000">
 		<title>Lleida en Joc: SE AEM</title>
@@ -2369,190 +2007,9 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011000000 +0000" stop="20261011004500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011004500 +0000" stop="20261011010000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011010000 +0000" stop="20261011013000 +0000">
-		<title>Recórrer</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6087b5a2ea864e13844208e6de0b7ef4/Images/1a2641642eb248bb9b9f03165eca893d" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011013000 +0000" stop="20261011020000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011020000 +0000" stop="20261011024500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011024500 +0000" stop="20261011030000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011030000 +0000" stop="20261011033000 +0000">
-		<title>SPi+TV</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011033000 +0000" stop="20261011040000 +0000">
-		<title>Torna-la a tocar, Sam</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011040000 +0000" stop="20261011044500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011044500 +0000" stop="20261011050000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011050000 +0000" stop="20261011053000 +0000">
-		<title>Recórrer</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6087b5a2ea864e13844208e6de0b7ef4/Images/1a2641642eb248bb9b9f03165eca893d" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011053000 +0000" stop="20261011060000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011060000 +0000" stop="20261011064500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011064500 +0000" stop="20261011070000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011070000 +0000" stop="20261011073000 +0000">
-		<title>SPi+TV</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011073000 +0000" stop="20261011080000 +0000">
-		<title>Torna-la a tocar, Sam</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011080000 +0000" stop="20261011084500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011084500 +0000" stop="20261011090000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011090000 +0000" stop="20261011102500 +0000">
-		<title>Missa de Montserrat</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011102500 +0000" stop="20261011105500 +0000">
-		<title>SPi+TV</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011105500 +0000" stop="20261011130000 +0000">
-		<title>La diada</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Diada_1716393641083" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011130000 +0000" stop="20261011133000 +0000">
-		<title>L'entrevista</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Entrevista_1769715339366" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011133000 +0000" stop="20261011140000 +0000">
-		<title>Gaudeix la festa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011140000 +0000" stop="20261011144500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011144500 +0000" stop="20261011150000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011150000 +0000" stop="20261011153000 +0000">
-		<title>Quadern de rutes</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_quadern rutes_1740991250019" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011153000 +0000" stop="20261011160000 +0000">
-		<title>[Re]poblem</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011160000 +0000" stop="20261011164500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011164500 +0000" stop="20261011170000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011170000 +0000" stop="20261011173000 +0000">
-		<title>L'entrevista</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Entrevista_1769715339366" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011173000 +0000" stop="20261011180000 +0000">
-		<title>Gaudeix la festa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011180000 +0000" stop="20261011183000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011183000 +0000" stop="20261011190000 +0000">
-		<title>Notícies en xarxa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011190000 +0000" stop="20261011194500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011194500 +0000" stop="20261011200000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011200000 +0000" stop="20261011203000 +0000">
-		<title>Vinum</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/42a0492953bf4323aed0c46c331b597b/Images/10d7c468b60a4fa3abcee980c8eb14a6" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011203000 +0000" stop="20261011210000 +0000">
-		<title>En primera persona</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4118c191b5dc4aea876a0d67a63a46ec/Images/f3b27bc04e6541b39c2046b99bbf7088" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011210000 +0000" stop="20261011213000 +0000">
-		<title>Quadern de rutes</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_quadern rutes_1740991250019" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011213000 +0000" stop="20261011220000 +0000">
-		<title>[Re]poblem</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011220000 +0000" stop="20261011224500 +0000">
-		<title>Les notícies de la setmana</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011224500 +0000" stop="20261011230000 +0000">
-		<title>Assaig General</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011230000 +0000" stop="20261011233000 +0000">
-		<title>L'entrevista</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Entrevista_1769715339366" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261011233000 +0000" stop="20261012000000 +0000">
-		<title>Gaudeix la festa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261013223244 +0000" stop="20261013224756 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
 	<programme channel="Xarxa_Penedes_TV.TV" start="20261012000000 +0000" stop="20261012004500 +0000">
 		<title>Les notícies de la setmana</title>
@@ -2928,139 +2385,23 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/367b845f85a64770818f82aa821194b2/Images/651b0224e04b4edaa23b9b83f84b4f1d" />
 		<category>SPORTS</category>
 	</programme>
-	<programme channel="TVE_STAR.TV" start="20261010220500 +0000" stop="20261010225500 +0000">
-		<title>La Promesa</title>
-		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261013220000 +0000" stop="20261013223000 +0000">
+		<title>Info Gran Penedès</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Info Gran Penedes_1716393608087" />
 	</programme>
-	<programme channel="TVE_STAR.TV" start="20261010225500 +0000" stop="20261010234500 +0000">
-		<title>La Promesa</title>
-		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261013223000 +0000" stop="20261013230000 +0000">
+		<title>Els esports</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Esports_1709755750044" />
+		<category>SPORTS</category>
 	</programme>
-	<programme channel="TVE_STAR.TV" start="20261010234500 +0000" stop="20261011001500 +0000">
-		<title>La Promesa</title>
-		<desc>Parte 1. Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261013230000 +0000" stop="20261013233000 +0000">
+		<title>L'informatiu vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
+		<category>NEWS</category>
 	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011001500 +0000" stop="20261011011500 +0000">
-		<title>El Comodin De La 1</title>
-		<desc>Concurso familiar que pone a prueba los conocimientos en cultura general de los concursantes, que pueden llegar a ganar hasta 30.000 euros.</desc>
-		<icon src="https://img.rtve.es/imagenes/el-comodin-de-la-1/1664462042898.jpg" />
-		<category>CULTURE</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011011500 +0000" stop="20261011025500 +0000">
-		<title>Cine</title>
-		<desc>El Jugador De Ajedrez</desc>
-		<category>FILM</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011025500 +0000" stop="20261011040500 +0000">
-		<title>Los Misterios De Laura</title>
-		<desc>(23)El Misterio De La Mujer Que Sobraba. Laura Lebrel del Bosque es una inspectora de policía entrañable, inocente, inteligente y con métodos muy originales.</desc>
-		<icon src="https://img.rtve.es/imagenes/los-misterios-de-laura/1596530575163.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011040500 +0000" stop="20261011051500 +0000">
-		<title>Desaparecida</title>
-		<desc>Capitulo 4. Patricia Marcos, una joven que una noche desaparece sin dejar rastro. La producción se centra en el drama y la desesperada búsqueda de la familia por encontrarla.</desc>
-		<icon src="https://img.rtve.es/imagenes/desaparecida/1596788942370.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011051500 +0000" stop="20261011065500 +0000">
-		<title>Cine</title>
-		<desc>El Fotografo De Mauthausen</desc>
-		<category>FILM</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011065500 +0000" stop="20261011072500 +0000">
-		<title>Flash Moda Monograficos</title>
-		<desc>Dior, Una Nueva Era</desc>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011072500 +0000" stop="20261011073500 +0000">
-		<title>Esto Es Espana Albufera</title>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011073500 +0000" stop="20261011083500 +0000">
-		<title>Estoy Vivo</title>
-		<desc>Vargas es un inspector de policía que muere persiguiendo a un psicópata. El "más allá" le da otra oportunidad, y regresa a la vida en el cuerpo de Manuel Márquez.</desc>
-		<icon src="https://img.rtve.es/imagenes/estoy-vivo/1615275290125.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011083500 +0000" stop="20261011095000 +0000">
-		<title>Victor Ros</title>
-		<desc>Angeles Y Demonios. Víctor Ros es un joven delincuente que, rescatado de la calle por su mentor, Don Armando, se abre paso en el complicado mundo de la policía.</desc>
-		<icon src="https://img.rtve.es/imagenes/victor-ros/1596531154167.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011095000 +0000" stop="20261011104000 +0000">
-		<title>En Primicia</title>
-		<desc>José Mª Peridis. Descubre las historias íntimas de los periodistas más destacados de España de la mano de Lara Siscar, en un viaje emocionante por sus vidas y carreras.</desc>
-		<icon src="https://img.rtve.es/imagenes/en-primicia/01759491365150.jpg" />
-		<category>CULTURE</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011104000 +0000" stop="20261011113000 +0000">
-		<title>España Entre El Cielo Y La Tierra</title>
-		<desc>La Dama Del Mediterráneo. Serie documental que recorre la geografía peninsular desde el aire con el objetivo de resaltar aspectos geográficos, históricos y culturales. Durante los tres meses de rodaje, el equipo contó con la última tecnología y recorrió todas las autonomías.</desc>
-		<icon src="https://img.rtve.es/imagenes/espana-entre-el-cielo-y-la-tierra/1662379715949.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011113000 +0000" stop="20261011120000 +0000">
-		<title>Castillos De Leyenda</title>
-		<desc>Apariciones. Las fortalezas europeas llevan siglos como testigos mudos de la historia del continente. Grandes hechos tuvieron los castillos como escenarios.</desc>
-		<icon src="https://img.rtve.es/imagenes/castillos-de-leyenda/1641287914067.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011120000 +0000" stop="20261011130000 +0000">
-		<title>Hope Estamos A Tiempo</title>
-		<desc>El Ingrediente Secreto. Hay esperanza. Estamos a tiempo. Javier Peña nos guía en un viaje transformador para conocer la otra cara del cambio climático. Junto a los mayores expertos medioambientales del mundo y rodado en 17 países, muestra soluciones reales para frenar la crisis ecológica global.</desc>
-		<icon src="https://img.rtve.es/imagenes/hope-estamos-a-tiempo-version-doblada/01744123949086.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011130000 +0000" stop="20261011140500 +0000">
-		<title>El Comodin De La 1</title>
-		<desc>Concurso familiar que pone a prueba los conocimientos en cultura general de los concursantes, que pueden llegar a ganar hasta 30.000 euros.</desc>
-		<icon src="https://img.rtve.es/imagenes/el-comodin-de-la-1/1664462042898.jpg" />
-		<category>CULTURE</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011140500 +0000" stop="20261011150000 +0000">
-		<title>Salón De Té La Moderna</title>
-		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
-		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011150000 +0000" stop="20261011155500 +0000">
-		<title>Salón De Té La Moderna</title>
-		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
-		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011155500 +0000" stop="20261011165000 +0000">
-		<title>Acacias, 38</title>
-		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
-		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011165000 +0000" stop="20261011174500 +0000">
-		<title>Acacias, 38</title>
-		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
-		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011174500 +0000" stop="20261011182500 +0000">
-		<title>Acacias, 38</title>
-		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
-		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011182500 +0000" stop="20261011191500 +0000">
-		<title>España Entre El Cielo Y La Tierra (Último Capítulo)</title>
-		<desc>Las Islas De La Luna. Serie documental que recorre la geografía peninsular desde el aire con el objetivo de resaltar aspectos geográficos, históricos y culturales. Durante los tres meses de rodaje, el equipo contó con la última tecnología y recorrió todas las autonomías.</desc>
-		<icon src="https://img.rtve.es/imagenes/espana-entre-el-cielo-y-la-tierra/1662379715949.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011191500 +0000" stop="20261011195000 +0000">
-		<title>Seguridad Vital</title>
-		<desc>‘Seguridad Vital 5.0’, es un programa de servicio público centrado en los valores de la seguridad vial y la movilidad sostenible donde la tecnología y la digitalización serán su eje central.</desc>
-		<icon src="https://img.rtve.es/imagenes/seguridad-vital-50/01712652476218.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011195000 +0000" stop="20261011200000 +0000">
-		<title>Esto Es Espana A Coruña</title>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011200000 +0000" stop="20261011213500 +0000">
-		<title>Cine</title>
-		<desc>El Jugador De Ajedrez</desc>
-		<category>FILM</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261011213500 +0000" stop="20261011222500 +0000">
-		<title>La Promesa</title>
-		<desc>Parte 2. Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261013233000 +0000" stop="20261014000000 +0000">
+		<title>La Rambla</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
 	</programme>
 	<programme channel="TVE_STAR.TV" start="20261011222500 +0000" stop="20261011231500 +0000">
 		<title>La Promesa</title>
@@ -3196,166 +2537,145 @@
 		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
 		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261010222900 +0000" stop="20261010230300 +0000">
-		<title>Cosas de Palacio - Episodio 1 - Nuevos comienzos</title>
-		<desc>Arturo García Sancho, Marcos Orengo y Elena Navarro charlan sobre trabajo, castings, la muerte de Feliciano... y una misteriosa caja. "Cosas de palacio\.</desc>
-		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
-		<category>SERIES</category>
+	<programme channel="TVE_STAR.TV" start="20261012221000 +0000" stop="20261012231500 +0000">
+		<title>Salón De Té La Moderna</title>
+		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
+		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261010230400 +0000" stop="20261010233500 +0000">
-		<title>Cosas de palacio - Episodio 2 - Villanos</title>
-		<desc>Guillermo Serrano se une a Arturo García Sancho, Elena Navarro y Marcos Orengo para charlar sobre 'La Promesa' y 'Valle Salvaje'. "Cosas de palacio\.</desc>
-		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
-		<category>SERIES</category>
+	<programme channel="TVE_STAR.TV" start="20261012231500 +0000" stop="20261013000500 +0000">
+		<title>Acacias, 38</title>
+		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
+		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261010233500 +0000" stop="20261011001900 +0000">
-		<title>Está el horno para bollos - Programa 5: No monogamia con Paula Delgado</title>
-		<desc>Nerea y Judith quieren saberlo todo sobre la no monogamia. La psicóloga Paula Delgado acude al programa para explicárselo con todo lujo de detalles. Un espacio donde las mujeres lesbianas y bisexuales puedan sentirse representadas, escuchadas y, sobre todo, celebradas.</desc>
-		<icon src="https://img.rtve.es/imagenes/esta-el-horno-para-bollos/01763721172975.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013000500 +0000" stop="20261013010500 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011001900 +0000" stop="20261011010200 +0000">
-		<title>Está el horno para bollos - Programa 6: Música con Lucía de la Puerta y Ruslana</title>
-		<desc>Lucía de la Puerta y Ruslana llegan a 'Está el horno para bollos' para debatir sobre el papel de la mujer queer en la industria musical.</desc>
-		<category>MUSIC</category>
+	<programme channel="TVE_STAR.TV" start="20261013010500 +0000" stop="20261013020500 +0000">
+		<title>Desaparecida</title>
+		<desc>Capitulo 5. Patricia Marcos, una joven que una noche desaparece sin dejar rastro. La producción se centra en el drama y la desesperada búsqueda de la familia por encontrarla.</desc>
+		<icon src="https://img.rtve.es/imagenes/desaparecida/1596788942370.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011010200 +0000" stop="20261011014500 +0000">
-		<title>Lo que pasó, pasó - Programa 8 - La Voz del Pueblo: Del Fary a Omar Montes</title>
-		<desc>¿Quiénes representan 'la voz del pueblo'? Chelo García-Cortés, Samanta Villar, Víctor Clares y Soy una pringada analizan nuestros ídolos populares. Entre televisión, música, redes sociales y memoria colectiva, proponemos un viaje divertido y provocador por nuestro imaginario pop.</desc>
-		<icon src="https://img.rtve.es/imagenes/lo-que-paso-paso/01774355043557.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013020500 +0000" stop="20261013030000 +0000">
+		<title>Victimas Del Misterio</title>
+		<desc>Victimas Del Misterio (Baraja). Programa que trata sobre algunos crímenes ocurridos en España durante los últimos 20 años relacionados con el mundo del misterio esotérico. Las entregas contarán con testimonios y con la visión de especialistas para completar unos relatos que girarán en torno al vudú, tarot, sectas o juegos de rol.</desc>
+		<icon src="https://img.rtve.es/imagenes/victimas-del-misterio/1578996942410.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011014500 +0000" stop="20261011021500 +0000">
-		<title>Cosas de palacio - Episodio 16 - El impostor</title>
-		<desc>Juan Perales, Vera Asunción, José Manuel Seda y Óscar Rabadán se enfrentan al juego viral 'El impostor'. ¿Quién se proclamará vencedor? "Cosas de palacio\.</desc>
-		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
-		<category>SERIES</category>
+	<programme channel="TVE_STAR.TV" start="20261013030000 +0000" stop="20261013040000 +0000">
+		<title>Salón De Té La Moderna</title>
+		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
+		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011021500 +0000" stop="20261011030000 +0000">
-		<title>Lo que pasó, pasó - Programa 1 - Beefs: de las folclóricas a Andy y Lucas</title>
-		<desc>¿Por qué nos fascinan los enfrentamientos? Chelo García-Cortés, Silvia Taulés, Adrián Monterrubio y Soy una pringada analizan los beefs más sonados. Entre televisión, música, redes sociales y memoria colectiva, proponemos un viaje divertido y provocador por nuestro imaginario pop.</desc>
-		<icon src="https://img.rtve.es/imagenes/lo-que-paso-paso/01774355043557.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013040000 +0000" stop="20261013050000 +0000">
+		<title>Seis Hermanas</title>
+		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
+		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011030000 +0000" stop="20261011033400 +0000">
-		<title>Cosas de Palacio - Episodio 1 - Nuevos comienzos</title>
-		<desc>Arturo García Sancho, Marcos Orengo y Elena Navarro charlan sobre trabajo, castings, la muerte de Feliciano... y una misteriosa caja. "Cosas de palacio\.</desc>
-		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
-		<category>SERIES</category>
+	<programme channel="TVE_STAR.TV" start="20261013050000 +0000" stop="20261013052500 +0000">
+		<title>Flash Moda Monograficos</title>
+		<desc>Sybilla,La Artista Que Sublimó Su Arte. Reportajes en la que conoceremos a los nombres más importantes de la moda, tanto nacional como internacional.</desc>
+		<icon src="https://img.rtve.es/imagenes/flash-moda-monograficos/1627039242122.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011040000 +0000" stop="20261011055800 +0000">
-		<title>En Play - Mañana más - Ousman Umar y 'El viaje al país de los blancos'</title>
-		<desc>Ousman Umar y Dani Sancho vienen para charlar sobre su película 'Viaje al país de los blancos', basada en la propia historia de Ousman, un joven ghanés que abandona su aldea. RTVE Play continúa con su apuesta por el entretenimiento, la actualidad y los contenidos en directo a través de su canal digital ‘EN PLAY’.</desc>
-		<icon src="https://img.rtve.es/imagenes/en-play/01791449422264.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013052500 +0000" stop="20261013055000 +0000">
+		<title>Flash Moda Monograficos</title>
+		<desc>Alvarado: 40 Años De Alta/Baja Cultura/Costura. Reportajes en la que conoceremos a los nombres más importantes de la moda, tanto nacional como internacional.</desc>
+		<icon src="https://img.rtve.es/imagenes/flash-moda-monograficos/1627039242122.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011055800 +0000" stop="20261011075800 +0000">
-		<title>En Play - Mañana Más - El cómic con la historia de Standstill</title>
-		<desc>Enric Montefusco, líder de Standstill, y el dibujante Oriol García Quera, cuentan la disolución y retorno de la banda a través de la novela gráfica. Carmen 113 nos presenta su nuevo disco. RTVE Play continúa con su apuesta por el entretenimiento, la actualidad y los contenidos en directo a través de su canal digital ‘EN PLAY’.</desc>
-		<icon src="https://img.rtve.es/imagenes/en-play/01791449422264.jpg" />
-		<category>DOCUMENTARY</category>
+	<programme channel="TVE_STAR.TV" start="20261013055000 +0000" stop="20261013070000 +0000">
+		<title>La Ruta Morancos</title>
+		<desc>2. Los Morancos recorren varios pueblos de la España más rural en un Camino hacia Santiago con sello propio.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-ruta-morancos/01725978007899.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011075800 +0000" stop="20261011084300 +0000">
-		<title>En Play - Captcha. El videopodcast: sobreviviendo a internet - Programa 9: Inés Hernand</title>
-		<desc>CAPTCHA es un videopodcast presentado por Javi Hoyos que explora, con humor y mirada crítica, cómo sobrevivimos (o no) al mundo digital. Porque en la era de la inteligencia artificial, demostrar que no somos un robot es más necesario que nunca. En este episodio, la invitada es Inés Hernand. CAPTCHA es un videopodcast presentado por Javi Hoyos que explora, con humor y mirada crítica, cómo sobrevivimos (o no) al mundo digital.</desc>
-		<icon src="https://img.rtve.es/imagenes/captcha-el-videopodcast-sobreviviendo-a-internet/01772531541670.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013070000 +0000" stop="20261013073000 +0000">
+		<title>Viaje Al Centro De La Tele</title>
+		<desc>Maestro Íñigo Parte 1. Una nueva incursión en el Archivo de RTVE a través de la mirada desenfadada del programa dirigido por Pedro Santos, comentado por Santiago Segura y con grafismos de Forges.</desc>
+		<icon src="https://img.rtve.es/imagenes/viaje-al-centro-de-la-tele/1626083132351.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011084300 +0000" stop="20261011091600 +0000">
-		<title>En Play - Captcha. El videopodcast: sobreviviendo a internet - Programa 10: Willbur</title>
-		<desc>CAPTCHA es un videopodcast presentado por Javi Hoyos que explora, con humor y mirada crítica, cómo sobrevivimos (o no) al mundo digital. Porque en la era de la inteligencia artificial, demostrar que no somos un robot es más necesario que nunca. En este episodio, el invitado es Wilbur. CAPTCHA es un videopodcast presentado por Javi Hoyos que explora, con humor y mirada crítica, cómo sobrevivimos (o no) al mundo digital.</desc>
-		<icon src="https://img.rtve.es/imagenes/captcha-el-videopodcast-sobreviviendo-a-internet/01772531541670.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013073000 +0000" stop="20261013082000 +0000">
+		<title>Acacias, 38</title>
+		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
+		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011091600 +0000" stop="20261011094800 +0000">
-		<title>Dieciocho - Episodio 1: Comer</title>
-		<desc>Cèlia, de 17 años, es condenada a hacer trabajos sociales en un comedor social. Moha descubre que su nueva compañera de trabajo no es quien esperaba. Moha y Cèlia, a punto de cumplir 18 años, viven una historia de amor imposible. Una serie que rompe con los prejuicios sobre la inmigración y que ya ha recibido una mención especial en los Prix Europa y premio al mejor reparto en el Serielizados Fest.</desc>
-		<icon src="https://img.rtve.es/imagenes/dieciocho/01726153636722.jpg" />
-		<category>SERIES</category>
+	<programme channel="TVE_STAR.TV" start="20261013082000 +0000" stop="20261013092000 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011094800 +0000" stop="20261011101700 +0000">
-		<title>Dieciocho - Episodio 2: Aprender</title>
-		<desc>A medida que Cèlia y Moha van trabajando mejor juntos en la cocina, empiezan a sentirse atraídos el uno por el otro. Moha y Cèlia, a punto de cumplir 18 años, viven una historia de amor imposible. Una serie que rompe con los prejuicios sobre la inmigración y que ya ha recibido una mención especial en los Prix Europa y premio al mejor reparto en el Serielizados Fest.</desc>
-		<icon src="https://img.rtve.es/imagenes/dieciocho/01726153636722.jpg" />
-		<category>SERIES</category>
+	<programme channel="TVE_STAR.TV" start="20261013092000 +0000" stop="20261013102000 +0000">
+		<title>Hope Estamos A Tiempo</title>
+		<desc>El Ingrediente Secreto. Hay esperanza. Estamos a tiempo. Javier Peña nos guía en un viaje transformador para conocer la otra cara del cambio climático. Junto a los mayores expertos medioambientales del mundo y rodado en 17 países, muestra soluciones reales para frenar la crisis ecológica global.</desc>
+		<icon src="https://img.rtve.es/imagenes/hope-estamos-a-tiempo-version-doblada/01744123949086.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011101700 +0000" stop="20261011111500 +0000">
-		<title>En Play - Las del Cadillac EN PLAY - Ignatius Farray, su primer beso y el "fascismo" musical</title>
-		<desc>En este secuestro musical, el viaje lo marca uno de los cómicos más irreverentes del momento. Secuestro musical en formato road trip sonoro, un podcast conducido por dos melómanas. Cada semana, un invitado se sube a este Cadillac para ver si las canciones serán capaces de salvarlo.</desc>
-		<icon src="https://img.rtve.es/imagenes/las-del-cadillac-el-podcast/01770203811670.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013102000 +0000" stop="20261013113000 +0000">
+		<title>Sabuesos</title>
+		<desc>'Sabuesos' cuenta la historia de Alberto, un joven aspirante a detective privado, y su perro Max. Juntos forman un extraño equipo.</desc>
+		<icon src="https://img.rtve.es/imagenes/sabuesos/1596713292743.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013113000 +0000" stop="20261013120000 +0000">
+		<title>Viaje Al Centro De La Tele</title>
+		<desc>Maestro Íñigo Parte 2. Una nueva incursión en el Archivo de RTVE a través de la mirada desenfadada del programa dirigido por Pedro Santos, comentado por Santiago Segura y con grafismos de Forges.</desc>
+		<icon src="https://img.rtve.es/imagenes/viaje-al-centro-de-la-tele/1626083132351.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013120000 +0000" stop="20261013130000 +0000">
+		<title>Seis Hermanas</title>
+		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
+		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013130000 +0000" stop="20261013135500 +0000">
+		<title>Acacias, 38</title>
+		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
+		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013135500 +0000" stop="20261013150000 +0000">
+		<title>Los Iglesias. Hermanos A La Obra</title>
+		<desc>Los Iglesias Hermanos A La Obra: Ana Obregón. Chábeli y Julio Iglesias Jr. presentan ‘Los Iglesias. Hermanos a la obra', un nuevo y sorprendente formato de reformas para famosos.</desc>
+		<icon src="https://img.rtve.es/imagenes/los-iglesias-hermanos-a-la-obra/01719821433175.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013150000 +0000" stop="20261013150500 +0000">
+		<title>Esto Es Espana Playa Del Papagayo</title>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013150500 +0000" stop="20261013160500 +0000">
+		<title>Salón De Té La Moderna</title>
+		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
+		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013160500 +0000" stop="20261013165500 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013165500 +0000" stop="20261013175000 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013175000 +0000" stop="20261013185500 +0000">
+		<title>Desaparecida</title>
+		<desc>Capitulo 5. Patricia Marcos, una joven que una noche desaparece sin dejar rastro. La producción se centra en el drama y la desesperada búsqueda de la familia por encontrarla.</desc>
+		<icon src="https://img.rtve.es/imagenes/desaparecida/1596788942370.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261013185500 +0000" stop="20261013194500 +0000">
+		<title>En Primicia</title>
+		<desc>José Mª Peridis. Descubre las historias íntimas de los periodistas más destacados de España de la mano de Lara Siscar, en un viaje emocionante por sus vidas y carreras.</desc>
+		<icon src="https://img.rtve.es/imagenes/en-primicia/01759491365150.jpg" />
 		<category>CULTURE</category>
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011111500 +0000" stop="20261011131500 +0000">
-		<title>En Play - Mañana Más - El cómic con la historia de Standstill</title>
-		<desc>Enric Montefusco, líder de Standstill, y el dibujante Oriol García Quera, cuentan la disolución y retorno de la banda a través de la novela gráfica. Carmen 113 nos presenta su nuevo disco. RTVE Play continúa con su apuesta por el entretenimiento, la actualidad y los contenidos en directo a través de su canal digital ‘EN PLAY’.</desc>
-		<icon src="https://img.rtve.es/imagenes/en-play/01791449422264.jpg" />
-		<category>DOCUMENTARY</category>
+	<programme channel="TVE_STAR.TV" start="20261013194500 +0000" stop="20261013203500 +0000">
+		<title>Victimas Del Misterio</title>
+		<desc>Victimas Del Misterio (Baraja). Programa que trata sobre algunos crímenes ocurridos en España durante los últimos 20 años relacionados con el mundo del misterio esotérico. Las entregas contarán con testimonios y con la visión de especialistas para completar unos relatos que girarán en torno al vudú, tarot, sectas o juegos de rol.</desc>
+		<icon src="https://img.rtve.es/imagenes/victimas-del-misterio/1578996942410.jpg" />
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011131500 +0000" stop="20261011140700 +0000">
-		<title>Héctor de comer - Episodio 10 - Arturo González-Campos</title>
-		<desc>Arturo González-Campos viene a Héctor de Comer con la firme intención de convencer a quien haga falta de que él también merece presentar un programa de cocina. ¿Preparará una receta que pondrá nerviosos a muchos valencianos? Sí. ¿Y, a lo Paco Umbral, aprovechará también para venir a hablar de su libro? También.</desc>
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011140700 +0000" stop="20261011142500 +0000">
-		<title>El Método Delicious - Episodio 10 - Recetas con mango para el verano: Ceviche y postre</title>
-		<desc>Marta Sanahuja se prepara para el verano con dos recetas muy ligeras y frescas: ceviche de lubina con calabaza y mango y postre de mango. Marta Sanahuja, conocida en redes como @DeliciousMartha, presenta 'El Método Delicious', donde se dará a conocer tal y como es y explicará su filosofía de vida.</desc>
-		<icon src="https://img.rtve.es/imagenes/el-metodo-delicious/01777037822458.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011142500 +0000" stop="20261011150900 +0000">
-		<title>Lo que pasó, pasó - Programa 2 - Galanes: De Bertín Osborne a Manu Ríos</title>
-		<desc>¿Quedan 'hombres' como los de antes? Boris Izaguirre, Paloma Barrientos, Samantha Hudson y Víctor Clares analizan la evolución del "galán clásico". Entre televisión, música, redes sociales y memoria colectiva, proponemos un viaje divertido y provocador por nuestro imaginario pop.</desc>
-		<icon src="https://img.rtve.es/imagenes/lo-que-paso-paso/01774355043557.jpg" />
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011150900 +0000" stop="20261011153900 +0000">
-		<title>Cosas de palacio - Episodio 3 - Yo nunca</title>
-		<desc>Miren Arrieta, Ibrahim Al Shami y Sabela Arán charlan sobre posibles romances de sus personajes, robos en rodaje... ¡y juegan al 'Yo nunca'! "Cosas de palacio\.</desc>
-		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011153900 +0000" stop="20261011161900 +0000">
-		<title>Cosas de palacio - Episodio 4 - Talentos ocultos</title>
-		<desc>Marga Martínez se une a Miren Arrieta, Ibrahim Al Shami y Sabela Arán para confesar sus mayores secretos y demostrar sus talentos ocultos. "Cosas de palacio\.</desc>
-		<icon src="https://img.rtve.es/imagenes/cosas-de-palacio/01772782212405.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011161900 +0000" stop="20261011171000 +0000">
-		<title>Está el horno para bollos - Programa 7: Humor con Laura del Val y Paula Púa</title>
-		<desc>Laura del Val y Paula Púa acuden a ‘Está el horno para bollos’ para contarnos su experiencia en el ámbito del humor como mujeres queer. Un espacio donde las mujeres lesbianas y bisexuales puedan sentirse representadas, escuchadas y, sobre todo, celebradas.</desc>
-		<icon src="https://img.rtve.es/imagenes/esta-el-horno-para-bollos/01763721172975.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013203500 +0000" stop="20261013210500 +0000">
+		<title>Zoom Tendencias</title>
+		<desc>'Zoom Tendencias' nace con las ganas de dar a conocer los nuevos estilos de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/zoom-tendencias/01758793079787.jpg" />
 		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011171000 +0000" stop="20261011175900 +0000">
-		<title>Está el horno para bollos - Programa 8: Cine con Laura Pedro e Irene Ferreiro</title>
-		<desc>Irene Ferreiro y Laura Pedro cuentan en ‘Está el horno para bollos’ la cara A y B de la industria audiovisual. Un espacio donde las mujeres lesbianas y bisexuales puedan sentirse representadas, escuchadas y, sobre todo, celebradas.</desc>
-		<icon src="https://img.rtve.es/imagenes/esta-el-horno-para-bollos/01763721172975.jpg" />
-		<category>FILM</category>
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011175900 +0000" stop="20261011184900 +0000">
-		<title>En Play - Menudo Cuadro - Episodio 10 - Samantha Ballantines, a veces nutria, siempre reina</title>
-		<desc>Los Davides y Carlota Corredera reciben a Samantha Ballantines. Quizá la conoces más por su nombre artístico, ella es la drag mainstream por excelencia, divertida, dicharachera, romántica... Pero, ¿cuánto conoces a Francisco José Sánchez Jiménez? Descubrimos uno y otro perfil, hablamos de infancia, pasiones y vida. ¡Menudo Cuadro! vuelve a RTVE Play con más salseo, cultura pop y cero filtros. Carlota Corredera, David Insua y David Andújar encienden los micros para sentar en su plató a los personajes más icónicos del panorama nacional.</desc>
-		<icon src="https://img.rtve.es/imagenes/menudo-cuadro/01791446793209.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011185000 +0000" stop="20261011193400 +0000">
-		<title>En Play - Influ-Realismo mágico - Programa 10 - ¿Quién manda en el mundo influencer?, con Ana Gómez</title>
-		<desc>Los últimos dos o tres episodios han sido de gente famosa que llama más la atención pero luego hay gente que no es famosa pero que es un absoluto lujo escucharla, que la gente paga dinerales por ir a congresos donde participa, como es el caso de Ana Gómez, ex directiva en grandes plataformas. Lorena Macías sigue sacando el jugo más ácido a los descalabros y torpezas de ciertos influencers.</desc>
-		<icon src="https://img.rtve.es/imagenes/influ-realismo-magico-en-play/01790668300642.jpg" />
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011193400 +0000" stop="20261011201600 +0000">
-		<title>Podcast, el Podcast - Gazpacho Santamaría (Videopodcast)</title>
-		<desc>Último programa dirigido por Christopher Nolan, todo gracias a Gazpacho Santamaría. DISRUPTIVO, SEGUIMOS. Ahora que está de moda tener un podcast y hay podcast de todos los contenidos que te puedas imaginar por qué no un podcast de sketches para reírse de los propios podcast.</desc>
-		<icon src="https://img.rtve.es/imagenes/podcast-el-podcast/01746002542754.jpg" />
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011201600 +0000" stop="20261011210000 +0000">
-		<title>Lo que pasó, pasó - Programa 2 - Galanes: De Bertín Osborne a Manu Ríos</title>
-		<desc>¿Quedan 'hombres' como los de antes? Boris Izaguirre, Paloma Barrientos, Samantha Hudson y Víctor Clares analizan la evolución del "galán clásico". Entre televisión, música, redes sociales y memoria colectiva, proponemos un viaje divertido y provocador por nuestro imaginario pop.</desc>
-		<icon src="https://img.rtve.es/imagenes/lo-que-paso-paso/01774355043557.jpg" />
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011210000 +0000" stop="20261011215000 +0000">
-		<title>En Play - Menudo Cuadro - Episodio 10 - Samantha Ballantines, a veces nutria, siempre reina</title>
-		<desc>Los Davides y Carlota Corredera reciben a Samantha Ballantines. Quizá la conoces más por su nombre artístico, ella es la drag mainstream por excelencia, divertida, dicharachera, romántica... Pero, ¿cuánto conoces a Francisco José Sánchez Jiménez? Descubrimos uno y otro perfil, hablamos de infancia, pasiones y vida. ¡Menudo Cuadro! vuelve a RTVE Play con más salseo, cultura pop y cero filtros. Carlota Corredera, David Insua y David Andújar encienden los micros para sentar en su plató a los personajes más icónicos del panorama nacional.</desc>
-		<icon src="https://img.rtve.es/imagenes/menudo-cuadro/01791446793209.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_En_Play.TV" start="20261011215100 +0000" stop="20261011223500 +0000">
-		<title>En Play - Influ-Realismo mágico - Programa 10 - ¿Quién manda en el mundo influencer?, con Ana Gómez</title>
-		<desc>Los últimos dos o tres episodios han sido de gente famosa que llama más la atención pero luego hay gente que no es famosa pero que es un absoluto lujo escucharla, que la gente paga dinerales por ir a congresos donde participa, como es el caso de Ana Gómez, ex directiva en grandes plataformas. Lorena Macías sigue sacando el jugo más ácido a los descalabros y torpezas de ciertos influencers.</desc>
-		<icon src="https://img.rtve.es/imagenes/influ-realismo-magico-en-play/01790668300642.jpg" />
+	<programme channel="TVE_STAR.TV" start="20261013210500 +0000" stop="20261013220500 +0000">
+		<title>Seis Hermanas</title>
+		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
+		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
 	</programme>
 	<programme channel="RTVE_En_Play.TV" start="20261011223500 +0000" stop="20261011230400 +0000">
 		<title>Cosas de palacio - Episodio 3 - Yo nunca</title>
