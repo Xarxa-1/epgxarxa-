@@ -1388,25 +1388,25 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a4c0b3ca978444c494071badd20891ce" />
 		<category>MUSIC</category>
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261016180000 +0000" stop="20261016183000 +0000">
+	<programme channel="Xarxa_TAC12.TV" start="20261016180000 +0000" stop="20261016184000 +0000">
 		<title>Notícies 12. Edició vespre</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261016183000 +0000" stop="20261016190000 +0000">
+	<programme channel="Xarxa_TAC12.TV" start="20261016184000 +0000" stop="20261016191000 +0000">
 		<title>Notícies 12. Edició esports</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261016190000 +0000" stop="20261016193000 +0000">
-		<title>[Re]poblem</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
+	<programme channel="Xarxa_TAC12.TV" start="20261016191000 +0000" stop="20261016192000 +0000">
+		<title>Eix-27</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/eix_1718289720130" />
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261016193000 +0000" stop="20261016200000 +0000">
+	<programme channel="Xarxa_TAC12.TV" start="20261016192000 +0000" stop="20261016195000 +0000">
 		<title>Destí 2030</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261016200000 +0000" stop="20261016203000 +0000">
+	<programme channel="Xarxa_TAC12.TV" start="20261016195000 +0000" stop="20261016203000 +0000">
 		<title>Notícies 12. Edició vespre</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
 		<category>NEWS</category>
@@ -2407,11 +2407,11 @@
 		<title>Connecta Lleida Pirineus</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016101226 +0000" stop="20261016114156 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016101226 +0000" stop="20261016114512 +0000">
 		<title>+Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016114156 +0000" stop="20261016120000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016114512 +0000" stop="20261016120000 +0000">
 		<title>Bàsquet. Ilerna Lleida - Roda de premsa de Gerard Encuentra</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>SPORTS</category>
@@ -2443,20 +2443,20 @@
 		<title>Aventurístic</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016163000 +0000" stop="20261016170000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016163000 +0000" stop="20261016165959 +0000">
 		<title>Connecta Lleida Pirineus</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016170000 +0000" stop="20261016180000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016165959 +0000" stop="20261016175959 +0000">
 		<title>180º</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a4c0b3ca978444c494071badd20891ce" />
 		<category>MUSIC</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016180000 +0000" stop="20261016183000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016175959 +0000" stop="20261016183001 +0000">
 		<title>Connecta Lleida Pirineus</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016183000 +0000" stop="20261016191741 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016183001 +0000" stop="20261016191741 +0000">
 		<title>Noticies Lleida ed. Vespre</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
@@ -2466,301 +2466,213 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>SPORTS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016192857 +0000" stop="20261016193501 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016192857 +0000" stop="20261016205707 +0000">
 		<title>+Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016193501 +0000" stop="20261016210142 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016210142 +0000" stop="20261016214654 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016205707 +0000" stop="20261016214219 +0000">
 		<title>Noticies Lleida ed. Vespre</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016214654 +0000" stop="20261016215602 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016214219 +0000" stop="20261016215127 +0000">
 		<title>Bàsquet. Ilerna Lleida - Roda de premsa de Gerard Encuentra</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>SPORTS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016215602 +0000" stop="20261016220810 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016215127 +0000" stop="20261016232151 +0000">
 		<title>+Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016220810 +0000" stop="20261016233834 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261016233834 +0000" stop="20261017002046 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261016232151 +0000" stop="20261017000703 +0000">
 		<title>Noticies Lleida ed. Vespre</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017002046 +0000" stop="20261017003858 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017000703 +0000" stop="20261017001612 +0000">
+		<title>Bàsquet. Ilerna Lleida - Roda de premsa de Gerard Encuentra</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017001612 +0000" stop="20261017052849 +0000">
 		<title>Bonus Music</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>MUSIC</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017003858 +0000" stop="20261017053323 +0000">
-		<title>Bonus Music</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017053323 +0000" stop="20261017055135 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017052849 +0000" stop="20261017062023 +0000">
 		<title>Noticies Lleida ed. Vespre</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017055135 +0000" stop="20261017064148 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017062023 +0000" stop="20261017063713 +0000">
+		<title>Sindicats</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017064148 +0000" stop="20261017070000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017063713 +0000" stop="20261017073214 +0000">
 		<title>Infantil: Catakrac i Una mà de contes</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>KIDS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017070000 +0000" stop="20261017073649 +0000">
-		<title>Infantil: Catakrac i Una mà de contes</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>KIDS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017073649 +0000" stop="20261017075500 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017073214 +0000" stop="20261017080713 +0000">
 		<title>Jornades per a l'exel·lència 2026: sessió inaugural</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017075500 +0000" stop="20261017081148 +0000">
-		<title>Jornades per a l'exel·lència 2026: sessió inaugural</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017081148 +0000" stop="20261017081149 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017080713 +0000" stop="20261017084913 +0000">
 		<title>Jornades per a l'exel·lència 2026: sessió de cloenda</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017081149 +0000" stop="20261017083000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017084913 +0000" stop="20261017085614 +0000">
+		<title>Jornades per a l'exel·lència 2026: Marina Prats</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017085614 +0000" stop="20261017095305 +0000">
 		<title>Jornades per a l'exel·lència 2026: la visió des del territori</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017083000 +0000" stop="20261017090048 +0000">
-		<title>Jornades per a l'exel·lència 2026: sessió de cloenda</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017090048 +0000" stop="20261017090740 +0000">
-		<title>Jornades per a l'exel·lència 2026: la visió des del territori</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017090740 +0000" stop="20261017091900 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017095305 +0000" stop="20261017105213 +0000">
 		<title>Jornades per a l'exel·lència amb Mariví Chacón</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017091900 +0000" stop="20261017095740 +0000">
-		<title>Jornades per a l'exel·lència 2026: la visió des del territori</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017095740 +0000" stop="20261017101551 +0000">
-		<title>Jornades per a l'exel·lència amb Mariví Chacón</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017101551 +0000" stop="20261017105648 +0000">
-		<title>Jornades per a l'exel·lència amb Mariví Chacón</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017105648 +0000" stop="20261017110102 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017105213 +0000" stop="20261017111908 +0000">
 		<title>Gaudeix la festa - Unes falles excepcionals</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017110102 +0000" stop="20261017112343 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017111908 +0000" stop="20261017115100 +0000">
+		<title>Noticies Cap de setmana</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017115100 +0000" stop="20261017123714 +0000">
 		<title>Cafeïna - Casal de la Dona</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017112343 +0000" stop="20261017114154 +0000">
-		<title>Noticies Cap de setmana</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017114154 +0000" stop="20261017114333 +0000">
-		<title>Noticies Cap de setmana</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017114333 +0000" stop="20261017115535 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017123714 +0000" stop="20261017133714 +0000">
 		<title>The Weekly Mag</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0c58f80f156844c090c240faf9945de8/Images/40869f97b3dd4f34acde8cb2b7964dbb" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017115535 +0000" stop="20261017121347 +0000">
-		<title>Cafeïna - Casal de la Dona</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017121347 +0000" stop="20261017124045 +0000">
-		<title>Cafeïna - Casal de la Dona</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017124045 +0000" stop="20261017134149 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017133714 +0000" stop="20261017180714 +0000">
 		<title>En joc. Dissabte</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017134149 +0000" stop="20261017140000 +0000">
-		<title>En joc. Dissabte</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017140000 +0000" stop="20261017175351 +0000">
-		<title>En joc. Dissabte</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017175351 +0000" stop="20261017181149 +0000">
-		<title>Lleida Activa - Som Cinema</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>FILM</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017181149 +0000" stop="20261017183000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017180714 +0000" stop="20261017183713 +0000">
 		<title>NEX cap de setmana</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017183000 +0000" stop="20261017184148 +0000">
-		<title>NEX cap de setmana</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017184148 +0000" stop="20261017185846 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017183713 +0000" stop="20261017185718 +0000">
 		<title>Lleida Activa - Som Cinema</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>FILM</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017185846 +0000" stop="20261017190153 +0000">
-		<title>Deejay's de Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017190153 +0000" stop="20261017192004 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017185718 +0000" stop="20261017193714 +0000">
 		<title>Lleida Activa - Som Cinema</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>FILM</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017192004 +0000" stop="20261017194149 +0000">
-		<title>Lleida Activa - Som Cinema</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>FILM</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017194149 +0000" stop="20261017200000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017193714 +0000" stop="20261017200714 +0000">
 		<title>Harpia, Balaguer Medieval</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017200000 +0000" stop="20261017201148 +0000">
-		<title>Harpia, Balaguer Medieval</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017201148 +0000" stop="20261017203000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017200714 +0000" stop="20261017204032 +0000">
 		<title>Deejay's de Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017203000 +0000" stop="20261017210000 +0000">
-		<title>Deejay's de Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261017210000 +0000" stop="20261018055317 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261017204032 +0000" stop="20261018055657 +0000">
 		<title>World Skate Games: Mundial de Xous i Quartets</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>CULTURE</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018055317 +0000" stop="20261018061148 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018055657 +0000" stop="20261018061031 +0000">
+		<title>Sindicats</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018061031 +0000" stop="20261018063532 +0000">
 		<title>Jornades per a l'exel·lència 2026: Pere Macias</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018061148 +0000" stop="20261018061652 +0000">
-		<title>Jornades per a l'exel·lència 2026: Pere Macias</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018061652 +0000" stop="20261018063000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018063532 +0000" stop="20261018070731 +0000">
 		<title>Jornades per a l'exel·lència 2026: Josep Mateu</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018063000 +0000" stop="20261018063649 +0000">
-		<title>Jornades per a l'exel·lència 2026: Pere Macias</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018070731 +0000" stop="20261018071432 +0000">
+		<title>Jornades per a l'exel·lència 2026: Markus Urban</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018063649 +0000" stop="20261018065500 +0000">
-		<title>Jornades per a l'exel·lència 2026: Josep Mateu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018065500 +0000" stop="20261018070603 +0000">
-		<title>Jornades per a l'exel·lència 2026: Josep Mateu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018070603 +0000" stop="20261018071548 +0000">
-		<title>Jornades per a l'exel·lència 2026: Víctor Puga</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018071548 +0000" stop="20261018073129 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018071432 +0000" stop="20261018075536 +0000">
 		<title>Jornades per a l'exel·lència 2026: On ens trobem</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018073129 +0000" stop="20261018082716 +0000">
-		<title>Missa de Montserrat</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018075536 +0000" stop="20261018081031 +0000">
+		<title>Jornades per a l'exel·lència 2026: benvinguda institucional</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018082716 +0000" stop="20261018084148 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018081031 +0000" stop="20261018084032 +0000">
 		<title>Jornades per a l'exel·lència 2026: Víctor Puga</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018084148 +0000" stop="20261018084341 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018084032 +0000" stop="20261018095531 +0000">
 		<title>Missa de Montserrat</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018084341 +0000" stop="20261018095647 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018095531 +0000" stop="20261018131035 +0000">
 		<title>Diada dels Castellers de Sabadell</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018095647 +0000" stop="20261018100454 +0000">
-		<title>Diada dels Castellers de Sabadell</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018131035 +0000" stop="20261018134032 +0000">
+		<title>Teló de fons</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018100454 +0000" stop="20261018124447 +0000">
-		<title>Diada dels Castellers de Sabadell</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018124447 +0000" stop="20261018131151 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018134032 +0000" stop="20261018135902 +0000">
 		<title>Lleida Activa - Som Cinema</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>FILM</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018131151 +0000" stop="20261018132006 +0000">
-		<title>Teló de fons</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018135902 +0000" stop="20261018143958 +0000">
+		<title>Lleida Activa - Som Cinema</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>FILM</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018132006 +0000" stop="20261018132349 +0000">
-		<title>Teló de fons</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018132349 +0000" stop="20261018144148 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018143958 +0000" stop="20261018165514 +0000">
 		<title>Lleida en Joc: Atlètic Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018144148 +0000" stop="20261018144502 +0000">
-		<title>Lleida en Joc: Atlètic Lleida</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018165514 +0000" stop="20261018171538 +0000">
+		<title>Cursa de llits</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018144502 +0000" stop="20261018162822 +0000">
-		<title>Lleida en Joc: Atlètic Lleida</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018171538 +0000" stop="20261018174242 +0000">
+		<title>Harpia, Balaguer Medieval</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018162822 +0000" stop="20261018202738 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018174242 +0000" stop="20261018181440 +0000">
 		<title>En joc. Diumenge</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2b4904102fa54c5891d3fe5ee6354864/Images/0f7c48af1c57417584e4b2166ea5e482" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018202738 +0000" stop="20261018205534 +0000">
-		<title>Deejay's de Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018205534 +0000" stop="20261018212246 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018181440 +0000" stop="20261018184404 +0000">
 		<title>NEX cap de setmana</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018212246 +0000" stop="20261018214948 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018184404 +0000" stop="20261018191206 +0000">
 		<title>Gaudeix la festa - Unes falles excepcionals</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261018214948 +0000" stop="20261018221700 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018191206 +0000" stop="20261018194024 +0000">
 		<title>Ciutadella</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018194024 +0000" stop="20261018202408 +0000">
+		<title>Cafeïna - Casal de la Dona</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018202408 +0000" stop="20261018205528 +0000">
+		<title>Deejay's de Lleida</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018205528 +0000" stop="20261018212234 +0000">
+		<title>Harpia, Balaguer Medieval</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261018212234 +0000" stop="20261018233740 +0000">
+		<title>Lleida en Joc: Atlètic Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
 	<programme channel="Xarxa_Penedes_TV.TV" start="20261016000000 +0000" stop="20261016003000 +0000">
