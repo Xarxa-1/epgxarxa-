@@ -490,10 +490,10 @@
 		<desc>Hoy, el chef Javier Peña se desplaza hasta Petra, en Mallorca, para ver la elaboración de la sobrasada. Además, Tamara y Peña sorprenderán al invitado, el chef Oscar Velasco del restaurante Santceloni, con estas dos recetas: Raviolis de Albahaca rellenos de ricotta y sobrasada con salsa de tomate. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
 		<icon src="https://img2.rtve.es/v/5663414/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261025000900 +0000" stop="20261025004000 +0000">
-		<title>Torres en la cocina - Buey de mar. Panettone de chocolate</title>
-		<desc>Hoy Javier y Sergio preparan un buey de mar presentado de una forma muy original y además de postre navideño un panettone de chocolate delicioso.</desc>
-		<icon src="https://img2.rtve.es/v/4381516/vertical/?h=400" />
+	<programme channel="RTVE_Cocina.TV" start="20261025001100 +0000" stop="20261025004200 +0000">
+		<title>Torres en la cocina - Ensalada de legumbres y onigiri atún</title>
+		<desc>Ensalada de legumbres y onigiri de atún. Hoy una ensalada de legumbres con toques muy orientales. El segundo será un plato muy típico en Japón, el onigiri de atún, pero con toques para españolizarlo. Josep Arrom trae un atún gigante al plató.</desc>
+		<icon src="https://img2.rtve.es/v/4633378/vertical/?h=400" />
 	</programme>
 	<programme channel="RTVE_Cocina.TV" start="20261025004200 +0000" stop="20261025021300 +0000">
 		<title>Torres en la cocina - Ensalada de otoño y bizcocho melocotón</title>
@@ -1011,6 +1011,97 @@
 		<title>VEUS QUE INSPIREN</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2a14cf7c1f234f0eb6c165f3399bd362/Images/0a6de9ab924c427d965a0069deaafbda" />
 	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026050000 +0000" stop="20261026060000 +0000">
+		<title>LA FINESTRA</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026060000 +0000" stop="20261026070000 +0000">
+		<title>NEX MATÍ</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026070000 +0000" stop="20261026080000 +0000">
+		<title>NEX MATÍ</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026080000 +0000" stop="20261026093000 +0000">
+		<title>EFECTE MOSAIC</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026093000 +0000" stop="20261026113000 +0000">
+		<title>CATALÒNIA - JESÚS I MARIA</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026113000 +0000" stop="20261026123000 +0000">
+		<title>ANIMALS TORTOSINS: JOSÉ MORALES</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026123000 +0000" stop="20261026130000 +0000">
+		<title>L'EBRE NOTÍCIES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026130000 +0000" stop="20261026133000 +0000">
+		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026133000 +0000" stop="20261026140000 +0000">
+		<title>L'EBRE NOTÍCIES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026140000 +0000" stop="20261026153000 +0000">
+		<title>L'EBRE AL DIA</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-Al-Dia---CARRUSSEL-LAXARXA-1064x609px-MANEL_1791312363454_1791385864071" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026153000 +0000" stop="20261026163000 +0000">
+		<title>SE FA SABER</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026163000 +0000" stop="20261026170000 +0000">
+		<title>EFECTE MOSAIC</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026170000 +0000" stop="20261026173000 +0000">
+		<title>LA FINESTRA</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026173000 +0000" stop="20261026180000 +0000">
+		<title>CONNECTA 10 COMARQUES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/C10C--CARRUSSEL-LAXARXA-1064x609px_1791387695687" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026180000 +0000" stop="20261026190000 +0000">
+		<title>180º</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a4c0b3ca978444c494071badd20891ce" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026190000 +0000" stop="20261026193000 +0000">
+		<title>LA FINESTRA</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026193000 +0000" stop="20261026200000 +0000">
+		<title>L'EBRE NOTÍCIES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026200000 +0000" stop="20261026203000 +0000">
+		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026203000 +0000" stop="20261026210000 +0000">
+		<title>L'EBRE NOTÍCIES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026210000 +0000" stop="20261026213000 +0000">
+		<title>SE FA SABER</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
+	</programme>
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261026213000 +0000" stop="20261026230000 +0000">
+		<title>MINUT 91: Dilluns</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Minut-91--CARRUSSEL-LAXARXA-1064x609px_1760628304943" />
+	</programme>
 	<programme channel="Xarxa_TAC12.TV" start="20261024000000 +0000" stop="20261024003000 +0000">
 		<title>Notícies 12. Edició vespre</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
@@ -1277,6 +1368,152 @@
 		<title>Aventurístic</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
 	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026000000 +0000" stop="20261026003000 +0000">
+		<title>Destí 2030</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026003000 +0000" stop="20261026010000 +0000">
+		<title>SPI+TV</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026010000 +0000" stop="20261026020000 +0000">
+		<title>La setmana</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Laura La setmana 2_1742558703086" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026020000 +0000" stop="20261026023000 +0000">
+		<title>In situ</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/in situ_1760635456769" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026023000 +0000" stop="20261026030000 +0000">
+		<title>Com la nit i el dia. On tour</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026030000 +0000" stop="20261026033000 +0000">
+		<title>Saló de Plens</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/salo_1761288900554" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026033000 +0000" stop="20261026040000 +0000">
+		<title>Gaudeix la festa</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026040000 +0000" stop="20261026043000 +0000">
+		<title>Aventurístic</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026043000 +0000" stop="20261026050000 +0000">
+		<title>Destí 2030</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026050000 +0000" stop="20261026060000 +0000">
+		<title>La setmana</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Laura La setmana 2_1742558703086" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026060000 +0000" stop="20261026080000 +0000">
+		<title>Notícies en Xarxa</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026080000 +0000" stop="20261026093000 +0000">
+		<title>Efecte Mosaic Matí. Estiu</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026093000 +0000" stop="20261026100000 +0000">
+		<title>Destí 2030</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026100000 +0000" stop="20261026103000 +0000">
+		<title>Aventurístic</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026103000 +0000" stop="20261026110000 +0000">
+		<title>[Re]poblem</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026110000 +0000" stop="20261026113000 +0000">
+		<title>Destí 2030</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026113000 +0000" stop="20261026120000 +0000">
+		<title>Aventurístic</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026120000 +0000" stop="20261026123000 +0000">
+		<title>[Re]poblem</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026123000 +0000" stop="20261026130000 +0000">
+		<title>Destí 2030</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026130000 +0000" stop="20261026133000 +0000">
+		<title>Notícies 12. Edició migdia</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI MIGDIA 041124_1730730468175" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026133000 +0000" stop="20261026140000 +0000">
+		<title>Notícies 12. Edició esports</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026140000 +0000" stop="20261026143000 +0000">
+		<title>[Re]poblem</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026143000 +0000" stop="20261026150000 +0000">
+		<title>Destí 2030</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/desti 2030 reemissio_1710863884198" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026150000 +0000" stop="20261026153000 +0000">
+		<title>Notícies 12. Edició migdia</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI MIGDIA 041124_1730730468175" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026153000 +0000" stop="20261026170000 +0000">
+		<title>Efecte Mosaic. Tarda</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/677f863376a7456e92e618c39a0906b0" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026170000 +0000" stop="20261026173000 +0000">
+		<title>Aixeca i Pica</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026173000 +0000" stop="20261026180000 +0000">
+		<title>Connecta 10 Comarques</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/C10C_1770230490066" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026180000 +0000" stop="20261026190000 +0000">
+		<title>180º</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a4c0b3ca978444c494071badd20891ce" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026190000 +0000" stop="20261026193000 +0000">
+		<title>Notícies 12. Edició vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026193000 +0000" stop="20261026200000 +0000">
+		<title>Notícies 12. Edició esports</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026200000 +0000" stop="20261026203000 +0000">
+		<title>La tertúlia del Dorsal 12</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/D12 110225_1739285400941" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026203000 +0000" stop="20261026210000 +0000">
+		<title>Ciutadella</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026210000 +0000" stop="20261026213000 +0000">
+		<title>Notícies 12. Edició vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TAC12.TV" start="20261026213000 +0000" stop="20261026220000 +0000">
+		<title>Notícies 12. Edició esports</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+		<category>NEWS</category>
+	</programme>
 	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261024000000 +0000" stop="20261024003000 +0000">
 		<title>Spi+TV (R)</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
@@ -1459,6 +1696,117 @@
 	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261025230000 +0000" stop="20261026000000 +0000">
 		<title>Connecta't (R)</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CONNECTA'T_1788181635131" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026000000 +0000" stop="20261026003000 +0000">
+		<title>Protagonistes (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/PROTAGONISTES_1788181554584" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026003000 +0000" stop="20261026010000 +0000">
+		<title>Aventurístic (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026010000 +0000" stop="20261026020000 +0000">
+		<title>Com Més Serem (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_CMS_1727361008361" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026020000 +0000" stop="20261026023000 +0000">
+		<title>Sense Filtres (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026023000 +0000" stop="20261026030000 +0000">
+		<title>Pista Oberta (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/f6eaec3682374e5989c999d86c0eb252/Images/970585096fa240da928d93d7f56d4446" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026030000 +0000" stop="20261026033000 +0000">
+		<title>En Primera Persona (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4118c191b5dc4aea876a0d67a63a46ec/Images/f3b27bc04e6541b39c2046b99bbf7088" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026033000 +0000" stop="20261026040000 +0000">
+		<title>Va de Moda (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ca940359a8341ba8baedaa4cbb48db1/Images/b5a1b9e97c80458fb99e5075c1b1a4a6" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026040000 +0000" stop="20261026043000 +0000">
+		<title>Gent de Sabadell (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/GENT DE SABADELL_1784198496476" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026043000 +0000" stop="20261026050000 +0000">
+		<title>Referents (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026050000 +0000" stop="20261026060000 +0000">
+		<title>La Mar De Bé (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA MAR DE BÃ\u0089_1784198328067" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026060000 +0000" stop="20261026080000 +0000">
+		<title>NEX Matí</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026080000 +0000" stop="20261026093000 +0000">
+		<title>Efecte Mosaic</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026093000 +0000" stop="20261026100000 +0000">
+		<title>Protagonistes (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/PROTAGONISTES_1788181554584" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026100000 +0000" stop="20261026110000 +0000">
+		<title>Com Més Serem (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_CMS_1727361008361" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026110000 +0000" stop="20261026113000 +0000">
+		<title>Gent de Sabadell (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/GENT DE SABADELL_1784198496476" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026113000 +0000" stop="20261026123000 +0000">
+		<title>El Termòmetre (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA EL TERMÃ\u0092METRE_1743077637751" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026123000 +0000" stop="20261026133000 +0000">
+		<title>Espai Obert (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/ESPAI OBERT_1784198541141" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026133000 +0000" stop="20261026143000 +0000">
+		<title>La Porteria</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/701bc533981e4cdbbfa96174758a1f48" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026143000 +0000" stop="20261026150000 +0000">
+		<title>Sense Filtres (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026150000 +0000" stop="20261026153000 +0000">
+		<title>En Primera Persona (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4118c191b5dc4aea876a0d67a63a46ec/Images/f3b27bc04e6541b39c2046b99bbf7088" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026153000 +0000" stop="20261026170000 +0000">
+		<title>Efecte Mosaic</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026170000 +0000" stop="20261026180000 +0000">
+		<title>Via 15</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/b178944a159949f0b7966d6017a7a6f9" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026180000 +0000" stop="20261026190000 +0000">
+		<title>180º</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a4c0b3ca978444c494071badd20891ce" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026190000 +0000" stop="20261026193000 +0000">
+		<title>L'Informatiu</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/â\u0080\u008Cinfo_1790158144271" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026193000 +0000" stop="20261026200000 +0000">
+		<title>Ciutadella (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026200000 +0000" stop="20261026210000 +0000">
+		<title>L'Arlequinat</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'ARLEQUINAT_1790157991392" />
+	</programme>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261026210000 +0000" stop="20261026220000 +0000">
+		<title>La Mar De Bé (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA MAR DE BÃ\u0089_1784198328067" />
 	</programme>
 	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261024000000 +0000" stop="20261024003000 +0000">
 		<title>NOTÍCIES Resum (R)</title>
@@ -1704,6 +2052,126 @@
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
 		<category>NEWS</category>
 	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261025233000 +0000" stop="20261026033000 +0000">
+		<title>TROBADA DE COLLES CASTELLERES</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026033000 +0000" stop="20261026040000 +0000">
+		<title>FOT-LI (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026040000 +0000" stop="20261026043000 +0000">
+		<title>NOTÍCIES Resum (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026043000 +0000" stop="20261026060000 +0000">
+		<title>DOCUMENTAL: OBLIDEU, TOSQUELLES!</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+		<category>DOCUMENTARY</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026060000 +0000" stop="20261026080000 +0000">
+		<title>NOTÍCIES EN XARXA</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026080000 +0000" stop="20261026093000 +0000">
+		<title>EFECTE MOSAIC. MATÍ</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026093000 +0000" stop="20261026110000 +0000">
+		<title>DOCUMENTAL: OBLIDEU, TOSQUELLES!</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+		<category>DOCUMENTARY</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026110000 +0000" stop="20261026123000 +0000">
+		<title>EFECTE MOSAIC. MATÍ</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026123000 +0000" stop="20261026130000 +0000">
+		<title>CIUTADELLA</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026130000 +0000" stop="20261026133000 +0000">
+		<title>NOTÍCIES Migdia</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757340665456" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026133000 +0000" stop="20261026140000 +0000">
+		<title>VEUS QUE INSPIREN</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2a14cf7c1f234f0eb6c165f3399bd362/Images/fc985fa91e934f60a590ae9076065946" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026140000 +0000" stop="20261026143000 +0000">
+		<title>NOTÍCIES Migdia (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757501509801" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026143000 +0000" stop="20261026150000 +0000">
+		<title>AIXECA I PICA</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026150000 +0000" stop="20261026153000 +0000">
+		<title>NOTÍCIES Migdia (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757501509801" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026153000 +0000" stop="20261026170000 +0000">
+		<title>EFECTE MOSAIC. TARDA</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/677f863376a7456e92e618c39a0906b0" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026170000 +0000" stop="20261026173000 +0000">
+		<title>AIXECA I PICA</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026173000 +0000" stop="20261026180000 +0000">
+		<title>CONNECTA 10 COMARQUES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/C10C_1768922066598" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026180000 +0000" stop="20261026190000 +0000">
+		<title>180 GRAUS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a4c0b3ca978444c494071badd20891ce" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026190000 +0000" stop="20261026192000 +0000">
+		<title>NOTÍCIES Vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES VESPRE 2025 JORDI OTT_1759163094259" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026192000 +0000" stop="20261026193000 +0000">
+		<title>FEM COMPTES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/BASE DESTACATS OTT_1791455284649" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026193000 +0000" stop="20261026200000 +0000">
+		<title>CERCLE CENTRAL</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026200000 +0000" stop="20261026202000 +0000">
+		<title>NOTÍCIES Vespre (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES VESPRE 2025 JORDI OTT_1759163102499" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026202000 +0000" stop="20261026203000 +0000">
+		<title>FEM COMPTES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/BASE DESTACATS OTT_1791455284649" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026203000 +0000" stop="20261026210000 +0000">
+		<title>CERCLE CENTRAL (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026210000 +0000" stop="20261026212000 +0000">
+		<title>NOTÍCIES Vespre (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES VESPRE 2025 JORDI OTT_1759163102499" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026212000 +0000" stop="20261026213000 +0000">
+		<title>FEM COMPTES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/BASE DESTACATS OTT_1791455284649" />
+	</programme>
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261026213000 +0000" stop="20261026220000 +0000">
+		<title>CERCLE CENTRAL (R)</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+	</programme>
 	<programme channel="Xarxa_LleidaTV.TV" start="20261024000529 +0000" stop="20261024054501 +0000">
 		<title>Bonus Music</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
@@ -1771,74 +2239,169 @@
 		<title>Trobada de colles castelleres del Baix Llobregat + NEX cap de setmana</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261024200001 +0000" stop="20261024203001 +0000">
-		<title>RAF 2026: resum</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261024200001 +0000" stop="20261024202957 +0000">
+		<title>raimat art festival 2026</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>MUSIC</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261024203001 +0000" stop="20261024210001 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261024202957 +0000" stop="20261024205957 +0000">
 		<title>DJ's De Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261024210001 +0000" stop="20261024223000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261024205957 +0000" stop="20261024222957 +0000">
 		<title>Premis Alfons de Borja de la UdL</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261024223000 +0000" stop="20261024232613 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261024222957 +0000" stop="20261024232610 +0000">
 		<title>Misteris</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261024232613 +0000" stop="20261025072000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261024232610 +0000" stop="20261025071956 +0000">
 		<title>Bonus Music</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>MUSIC</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025072000 +0000" stop="20261025080458 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025071956 +0000" stop="20261025080455 +0000">
 		<title>Jornades per a l'exel·lència 2026: connectivitat</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025080458 +0000" stop="20261025082409 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025080455 +0000" stop="20261025082406 +0000">
 		<title>Jornades per a l'exel·lència 2026: Pedro Malavia</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025082409 +0000" stop="20261025091009 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025082406 +0000" stop="20261025091006 +0000">
 		<title>Jornades per a l'exel·lència 2026: infraestructures</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025091009 +0000" stop="20261025100000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025091006 +0000" stop="20261025100001 +0000">
 		<title>Jornades per a l'exel·lència 2026: sessió de cloenda</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025100000 +0000" stop="20261025111500 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025100001 +0000" stop="20261025111500 +0000">
 		<title>Missa de Montserrat</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025111500 +0000" stop="20261025193000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025111500 +0000" stop="20261025193001 +0000">
 		<title>Diada castellera de Santa Úrsula a Valls + En joc diumenge</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025193000 +0000" stop="20261025200000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025193001 +0000" stop="20261025200000 +0000">
 		<title>NEX cap de setmana</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025200000 +0000" stop="20261025203000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025200000 +0000" stop="20261025203001 +0000">
 		<title>Sant Miquel de les lletres: resum</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025203000 +0000" stop="20261025210000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025203001 +0000" stop="20261025210001 +0000">
 		<title>Ciutadella</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025210000 +0000" stop="20261025220000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025210001 +0000" stop="20261025220001 +0000">
 		<title>Cafeïna: Medicina Comunitaria</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025220000 +0000" stop="20261025223000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025220001 +0000" stop="20261025223001 +0000">
 		<title>DJ's De Lleida</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261025223000 +0000" stop="20261025230000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025223001 +0000" stop="20261025230001 +0000">
 		<title>RAF 2026: resum</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261025230001 +0000" stop="20261026002744 +0000">
+		<title>Premis Alfons de Borja de la UdL</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026002744 +0000" stop="20261026060001 +0000">
+		<title>Bonus Music</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026060001 +0000" stop="20261026080001 +0000">
+		<title>Notícies en xarxa - Matí</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026080001 +0000" stop="20261026093001 +0000">
+		<title>Efecte Mosaic. Matí</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026093001 +0000" stop="20261026095657 +0000">
+		<title>Gaudeix la festa - Unes falles excepcionals</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026095657 +0000" stop="20261026102402 +0000">
+		<title>Sant Miquel de les lletres: resum</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026102402 +0000" stop="20261026123101 +0000">
+		<title>Premis Alfons de Borja de la UdL</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026123101 +0000" stop="20261026130001 +0000">
+		<title>DIS Carles Argelaguet</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026130001 +0000" stop="20261026132912 +0000">
+		<title>Noticies Lleida ed. Migdia</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026132912 +0000" stop="20261026142924 +0000">
+		<title>La porteria</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/701bc533981e4cdbbfa96174758a1f48" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026142924 +0000" stop="20261026145648 +0000">
+		<title>Aixeca i Pica</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026145648 +0000" stop="20261026152444 +0000">
+		<title>Noticies Lleida ed. Migdia</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026152444 +0000" stop="20261026165156 +0000">
+		<title>Efecte Mosaic. Tarda</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/677f863376a7456e92e618c39a0906b0" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026165156 +0000" stop="20261026171908 +0000">
+		<title>Aixeca i Pica</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026171908 +0000" stop="20261026174620 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026174620 +0000" stop="20261026184507 +0000">
+		<title>180º</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026184507 +0000" stop="20261026191512 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026191512 +0000" stop="20261026200303 +0000">
+		<title>Noticies Lleida ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026200303 +0000" stop="20261026202046 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026202046 +0000" stop="20261026215336 +0000">
+		<title>+Lleida</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261026215336 +0000" stop="20261026223848 +0000">
+		<title>Noticies Lleida ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
 	</programme>
 	<programme channel="Xarxa_Penedes_TV.TV" start="20261024000000 +0000" stop="20261024003000 +0000">
 		<title>L'informatiu vespre</title>
@@ -2211,6 +2774,187 @@
 	<programme channel="Xarxa_Penedes_TV.TV" start="20261025234500 +0000" stop="20261026000000 +0000">
 		<title>Assaig General</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026000000 +0000" stop="20261026003000 +0000">
+		<title>L'entrevista</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Entrevista_1769715339366" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026003000 +0000" stop="20261026010000 +0000">
+		<title>Gaudeix la festa</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026010000 +0000" stop="20261026014500 +0000">
+		<title>Les notícies de la setmana</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026014500 +0000" stop="20261026020000 +0000">
+		<title>Assaig General</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026020000 +0000" stop="20261026023000 +0000">
+		<title>Quadern de rutes</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_quadern rutes_1740991250019" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026023000 +0000" stop="20261026030000 +0000">
+		<title>[Re]poblem</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026030000 +0000" stop="20261026034500 +0000">
+		<title>Les notícies de la setmana</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026034500 +0000" stop="20261026040000 +0000">
+		<title>Assaig General</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026040000 +0000" stop="20261026043000 +0000">
+		<title>L'entrevista</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Entrevista_1769715339366" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026043000 +0000" stop="20261026050000 +0000">
+		<title>Gaudeix la festa</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026050000 +0000" stop="20261026054500 +0000">
+		<title>Les notícies de la setmana</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026054500 +0000" stop="20261026060000 +0000">
+		<title>Assaig General</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026060000 +0000" stop="20261026073000 +0000">
+		<title>Notícies en xarxa</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/477c576702fd4e56b2f4eab1f346680e" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026073000 +0000" stop="20261026080000 +0000">
+		<title>La Rambla</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026080000 +0000" stop="20261026084500 +0000">
+		<title>Les notícies de la setmana</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026084500 +0000" stop="20261026090000 +0000">
+		<title>Assaig General</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026090000 +0000" stop="20261026093000 +0000">
+		<title>L'entrevista</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Entrevista_1769715339366" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026093000 +0000" stop="20261026100000 +0000">
+		<title>Gaudeix la festa</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/ae5d60491b164c578a09d564389c8cb3" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026100000 +0000" stop="20261026104500 +0000">
+		<title>Les notícies de la setmana</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Les Noticies de la setmana_1716393656783" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026104500 +0000" stop="20261026110000 +0000">
+		<title>Assaig General</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_assaig general_1775677002489" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026110000 +0000" stop="20261026113000 +0000">
+		<title>Quadern de rutes</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_quadern rutes_1740991250019" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026113000 +0000" stop="20261026120000 +0000">
+		<title>[Re]poblem</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/ed6d7aba2fbf40bb948cc96c96601675" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026120000 +0000" stop="20261026123000 +0000">
+		<title>L'entrevista</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Entrevista_1769715339366" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026123000 +0000" stop="20261026130000 +0000">
+		<title>La Rambla</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026130000 +0000" stop="20261026133000 +0000">
+		<title>L'informatiu</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu_1709741911379" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026133000 +0000" stop="20261026140000 +0000">
+		<title>Aixeca i Pica</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c20166334a5d450d86369321b46a1d3a/Images/f9c67c364bbb47cd82b3076a5f73215c" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026140000 +0000" stop="20261026143000 +0000">
+		<title>L'informatiu</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu_1709741911379" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026143000 +0000" stop="20261026150000 +0000">
+		<title>Ciutadella</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026150000 +0000" stop="20261026153000 +0000">
+		<title>L'informatiu</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu_1709741911379" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026153000 +0000" stop="20261026160000 +0000">
+		<title>Zona Esportiva</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Zona Esportiva_1769714971212" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026160000 +0000" stop="20261026163000 +0000">
+		<title>L'informatiu LSC</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu sords_1709741928082" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026163000 +0000" stop="20261026170000 +0000">
+		<title>La Rambla</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026170000 +0000" stop="20261026173000 +0000">
+		<title>Info Gran Penedès</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Info Gran Penedes_1716393608087" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026173000 +0000" stop="20261026180000 +0000">
+		<title>Ciutadella</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c0aa0b5ac11b4563aa6052434670e4c8/Images/a53e1311d4d642848f123d0e731fa11f" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026180000 +0000" stop="20261026190000 +0000">
+		<title>180º</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a4c0b3ca978444c494071badd20891ce" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026190000 +0000" stop="20261026193000 +0000">
+		<title>L'informatiu vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026193000 +0000" stop="20261026200000 +0000">
+		<title>Gamma Extra</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_gamma extra_1721313653830" />
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026200000 +0000" stop="20261026203000 +0000">
+		<title>L'informatiu vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026203000 +0000" stop="20261026210000 +0000">
+		<title>Zona Esportiva</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Zona Esportiva_1769714971212" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026210000 +0000" stop="20261026213000 +0000">
+		<title>L'informatiu vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261026213000 +0000" stop="20261026220000 +0000">
+		<title>Gamma Extra</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_gamma extra_1721313653830" />
 	</programme>
 	<programme channel="TVE_STAR.TV" start="20261023221000 +0000" stop="20261023231000 +0000">
 		<title>Salón De Té La Moderna</title>
