@@ -30,76 +30,6 @@
 	<channel id="RTVE_En_Play.TV">
 		<display-name>RTVE_En_Play.TV</display-name>
 	</channel>
-	<programme channel="RTVE_SomosCine.TV" start="20261116234900 +0000" stop="20261117010900 +0000">
-		<title>Drama - Mamacruz</title>
-		<desc>Cruz es una abuela que lleva muchos años, décadas ya, sin saber lo que es un orgasmo. Ella, devota de sus creencias religiosas, no le daba importancia ni tampoco se lo había planteado... Kiti Manver,Pepe QUero,Inés Benítez Villuela,Silvia Acosta,Mari Paz Sayago,Teresa Arbolí,Lola Botello.</desc>
-		<icon src="https://img2.rtve.es/v/16895522/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117010900 +0000" stop="20261117025800 +0000">
-		<title>Drama - El universo de Óliver</title>
-		<desc>Año 1985. Óliver, un niño con gran imaginación, se muda con su familia al rincón más al sur de Europa, justo cuando va a pasar el Cometa Halley. Antonio López Vallejo,Lorca Gutiérrez Prada,Luna Berroa,María León,Pedro Casablanc,Roberto Campillo,Rubén Fulgencio,Salva Reina,Sergio Ramos.</desc>
-		<icon src="https://img2.rtve.es/v/7049128/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117025800 +0000" stop="20261117050000 +0000">
-		<title>Drama - Empieza el baile</title>
-		<desc>Carlos y Margarita fueron la pareja de tango más famosa y reconocida de su época. Hoy, poco y hasta nada queda de ese esplendor, de esa pasión que los llevó a compartir, escenarios, viajes y vida... Carlos vive en Madrid, disfrutando de la segunda oportunidad que le ha dado la vida, y Margarita vive en Buenos Aires inmersa en la pobreza y el olvido. Dario Grandinetti,Jorge Marrale,Mercedes Morán,Pastora Vega.</desc>
-		<icon src="https://img2.rtve.es/v/16583019/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117050000 +0000" stop="20261117063200 +0000">
-		<title>Thriller - No matarás</title>
-		<desc>Dani, un buen chico que decide retomar su vida tras la muerte de su padre, conoce a Mila, una chica tan inquietante y sensual como inestable. Aleix Muñoz,Andreu Kreutzer,Elisabeth Larena,Fernando Valdivielso,Javier Mula,Mario Casas,Milena Smit.</desc>
-		<icon src="https://img2.rtve.es/v/6633124/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117063200 +0000" stop="20261117080900 +0000">
-		<title>Thriller - El correo</title>
-		<desc>Año 2002. España entra en el euro. Es tiempo de oportunidades, para los listos. Como Iván, un chaval de Vallecas al que su barrio se le queda pequeño. Antonio Buil,Arón Piper,José Manuel Poga,Laura Sépul,Luis Tosar,Luis Zahera,Manuel Gancedo,María Pedraza,Nourdin Batán.</desc>
-		<icon src="https://img2.rtve.es/v/16715784/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117080900 +0000" stop="20261117095900 +0000">
-		<title>Thriller - Adiós</title>
-		<desc>La muerte por accidente de una niña destapa un entramado organizado de corrupción policial y narcotráfico. La inspectora Eli es la encargada del caso. Carlos Bardem,Consuelo Trujillo,Mario Casas,Mariola Fuentes,Mauricio Morales,Mona Martínez,Natalia de Molina,Pablo Gómez-Pando,Paulina Fenoy,Pilar Gómez,Ruth Díaz,Sebastián Haro.</desc>
-		<icon src="https://img2.rtve.es/v/6272036/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117095900 +0000" stop="20261117113800 +0000">
-		<title>Thriller - La maniobra de la tortuga</title>
-		<desc>El inspector Manuel Bianquetti se ve forzado a aceptar un traslado a la comisaría de Cádiz. Su tranquilidad se verá rota por el hallazgo de un cadáver Fred Tatien,Gerardo de Pablos,Ignacio Mateos,Luisa Vides,Mona Martínez,Natalia de Molina.</desc>
-		<icon src="https://img2.rtve.es/v/15971951/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117113800 +0000" stop="20261117131600 +0000">
-		<title>Thriller - El correo</title>
-		<desc>Año 2002. España entra en el euro. Es tiempo de oportunidades, para los listos. Como Iván, un chaval de Vallecas al que su barrio se le queda pequeño. Antonio Buil,Arón Piper,José Manuel Poga,Laura Sépul,Luis Tosar,Luis Zahera,Manuel Gancedo,María Pedraza,Nourdin Batán.</desc>
-		<icon src="https://img2.rtve.es/v/16715784/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117131600 +0000" stop="20261117150600 +0000">
-		<title>Thriller - Adiós</title>
-		<desc>La muerte por accidente de una niña destapa un entramado organizado de corrupción policial y narcotráfico. La inspectora Eli es la encargada del caso. Carlos Bardem,Consuelo Trujillo,Mario Casas,Mariola Fuentes,Mauricio Morales,Mona Martínez,Natalia de Molina,Pablo Gómez-Pando,Paulina Fenoy,Pilar Gómez,Ruth Díaz,Sebastián Haro.</desc>
-		<icon src="https://img2.rtve.es/v/6272036/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117150600 +0000" stop="20261117164500 +0000">
-		<title>Thriller - La maniobra de la tortuga</title>
-		<desc>El inspector Manuel Bianquetti se ve forzado a aceptar un traslado a la comisaría de Cádiz. Su tranquilidad se verá rota por el hallazgo de un cadáver Fred Tatien,Gerardo de Pablos,Ignacio Mateos,Luisa Vides,Mona Martínez,Natalia de Molina.</desc>
-		<icon src="https://img2.rtve.es/v/15971951/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117164500 +0000" stop="20261117181700 +0000">
-		<title>Thriller - No matarás</title>
-		<desc>Dani, un buen chico que decide retomar su vida tras la muerte de su padre, conoce a Mila, una chica tan inquietante y sensual como inestable. Aleix Muñoz,Andreu Kreutzer,Elisabeth Larena,Fernando Valdivielso,Javier Mula,Mario Casas,Milena Smit.</desc>
-		<icon src="https://img2.rtve.es/v/6633124/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117181700 +0000" stop="20261117200700 +0000">
-		<title>Thriller - Adiós</title>
-		<desc>La muerte por accidente de una niña destapa un entramado organizado de corrupción policial y narcotráfico. La inspectora Eli es la encargada del caso. Carlos Bardem,Consuelo Trujillo,Mario Casas,Mariola Fuentes,Mauricio Morales,Mona Martínez,Natalia de Molina,Pablo Gómez-Pando,Paulina Fenoy,Pilar Gómez,Ruth Díaz,Sebastián Haro.</desc>
-		<icon src="https://img2.rtve.es/v/6272036/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117200700 +0000" stop="20261117214700 +0000">
-		<title>Thriller - La maniobra de la tortuga</title>
-		<desc>El inspector Manuel Bianquetti se ve forzado a aceptar un traslado a la comisaría de Cádiz. Su tranquilidad se verá rota por el hallazgo de un cadáver Fred Tatien,Gerardo de Pablos,Ignacio Mateos,Luisa Vides,Mona Martínez,Natalia de Molina.</desc>
-		<icon src="https://img2.rtve.es/v/15971951/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_SomosCine.TV" start="20261117214700 +0000" stop="20261117231900 +0000">
-		<title>Thriller - No matarás</title>
-		<desc>Dani, un buen chico que decide retomar su vida tras la muerte de su padre, conoce a Mila, una chica tan inquietante y sensual como inestable. Aleix Muñoz,Andreu Kreutzer,Elisabeth Larena,Fernando Valdivielso,Javier Mula,Mario Casas,Milena Smit.</desc>
-		<icon src="https://img2.rtve.es/v/6633124/vertical/?h=400" />
-	</programme>
 	<programme channel="RTVE_SomosCine.TV" start="20261117231900 +0000" stop="20261118005600 +0000">
 		<title>Thriller - El correo</title>
 		<desc>Año 2002. España entra en el euro. Es tiempo de oportunidades, para los listos. Como Iván, un chaval de Vallecas al que su barrio se le queda pequeño. Antonio Buil,Arón Piper,José Manuel Poga,Laura Sépul,Luis Tosar,Luis Zahera,Manuel Gancedo,María Pedraza,Nourdin Batán.</desc>
@@ -255,202 +185,86 @@
 		<desc>Marta, fotógrafa, regresa a Cornellà tras ser despedida de Shame, un magazine de Barcelona. Ahora debe volver a la vida que pensaba haber dejado atrás Ana Fernández,Andreas Muñoz Blázquez,Ángela Cervantes,Carolina Yuste,Cristina Plazas,Elisabet Casanovas Torruella,Frank Feys,José Mota,Louise Good,Mario Zorrilla,Vicky Luengo.</desc>
 		<icon src="https://img2.rtve.es/v/6982152/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261116235500 +0000" stop="20261117004200 +0000">
-		<title>Como Sapiens: Mazapanes, asado y pimientos de la abuela</title>
-		<desc>Programa 35: Mazapanes, asado y pimientos de la abuela. Hoy, Como Sapiens comienza a preparar las comidas navideñas con las figuritas de mazapán que nos va a traer Elena Furiase. Además, cocinamos unas empanadillas con el actor Secun de la Rosa. Y contamos con Virginia Troconis, Tania Llasera y nuestros expertos Pepa Muñoz y Carlos Pérez.</desc>
-		<icon src="https://img2.rtve.es/v/5737404/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120002000 +0000" stop="20261120020000 +0000">
+		<title>Mujeres - La llamada</title>
+		<desc>María y Susana, dos adolescentes castigadas, tienen un grupo llamado Suma Latina. Pero desde que Dios se le aparece a María una noche, todo cambia Anna Castillo,Belén Cuesta,Gracia Olayo,Macarena García,María Isabel Díaz Lago,Richard Collins-Moore.</desc>
+		<icon src="https://img2.rtve.es/v/5945752/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117004200 +0000" stop="20261117012900 +0000">
-		<title>Como Sapiens: Turrón de chocolate, carbón dulce y roscón</title>
-		<desc>Programa 38: Turrón de chocolate, carbón dulce y roscón. Hoy, Como Sapiens arranca el año viajando hasta Sevilla para elaborar unos pestiños con familiares de Rita Heyworth y Ken Appledorn. Antonio Garrido nos prepara junto a su familia una tarta de almendras y contaremos con Jorge Blas, Virginia Troconis, Miki Irisarri y el pastelero Alejandro Montes.</desc>
-		<icon src="https://img2.rtve.es/v/5750778/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120020000 +0000" stop="20261120032700 +0000">
+		<title>Mujeres - Chavalas</title>
+		<desc>Marta, fotógrafa, regresa a Cornellà tras ser despedida de Shame, un magazine de Barcelona. Ahora debe volver a la vida que pensaba haber dejado atrás Ana Fernández,Andreas Muñoz Blázquez,Ángela Cervantes,Carolina Yuste,Cristina Plazas,Elisabet Casanovas Torruella,Frank Feys,José Mota,Louise Good,Mario Zorrilla,Vicky Luengo.</desc>
+		<icon src="https://img2.rtve.es/v/6982152/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117012900 +0000" stop="20261117021600 +0000">
-		<title>Como Sapiens: Bacoreta marinada, cordero extremeño</title>
-		<desc>Programa 56: Bacoreta marinada,cordero extremeño y gorrotxas. Como Sapiens y Sole Giménez viajan hasta Valencia para descubrir los secretos del famoso suquet de peix valenciano.</desc>
-		<icon src="https://img2.rtve.es/v/5891160/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120032700 +0000" stop="20261120050000 +0000">
+		<title>Mujeres - La isla de las mentiras</title>
+		<desc>1921. El buque Santa Isabel se hunde frente a la isla de Sálvora, Galicia. Tres jóvenes isleñas deciden ir al rescate, algo que les sale muy caro. Aitor Luna,Ana Oca,Celso Bugallo,Dario Grandinetti,Javier Tolosa,Leire Berrocal,Machi Salgado,María Costas,Mela Casal,Miguel Borines,Milo Taboada,Nerea Barros,Roberto Leal,Sergio Quintana,Victoria Teijeiro.</desc>
+		<icon src="https://img2.rtve.es/v/6421960/vertical/?h=400" />
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117021600 +0000" stop="20261117030300 +0000">
-		<title>Como Sapiens: Alcachofas, sopa de Grazalema y caldereta</title>
-		<desc>Programa 64: Alcachofas, sopa de Grazalema,caldereta popular. Hoy, Sole Giménez cocinará en Valencia junto a Ricard Camarena, chef con dos Estrellas Michelin, unas alcachofas confitadas.</desc>
-		<icon src="https://img2.rtve.es/v/5954307/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120050000 +0000" stop="20261120063300 +0000">
+		<title>Comedia - Mi gran noche</title>
+		<desc>Alphonso, la estrella musical de una gala especial de Nochevieja, es capaz de todo para asegurarse que su actuación tiene la máxima audiencia. Ana Polvorosa,Blanca Suárez,Carlos Areces,Carmen Machi,Carolina Bang,Enrique Villén,Hugo Silva,Jaime Ordóñez,Luís Callejo,Luis Fernández,Mario Casas,Pepón Nieto,Raphael,Santiago Segura,Tomás Pozzi.</desc>
+		<icon src="https://img2.rtve.es/v/5740729/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117030300 +0000" stop="20261117034900 +0000">
-		<title>Como Sapiens: Arroz con leche, macedonia y mucho chocolate</title>
-		<desc>Arroz con leche, macedonia y mucho chocolate.</desc>
-		<icon src="https://img2.rtve.es/v/6037050/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120063300 +0000" stop="20261120080300 +0000">
+		<title>Comedia - Mamá no enRedes</title>
+		<desc>Clara, madre de dos jóvenes adolescentes, una mujer abierta a nuevas experiencias que decide crear un perfil en TILINK, la app de citas de moda. Antonio Garrido,Antonio Pagudo,Ben Temple,Eva Ugarte,Juan Grandinetti,Malena Alterio,María Castro.</desc>
+		<icon src="https://img2.rtve.es/v/16181600/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117034900 +0000" stop="20261117040700 +0000">
-		<title>El Método Delicious Las galletas Delicious</title>
-		<desc>Las galletas Delicious: el origen de todo. Marta Sanahuja abre las puertas de su casa en 'El Método Delicious', el formato donde explicará su filosofía de vida a través de diferentes recetas.</desc>
-		<icon src="https://img2.rtve.es/v/17043389/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120080300 +0000" stop="20261120095200 +0000">
+		<title>Comedia - Tierra firme</title>
+		<desc>Dos mujeres, Eva y Kat, y el mejor amigo, Roger. ¿Es posible vivir el amor, la familia, y la vida de formas tan distintas y aun así permanecer unidos? Becky Bullman,Charlotte Atkinson,David Verdaguer,Enrique Quintero,Faith Edwards,Geraldine Chaplin,Lara Rossi,Laraine Dix,Meghan Treadway,Natalia Tena,Oona Chaplin,Peyton Jowers,Philip Arditti,Reginald Philip,Rogers Leona,Russel Wynn,Simon Bernstein,T'Na Millermartin,Taya De La Cruz,Tigerlily Gascoyne-Odle,Trevor White.</desc>
+		<icon src="https://img2.rtve.es/v/5601915/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117040700 +0000" stop="20261117042200 +0000">
-		<title>El Método Delicious - Episodio 2: Guiso de albóndigas</title>
-		<desc>Marta Sanahuja cocina las albóndigas de su abuela en el segundo programa de 'El Método Delicious'. Y además, las transforma en su bocadillo favorito.</desc>
-		<icon src="https://img2.rtve.es/v/17052932/vertical/?h=400" />
-		<category>SERIES</category>
+	<programme channel="RTVE_SomosCine.TV" start="20261120095200 +0000" stop="20261120115700 +0000">
+		<title>Comedia - Los miércoles no existen</title>
+		<desc>Patricia sale con César, pero él no ha podido olvidar a Mara, su novia de toda la vida, que lo dejó justo después de pedirle que se casara con él. Alexandra Jiménez,Andrea Duro,Eduardo Noriega,Gorka Otxoa,Inma Cuesta,María León,William Miller.</desc>
+		<icon src="https://img2.rtve.es/v/5565794/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117042200 +0000" stop="20261117043900 +0000">
-		<title>El Método Delicious Tarta de queso</title>
-		<desc>La jueza de 'MasterChef', Delicious Martha, prepara dos versiones de la tarta de queso y descubre por qué es uno de los postres más versátiles.</desc>
-		<icon src="https://img2.rtve.es/v/17063864/vertical/?h=400" />
-		<category>CULTURE</category>
+	<programme channel="RTVE_SomosCine.TV" start="20261120115700 +0000" stop="20261120132700 +0000">
+		<title>Comedia - Mamá no enRedes</title>
+		<desc>Clara, madre de dos jóvenes adolescentes, una mujer abierta a nuevas experiencias que decide crear un perfil en TILINK, la app de citas de moda. Antonio Garrido,Antonio Pagudo,Ben Temple,Eva Ugarte,Juan Grandinetti,Malena Alterio,María Castro.</desc>
+		<icon src="https://img2.rtve.es/v/16181600/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117043900 +0000" stop="20261117050000 +0000">
-		<title>El Método Delicious: Japanese cotton cake y canelones pollo</title>
-		<desc>Japanese cotton cake y canelones de pollo, las recetas más virales de Delicious Martha. Delicious Martha prepara su receta más viral, Japanese Cotton Cake, y reflexiona sobre cómo las redes han cambiado nuestra forma de cocinar.</desc>
-		<icon src="https://img2.rtve.es/v/17074094/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120132700 +0000" stop="20261120151600 +0000">
+		<title>Comedia - Tierra firme</title>
+		<desc>Dos mujeres, Eva y Kat, y el mejor amigo, Roger. ¿Es posible vivir el amor, la familia, y la vida de formas tan distintas y aun así permanecer unidos? Becky Bullman,Charlotte Atkinson,David Verdaguer,Enrique Quintero,Faith Edwards,Geraldine Chaplin,Lara Rossi,Laraine Dix,Meghan Treadway,Natalia Tena,Oona Chaplin,Peyton Jowers,Philip Arditti,Reginald Philip,Rogers Leona,Russel Wynn,Simon Bernstein,T'Na Millermartin,Taya De La Cruz,Tigerlily Gascoyne-Odle,Trevor White.</desc>
+		<icon src="https://img2.rtve.es/v/5601915/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117050000 +0000" stop="20261117053000 +0000">
-		<title>Hacer de comer - Arroz con pluma ibérica y emperador</title>
-		<desc>Arroz con pluma ibérica y emperador con verduritas. Dani García recibirá la visita hoy de Juan Valero, un experto en arroces que vendrá al programa a contar todo lo que sabe de este preciado ingrediente, protagonista de la primera receta del día: arroz con pluma ibérica y setas.</desc>
-		<icon src="https://img2.rtve.es/v/5377037/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120151600 +0000" stop="20261120172100 +0000">
+		<title>Comedia - Los miércoles no existen</title>
+		<desc>Patricia sale con César, pero él no ha podido olvidar a Mara, su novia de toda la vida, que lo dejó justo después de pedirle que se casara con él. Alexandra Jiménez,Andrea Duro,Eduardo Noriega,Gorka Otxoa,Inma Cuesta,María León,William Miller.</desc>
+		<icon src="https://img2.rtve.es/v/5565794/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117053000 +0000" stop="20261117060000 +0000">
-		<title>Hacer de comer - Cóctel de marisco y magret de pato</title>
-		<desc>Cóctel de marisco y magret de pato con albaricoque. Hoy Dani García prepara una receta clásica de comidas y cenas navideñas, pero que se puede realizar durante todo el año. Después, el triestrellado chef Joan Roca acude al programa para cocinar junto a Dani García un magret de pato con albaricoque y lavanda.</desc>
-		<icon src="https://img2.rtve.es/v/5377811/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120172100 +0000" stop="20261120185400 +0000">
+		<title>Comedia - Mi gran noche</title>
+		<desc>Alphonso, la estrella musical de una gala especial de Nochevieja, es capaz de todo para asegurarse que su actuación tiene la máxima audiencia. Ana Polvorosa,Blanca Suárez,Carlos Areces,Carmen Machi,Carolina Bang,Enrique Villén,Hugo Silva,Jaime Ordóñez,Luís Callejo,Luis Fernández,Mario Casas,Pepón Nieto,Raphael,Santiago Segura,Tomás Pozzi.</desc>
+		<icon src="https://img2.rtve.es/v/5740729/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117060000 +0000" stop="20261117063000 +0000">
-		<title>Hacer de comer - Macarrones con chorizo y pudin de manzana</title>
-		<desc>Dani García abre las puertas de su cocina a Paco, un seguidor del programa que subió a las redes una foto de sus macarrones con chorizo y que hoy viene al programa para sorprendernos con su receta y cocinarla junto a Dani García.</desc>
-		<icon src="https://img2.rtve.es/v/5379920/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120185400 +0000" stop="20261120204300 +0000">
+		<title>Comedia - Tierra firme</title>
+		<desc>Dos mujeres, Eva y Kat, y el mejor amigo, Roger. ¿Es posible vivir el amor, la familia, y la vida de formas tan distintas y aun así permanecer unidos? Becky Bullman,Charlotte Atkinson,David Verdaguer,Enrique Quintero,Faith Edwards,Geraldine Chaplin,Lara Rossi,Laraine Dix,Meghan Treadway,Natalia Tena,Oona Chaplin,Peyton Jowers,Philip Arditti,Reginald Philip,Rogers Leona,Russel Wynn,Simon Bernstein,T'Na Millermartin,Taya De La Cruz,Tigerlily Gascoyne-Odle,Trevor White.</desc>
+		<icon src="https://img2.rtve.es/v/5601915/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117063000 +0000" stop="20261117070100 +0000">
-		<title>Hacer de comer - Tartaleta espinacas y borrachitos caramelo</title>
-		<desc>Tartaleta de espinacas y borrachitos con caramelo. Hoy Dani García prepara como primera receta, una nutritiva tartaleta de espinacas. Después, recibe a la soprano y jueza de Prodigios Ainhoa Arteta, que visita la cocina de Dani García con un problema con la elaboración del caramelo.</desc>
-		<icon src="https://img2.rtve.es/v/5380678/vertical/?h=400" />
-		<category>CULTURE</category>
+	<programme channel="RTVE_SomosCine.TV" start="20261120204300 +0000" stop="20261120224800 +0000">
+		<title>Comedia - Los miércoles no existen</title>
+		<desc>Patricia sale con César, pero él no ha podido olvidar a Mara, su novia de toda la vida, que lo dejó justo después de pedirle que se casara con él. Alexandra Jiménez,Andrea Duro,Eduardo Noriega,Gorka Otxoa,Inma Cuesta,María León,William Miller.</desc>
+		<icon src="https://img2.rtve.es/v/5565794/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117070100 +0000" stop="20261117073100 +0000">
-		<title>Hacer de comer - Patatas con chirlas y tarta de zanahoria</title>
-		<desc>Hoy Dani García cocina junto a Aitana, aspirante y finalista de la última edición de MasterChef. Juntos preparan unas patatas con chirlas. Después, Dani García prepara, como postre, una rica tarta de zanahoria.</desc>
-		<icon src="https://img2.rtve.es/v/5384108/vertical/?h=400" />
-		<category>CULTURE</category>
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117073100 +0000" stop="20261117080200 +0000">
-		<title>Hacer de comer - Calamares encebollados y chanfaina</title>
-		<desc>Calamares encebollados y chanfaina extremeña. Dos recetas tradicionales se cocinan hoy en Hacer de Comer. En primer lugar, unos calamares encebollados. Después Dani recibe la visita de Fernando Díaz, un experto en casquería que traerá la asadura de cordero, los ingredientes (corazón, riñones, hígado...) para realizar una chanfaina extremeña.</desc>
-		<icon src="https://img2.rtve.es/v/5384860/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117080200 +0000" stop="20261117085200 +0000">
-		<title>Comerse el mundo - Marruecos</title>
-		<desc>En el sexto episodio de Comerse el Mundo Peña se adentra en el colorido y bullicioso Marrakech. Además de degustar la comida callejera y de comprar en el Zoco, el chef vallisoletano se empapa de la cultura bereber del Alto Altas. Histórico de emisiones: 25/08/2018.</desc>
-		<icon src="https://img2.rtve.es/v/4706978/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117085200 +0000" stop="20261117095200 +0000">
-		<title>Comerse el mundo - Rijeka</title>
-		<desc>Peña se deja seducir por Rijeka, sus playas, paisajes y, por supuesto, su deliciosa gastronomía.</desc>
-		<icon src="https://img2.rtve.es/v/16065102/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117095200 +0000" stop="20261117105100 +0000">
-		<title>Comerse el mundo - Filipinas</title>
-		<desc>Filipinas ha sido uno de los grandes descubrimientos de esta temporada de Comerse el Mundo. Una gastronomía sorprendente, cargada de influencias y un viaje muy especial para Peña, que desarrolló su carrera en este país tiempo atrás.</desc>
-		<icon src="https://img2.rtve.es/v/5582522/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117105100 +0000" stop="20261117114300 +0000">
-		<title>Comerse el mundo - Panamá</title>
-		<desc>En la ciudad de Panamá, Javier G. Peña, tendrá la oportunidad de conocer las fondas, el famoso canal y a los mejores chefs.</desc>
-		<icon src="https://img2.rtve.es/v/6695639/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117114300 +0000" stop="20261117123700 +0000">
-		<title>Comerse el mundo - Chile</title>
-		<desc>Javier Peña comienza su aventura gastronómica en Chile, un país con una riqueza culinaria muy amplia.</desc>
-		<icon src="https://img2.rtve.es/v/6715672/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117123700 +0000" stop="20261117132400 +0000">
-		<title>Como Sapiens Oricios, puerros y bacalao con tumbet</title>
-		<desc>Hoy, Como Sapiens se lanza al mar para disfrutar de un marisco singular: los oricios o erizos de mar.</desc>
-		<icon src="https://img2.rtve.es/v/6054824/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117132400 +0000" stop="20261117141100 +0000">
-		<title>Como Sapiens: Espardenya de lubina, gallo en pebre y tortas</title>
-		<desc>Hoy, Como Sapiens y Ken Appledorn van hasta Sevilla para conocer cómo se elaboran las tortas sevillanas. Además, Celia Villalobos degusta el brioche tostado con helado y contaremos con Virginia Troconis, Tania Llasera y el chef Íñigo Urrechu.</desc>
-		<icon src="https://img2.rtve.es/v/6066073/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117141100 +0000" stop="20261117145800 +0000">
-		<title>Como Sapiens: Patatas revolconas, rabo de toro pan calatrava</title>
-		<desc>Patatas revolconas, rabo de toro y pan de calatrava. Hoy, Como Sapiens y Carolina Cerezuela van hasta Mallorca para cocinar coca de calabacín con queso y aceitunas. Elena Furiase degustará un mollete de rabo de toro, contaremos con Ken Appledorn, la chef Pepa Muñoz y el pastelero Alejandro Montes.</desc>
-		<icon src="https://img2.rtve.es/v/6084418/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117145800 +0000" stop="20261117154500 +0000">
-		<title>Como Sapiens: Papas, patatas y chocolate al cubo</title>
-		<desc>Hoy, Como Sapiens nos trae dos impresionantes platos tradicionales con un mismo ingrediente principal: las papas con choco gaditanas, y las patatas a la riojana con chorizo.</desc>
-		<icon src="https://img2.rtve.es/v/6095886/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117154500 +0000" stop="20261117163100 +0000">
-		<title>Como Sapiens: Bizcochos, galletas y sopa de almendras</title>
-		<desc>Programa 74: Bizcochos, galletas y sopa de almendras. Dos dulces deliciosos: la bica gallega, que es un riquísimo bizcocho tradicional; y las galletas de tres chocolates que nos presenta Elena Furiase.</desc>
-		<icon src="https://img2.rtve.es/v/6116648/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117163100 +0000" stop="20261117164400 +0000">
-		<title>El Método Delicious- Recetas fáciles para hacer pan en casa</title>
-		<desc>Recetas fáciles y rápidas para hacer pan en casa. En este programa de 'El Método Delicious', Marta Sanahuja nos enseña un 'fondo de despensa' indispensable en su cocina, el pan sin amasado.</desc>
-		<icon src="https://img2.rtve.es/v/17094366/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117164400 +0000" stop="20261117170100 +0000">
-		<title>El Método Delicious- Postres saludables con chocolate</title>
-		<desc>Marta Sanahuja prepara dos postres que tienen cabida en una dieta saludable y equilibrada: unos donuts al microondas y una trenza de chocolate.</desc>
-		<icon src="https://img2.rtve.es/v/17105901/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117170100 +0000" stop="20261117171400 +0000">
-		<title>El Método Delicious - Recetas fáciles en 15 minutos</title>
-		<desc>Marta Sanahuja prepara un salmón con costra de pistachos y una 'one pot pasta' en solo 15 minutos, un menú perfecto para sorprender a tus invitados.</desc>
-		<icon src="https://img2.rtve.es/v/17115299/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117171400 +0000" stop="20261117173000 +0000">
-		<title>El Método Delicious - Episodio 9 - Receta de la tarta Sacher</title>
-		<desc>Marta Sanahuja elabora la tarta de chocolate por excelencia: la tarta Sacher. El postre perfecto para todos los aficiones al dulce.</desc>
-		<icon src="https://img2.rtve.es/v/17120754/vertical/?h=400" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117173000 +0000" stop="20261117180100 +0000">
-		<title>Hacer de comer - Arroz pluma ibérica y emperador verduritas</title>
-		<desc>Arroz con pluma ibérica y emperador con verduritas. Dani García recibirá la visita hoy de Juan Valero, un experto en arroces que vendrá al programa a contar todo lo que sabe de este preciado ingrediente, protagonista de la primera receta del día: arroz con pluma ibérica y setas.</desc>
-		<icon src="https://img2.rtve.es/v/5377037/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117180100 +0000" stop="20261117183100 +0000">
-		<title>Hacer de comer - Cóctel marisco y magret de pato</title>
-		<desc>Cóctel de marisco y magret de pato con albaricoque. Hoy Dani García prepara una receta clásica de comidas y cenas navideñas, pero que se puede realizar durante todo el año. Después, el triestrellado chef Joan Roca acude al programa para cocinar junto a Dani García un magret de pato con albaricoque y lavanda.</desc>
-		<icon src="https://img2.rtve.es/v/5377811/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117183100 +0000" stop="20261117190100 +0000">
-		<title>Hacer de comer - Macarrones con chorizo y pudin de manzana</title>
-		<desc>Dani García abre las puertas de su cocina a Paco, un seguidor del programa que subió a las redes una foto de sus macarrones con chorizo y que hoy viene al programa para sorprendernos con su receta y cocinarla junto a Dani García.</desc>
-		<icon src="https://img2.rtve.es/v/5379920/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117190100 +0000" stop="20261117193100 +0000">
-		<title>Hacer de comer - Tartaleta espinacas y borrachitos caramelo</title>
-		<desc>Tartaleta de espinacas y borrachitos con caramelo. Hoy Dani García prepara como primera receta, una nutritiva tartaleta de espinacas. Después, recibe a la soprano y jueza de Prodigios Ainhoa Arteta, que visita la cocina de Dani García con un problema con la elaboración del caramelo.</desc>
-		<icon src="https://img2.rtve.es/v/5380678/vertical/?h=400" />
-		<category>CULTURE</category>
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117193100 +0000" stop="20261117200200 +0000">
-		<title>Hacer de comer - Patatas con chirlas y tarta de zanahoria</title>
-		<desc>Hoy Dani García cocina junto a Aitana, aspirante y finalista de la última edición de MasterChef. Juntos preparan unas patatas con chirlas. Después, Dani García prepara, como postre, una rica tarta de zanahoria.</desc>
-		<icon src="https://img2.rtve.es/v/5384108/vertical/?h=400" />
-		<category>CULTURE</category>
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117200200 +0000" stop="20261117203200 +0000">
-		<title>Hacer de comer - Calamares encebollados y chanfaina</title>
-		<desc>Calamares encebollados y chanfaina extremeña. Dos recetas tradicionales se cocinan hoy en Hacer de Comer. En primer lugar, unos calamares encebollados. Después Dani recibe la visita de Fernando Díaz, un experto en casquería que traerá la asadura de cordero, los ingredientes (corazón, riñones, hígado...) para realizar una chanfaina extremeña.</desc>
-		<icon src="https://img2.rtve.es/v/5384860/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117203200 +0000" stop="20261117212300 +0000">
-		<title>Comerse el mundo - Marruecos</title>
-		<desc>En el sexto episodio de Comerse el Mundo Peña se adentra en el colorido y bullicioso Marrakech. Además de degustar la comida callejera y de comprar en el Zoco, el chef vallisoletano se empapa de la cultura bereber del Alto Altas. Histórico de emisiones: 25/08/2018.</desc>
-		<icon src="https://img2.rtve.es/v/4706978/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117212300 +0000" stop="20261117222300 +0000">
-		<title>Comerse el mundo - Rijeka</title>
-		<desc>Peña se deja seducir por Rijeka, sus playas, paisajes y, por supuesto, su deliciosa gastronomía.</desc>
-		<icon src="https://img2.rtve.es/v/16065102/vertical/?h=400" />
-	</programme>
-	<programme channel="RTVE_Cocina.TV" start="20261117222300 +0000" stop="20261117232200 +0000">
-		<title>Comerse el mundo - Filipinas</title>
-		<desc>Filipinas ha sido uno de los grandes descubrimientos de esta temporada de Comerse el Mundo. Una gastronomía sorprendente, cargada de influencias y un viaje muy especial para Peña, que desarrolló su carrera en este país tiempo atrás.</desc>
-		<icon src="https://img2.rtve.es/v/5582522/vertical/?h=400" />
+	<programme channel="RTVE_SomosCine.TV" start="20261120224800 +0000" stop="20261121002100 +0000">
+		<title>Comedia - Mi gran noche</title>
+		<desc>Alphonso, la estrella musical de una gala especial de Nochevieja, es capaz de todo para asegurarse que su actuación tiene la máxima audiencia. Ana Polvorosa,Blanca Suárez,Carlos Areces,Carmen Machi,Carolina Bang,Enrique Villén,Hugo Silva,Jaime Ordóñez,Luís Callejo,Luis Fernández,Mario Casas,Pepón Nieto,Raphael,Santiago Segura,Tomás Pozzi.</desc>
+		<icon src="https://img2.rtve.es/v/5740729/vertical/?h=400" />
+		<category>ENTERTAINMENT</category>
 	</programme>
 	<programme channel="RTVE_Cocina.TV" start="20261117232200 +0000" stop="20261118001400 +0000">
 		<title>Comerse el mundo - Panamá</title>
@@ -802,150 +616,196 @@
 		<desc>En esta nueva entrega de Cocina al Punto, Peña y Tamara reciben la visita del reconocido chef Rodrigo de la Calle que cocinará su plato estrella: Tartar de remolacha. Además, en el programa se harán estas dos recetas: Sopa de cebolla y Esmeraldas de melón con hierbabuena. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
 		<icon src="https://img2.rtve.es/v/5685986/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117003000 +0000" stop="20261117023000 +0000">
-		<title>MINUT 91: Dilluns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261119232100 +0000" stop="20261120001200 +0000">
+		<title>Cocina al punto - Ternera Euskal Okela y queso Idiazábal</title>
+		<desc>Peña visita Azpeitia, en Guipúzcoa. Allí conoce de cerca la carne de vaca Limusina y la oveja Latxa, de cuya leche se elabora el queso Idiazábal. Además, Tamara y Peña cocinan Rabo de ternera en crepinette con patatas souflé y Crema de Idiazábal con sardina ahumada. Invitado: Manuel Domínguez. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5654151/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117023000 +0000" stop="20261117030000 +0000">
-		<title>SE FA SABER</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120001200 +0000" stop="20261120005900 +0000">
+		<title>Como Sapiens - Programa 23: Judiones, sobaos y castañas</title>
+		<desc>Hoy, Como Sapiens nos trae recetas de toda España; desde los postres granadinos a los platos de cuchara madrileños. Cocinamos con Juanjo Losada y Juan Aceituno, dos chefs con Estrella Michelin. Y contamos con Virginia Troconis, Fran Perea, Tania Llasera, Ken Appledorn y Santi Rodríguez.</desc>
+		<icon src="https://img2.rtve.es/v/5703498/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117030000 +0000" stop="20261117033000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120005900 +0000" stop="20261120014600 +0000">
+		<title>Como Sapiens Boletus, cabracho y gallina en pepitoria</title>
+		<desc>Programa 60: Boletus, cabracho y gallina en pepitoria. Programa 60: Boletus, cabracho y gallina en pepitoria.</desc>
+		<icon src="https://img2.rtve.es/v/5918848/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117033000 +0000" stop="20261117040000 +0000">
-		<title>LA FINESTRA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120014600 +0000" stop="20261120023300 +0000">
+		<title>Como Sapiens: Chipirones, salaíllos y pescaito frito</title>
+		<desc>Programa 28: Chipirones, salaíllos y pescaito frito. Programa de gastronomía en el queremos contar todo lo que ocurre alrededor de una comida: desde viajes gastronómicos o productos con denominación de origen, hasta los mejores restaurantes, las recetas más antiguas o los cocineros con estrella.</desc>
+		<icon src="https://img2.rtve.es/v/5710104/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117040000 +0000" stop="20261117043000 +0000">
-		<title>SE FA SABER</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120023300 +0000" stop="20261120031900 +0000">
+		<title>Como Sapiens: Manitas, guiso de oveja y calabaza rellena</title>
+		<desc>Programa 63: Manitas, guiso de oveja y calabaza rellena. Hoy, Como Sapiens nos trae dos deliciosos dulces: la tarta de Elche o alicantina, y las coronitas de Santa Orosia. Además, la chef Pepa Muñoz preparará con Virginia Troconis una fabulosa calabaza rellena.</desc>
+		<icon src="https://img2.rtve.es/v/5944514/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117043000 +0000" stop="20261117050000 +0000">
-		<title>LA FINESTRA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120031900 +0000" stop="20261120040600 +0000">
+		<title>Como Sapiens: galletas de San Valentín y relleno de carnaval</title>
+		<desc>Programa 44: galletas de San Valentín y relleno de carnaval. Hoy, Como Sapiens celebra San Valentín. El actor Antonio Garrido prepara en un conocido restaurante de la capital un cocktail especial. Ken Appledorn aprende a hacer unas galletas especiales del día de los enamorados y contaremos con Elena Furiase y los chefs Pepa Muñoz y Rodrigo de la Calle.</desc>
+		<icon src="https://img2.rtve.es/v/5792273/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117050000 +0000" stop="20261117053000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120040600 +0000" stop="20261120050000 +0000">
+		<title>Como Sapiens: Pez fresco, pez salao y un arroz con bacalao</title>
+		<desc>Programa 11: Pez fresco, pez salao y un arroz con bacalao. Hoy, en Como Sapiens toca pescado. Hablaremos de lubinas, anchoas y arroz con bacalao. Además, el chef con dos Estrellas Michelin Toño Pérez nos preparará un menú. Contaremos con el cocinero Íñigo Urrechu, el pescadero Javier Botana, y con Virginia Troconis, Elena Furiase y Celia Villalobos.</desc>
+		<icon src="https://img2.rtve.es/v/5684042/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117053000 +0000" stop="20261117060000 +0000">
-		<title>LA FINESTRA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120050000 +0000" stop="20261120052800 +0000">
+		<title>El señor de los bosques - Sierra de Albarracín</title>
+		<desc>La Sierra de Albarracín acoge a Vicente Sevilla y a la presentadora y actriz Miriam Díaz Aroca. En este laberinto de rocas encontramos orejas de burro, lenguas de vaca y hasta bocas de dragón. Son plantas y setas de este bello entorno que entre otros secretos guarda una importante colección.</desc>
+		<icon src="https://img2.rtve.es/v/5482150/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117060000 +0000" stop="20261117070000 +0000">
-		<title>NEX MATÍ</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120052800 +0000" stop="20261120055700 +0000">
+		<title>El señor de los bosques - Leurtza (Navarra)</title>
+		<desc>El bosque de Leurtza es un paraje de cuento de hadas. El actor Tamar Novas nos acompaña por este entorno de Navarra. Descubriremos una de las setas más grande que puede encontrarse en la península ibérica. Un paseo en el que hablaremos del actor y veremos cómo se desenvuelve en la cocina.</desc>
+		<icon src="https://img2.rtve.es/v/5487404/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117070000 +0000" stop="20261117080000 +0000">
-		<title>NEX MATÍ</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120055700 +0000" stop="20261120062500 +0000">
+		<title>El señor de los bosques - Parque de Ubiñas (Asturias)</title>
+		<desc>Programa de naturaleza que nos muestra los bosques de España.</desc>
+		<icon src="https://img2.rtve.es/v/5493258/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117080000 +0000" stop="20261117083000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120062500 +0000" stop="20261120065400 +0000">
+		<title>El señor de los bosques - Sierra de Huetor (Granada)</title>
+		<desc>La cantante andaluza Diana Navarro y Vicente Sevilla descubren un entorno especial de la provincia de Granada. Encontrarán varias setas con forma cónica. Además, descubrirán cómo respiran los bosques. Con ayuda de Javier Peña cocinarán una deliciosa tapa granadina.</desc>
+		<icon src="https://img2.rtve.es/v/5499936/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117083000 +0000" stop="20261117090000 +0000">
-		<title>LA FINESTRA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120065400 +0000" stop="20261120072300 +0000">
+		<title>El señor de los bosques - Pelagallinas (Guadalajara)</title>
+		<desc>Programa de naturaleza que nos muestra los bosques de España.</desc>
+		<icon src="https://img2.rtve.es/v/5506827/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117090000 +0000" stop="20261117093000 +0000">
-		<title>SE FA SABER</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120072300 +0000" stop="20261120075100 +0000">
+		<title>El señor de los bosques - Peña Aia (País Vasco)</title>
+		<desc>La modelo Laura Sánchez nos acompaña en este viaje por el País Vasco. Nos adentramos en la montaña más escarpada de la costa vasca.</desc>
+		<icon src="https://img2.rtve.es/v/5513891/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117093000 +0000" stop="20261117113000 +0000">
-		<title>MINUT 91: Dilluns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120075100 +0000" stop="20261120084000 +0000">
+		<title>Cocina al punto- La coquina de isla Canela</title>
+		<desc>En el programa de hoy, Peña visita Isla Canela, en Huelva. Allí se convierte en mariscador por un día y coge con sus propias manos las famosas coquinas de la zona. El chef y Tamara Falcó cocinan dos deliciosas recetas: Arroz meloso de coquinas y Gambas a la sal. Invitado: el chef Javier Estevez. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5624687/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117113000 +0000" stop="20261117120000 +0000">
-		<title>EN BLANC: CAPÍTOL 1</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>SERIES</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120084000 +0000" stop="20261120093100 +0000">
+		<title>Cocina al punto- Redondo de ternera a la cazuela</title>
+		<desc>Hoy, en Cocina al Punto, el actor y humorista José Mota visitará los fogones para cocinar un delicioso Pisto manchego con huevo. Además, Peña y Tamara mostrarán cómo hacer un redondo de ternera a la cazuela y unos prácticos mini San Jacobos. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5705287/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117120000 +0000" stop="20261117123000 +0000">
-		<title>SE FA SABER</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120093100 +0000" stop="20261120102200 +0000">
+		<title>Cocina al punto - Carrilleras cerdo ibérico cerveza negra</title>
+		<desc>Carrilleras de cerdo ibérico con cerveza negra. Hoy, en Cocina al Punto, Peña y Tamara cocinan Carrilleras de cerdo ibérico con cerveza negra y trompeta, Vichysoisse con hojaldre de queso, Tortilla Enrejada y reciben la visita del humorista Agustín Jiménez. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5696965/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117123000 +0000" stop="20261117130000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120102200 +0000" stop="20261120111200 +0000">
+		<title>Cocina al punto - Algas. Fiambreras para la playa</title>
+		<desc>Peña se desplaza hasta el Puerto de Santa María, en Cádiz, para descubrir el cultivo de algas. El chef y Tamara Falcó cocinan tres recetas para ir a la playa: fiambrera de cuscús con algas, Pechuga de pollo al curry y Gazpacho de Melón. Invitados: Lola Marceli y Dani Luque de la serie Mercado Central. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5658056/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117130000 +0000" stop="20261117133000 +0000">
-		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120111200 +0000" stop="20261120120100 +0000">
+		<title>Cocina al punto con Peña y Tamara - El pan de Villanubla</title>
+		<desc>En el programa de hoy Javier Peña se desplaza a Villanubla, en Valladolid para conocer más de cerca los secretos del pan candeal. El chef y Tamara cocinan dos ricas recetas: Repápalos (albóndigas de pan) y Bombones de Salmorejo. Invitado: Javier Cocheteux, panadero premio Miga de Oro 2019. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5629462/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117133000 +0000" stop="20261117140000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120120100 +0000" stop="20261120123200 +0000">
+		<title>Torres en la cocina - Le damos la vuelta</title>
+		<desc>Para comenzar el programa, Los Torres preparan un sabroso flan de bacalao. Y para finalizar, un delicioso arroz caldoso con pollo al chilindrón.</desc>
+		<icon src="https://img2.rtve.es/v/3921483/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117140000 +0000" stop="20261117153000 +0000">
-		<title>PREMIS PERIFÈRIC 2a EDICIÓ: GALA COMARCAL MATARRANYA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120123200 +0000" stop="20261120130300 +0000">
+		<title>Torres en la cocina - El cerdo blanco</title>
+		<desc>Hoy los hermanos Torres proponen una receta de manitas de cerdo rellenas con una presentación diferente y muy sorprendente.</desc>
+		<icon src="https://img2.rtve.es/v/3445403/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117153000 +0000" stop="20261117163000 +0000">
-		<title>SE FA SABER</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120130300 +0000" stop="20261120133500 +0000">
+		<title>Torres en la cocina - Un menú de santos</title>
+		<desc>Javier y Sergio preparan dos versiones de buñuelos con masa choux: de calabaza y fritos y de queso y al horno y además un arroz al horno con bacalao.</desc>
+		<icon src="https://img2.rtve.es/v/3542724/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117163000 +0000" stop="20261117170000 +0000">
-		<title>EFECTE MOSAIC</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120133500 +0000" stop="20261120140600 +0000">
+		<title>Torres en la cocina - Risotto escarolas y solomillo de cerdo</title>
+		<desc>Risotto de escarolas y solomillo de cerdo. Con la campeona mundial de natación sincronizada Gemma Mengual los hermanos Torres van a preparar un risotto de escarolas, y también un solomillo de cerdo relleno con una salsa muy especial con base de zanahorias.</desc>
+		<icon src="https://img2.rtve.es/v/4285733/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117170000 +0000" stop="20261117173000 +0000">
-		<title>LA FINESTRA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120140600 +0000" stop="20261120143700 +0000">
+		<title>Torres en la cocina - Raviolis de gambas y flan de coco</title>
+		<desc>Hoy acompaña a Javier y Sergio Cayetana G. Cuervo. Juntos preparan unos raviolis de gambas con estragón, pero sin pasta y un flan de coco con fresas y menta.</desc>
+		<icon src="https://img2.rtve.es/v/4590211/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117173000 +0000" stop="20261117180000 +0000">
-		<title>CONNECTA 10 COMARQUES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120143700 +0000" stop="20261120150800 +0000">
+		<title>Torres en la cocina - Ensalada tomate cerezas. Lomo relleno</title>
+		<desc>Ensalada de tomate y cerezas. Lomo relleno. Hoy tomates rellenos de queso con una salsa poco común y muy sabrosa, con cerezas. De segundo, un lomo ibérico abierto como un libro, en el que hermanos Torres insertarán una pasta de foie y chalota.</desc>
+		<icon src="https://img2.rtve.es/v/4659591/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117180000 +0000" stop="20261117190000 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>MUSIC</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120150800 +0000" stop="20261120153400 +0000">
+		<title>A pedir de boca - Queso denominación de origen la Serena</title>
+		<desc>Queso de la Serena. Queso de la Serena.</desc>
+		<icon src="https://img2.rtve.es/v/629095/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117190000 +0000" stop="20261117193000 +0000">
-		<title>LA FINESTRA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120153400 +0000" stop="20261120160600 +0000">
+		<title>A pedir boca Espárragos Navarra,alcachofas,pimiento Piquillo</title>
+		<desc>Espárragos, alcachofas, pimientos. Espárragos de Navarra, alcachofas de Tudela y pimientos del piquillo.</desc>
+		<icon src="https://img2.rtve.es/v/675614/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117193000 +0000" stop="20261117200000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120160600 +0000" stop="20261120163300 +0000">
+		<title>A pedir de boca - Mariscos de la Ría de Arosa</title>
+		<desc>Un viaje para descubrir los secretos exquisitos de los crustáceos y moluscos de la Ría de Arosa.</desc>
+		<icon src="https://img2.rtve.es/v/1199218/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117200000 +0000" stop="20261117203000 +0000">
-		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117203000 +0000" stop="20261117210000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117210000 +0000" stop="20261117213000 +0000">
-		<title>SE FA SABER</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117213000 +0000" stop="20261117230000 +0000">
-		<title>MINUT 91: Dimarts</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120163300 +0000" stop="20261120170200 +0000">
+		<title>A pedir de boca - Queso manchego artesano</title>
+		<desc>Documental sobre el queso manchego, orígenes, la elaboración tradicional artesana e industrial, el proceso de maduración del queso, los requisitos para ser considerado con denominación de origen por el Consejo Regulador, características de las ovejas cuya leche se utiliza para la elaboración del queso manchego, la importancia de la alimentación de las mismas y recetas de cocina para la degustación del queso manchego. Se intercalan declaraciones de Juan moreno Manzanaro (maestro quesero) sobre la elaboración artesanal del queso, Jesús García (ganadero de la cooperativa de Tomelloso) sobre el tipo de ovejas que se cría en la mancha y la alimentación que favorece la producción de leche, Andrés de la Plata (maestro quesero) sobre los secretos de una correcta maduración del queso y Adolfo Muñoz (restaurador de Adolfo en Toledo) sobre cómo partir el queso para la degustación y recetas con queso manchego. Histórico de emisiones: -04/03/1998 -23/01/2010 -15/09/2011.</desc>
+		<icon src="https://img2.rtve.es/v/675557/vertical/?h=400" />
 		<category>CULTURE</category>
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117230000 +0000" stop="20261117233000 +0000">
-		<title>SE FA SABER</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+	<programme channel="RTVE_Cocina.TV" start="20261120170200 +0000" stop="20261120173100 +0000">
+		<title>El señor de los bosques - Sierra de Albarracín</title>
+		<desc>La Sierra de Albarracín acoge a Vicente Sevilla y a la presentadora y actriz Miriam Díaz Aroca. En este laberinto de rocas encontramos orejas de burro, lenguas de vaca y hasta bocas de dragón. Son plantas y setas de este bello entorno que entre otros secretos guarda una importante colección.</desc>
+		<icon src="https://img2.rtve.es/v/5482150/vertical/?h=400" />
 	</programme>
-	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261117233000 +0000" stop="20261118000000 +0000">
-		<title>L'EBRE NOTÍCIES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-		<category>NEWS</category>
+	<programme channel="RTVE_Cocina.TV" start="20261120173100 +0000" stop="20261120175900 +0000">
+		<title>El señor de los bosques - Leurtza (Navarra)</title>
+		<desc>El bosque de Leurtza es un paraje de cuento de hadas. El actor Tamar Novas nos acompaña por este entorno de Navarra. Descubriremos una de las setas más grande que puede encontrarse en la península ibérica. Un paseo en el que hablaremos del actor y veremos cómo se desenvuelve en la cocina.</desc>
+		<icon src="https://img2.rtve.es/v/5487404/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120175900 +0000" stop="20261120182800 +0000">
+		<title>El señor de los bosques - Parque de Ubiñas (Asturias)</title>
+		<desc>Programa de naturaleza que nos muestra los bosques de España.</desc>
+		<icon src="https://img2.rtve.es/v/5493258/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120182800 +0000" stop="20261120185700 +0000">
+		<title>El señor de los bosques - Sierra de Huetor (Granada)</title>
+		<desc>La cantante andaluza Diana Navarro y Vicente Sevilla descubren un entorno especial de la provincia de Granada. Encontrarán varias setas con forma cónica. Además, descubrirán cómo respiran los bosques. Con ayuda de Javier Peña cocinarán una deliciosa tapa granadina.</desc>
+		<icon src="https://img2.rtve.es/v/5499936/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120185700 +0000" stop="20261120192500 +0000">
+		<title>El señor de los bosques - Pelagallinas (Guadalajara)</title>
+		<desc>Programa de naturaleza que nos muestra los bosques de España.</desc>
+		<icon src="https://img2.rtve.es/v/5506827/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120192500 +0000" stop="20261120195400 +0000">
+		<title>El señor de los bosques - Peña Aia (País Vasco)</title>
+		<desc>La modelo Laura Sánchez nos acompaña en este viaje por el País Vasco. Nos adentramos en la montaña más escarpada de la costa vasca.</desc>
+		<icon src="https://img2.rtve.es/v/5513891/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120195400 +0000" stop="20261120204300 +0000">
+		<title>Cocina al punto- La coquina de isla Canela</title>
+		<desc>En el programa de hoy, Peña visita Isla Canela, en Huelva. Allí se convierte en mariscador por un día y coge con sus propias manos las famosas coquinas de la zona. El chef y Tamara Falcó cocinan dos deliciosas recetas: Arroz meloso de coquinas y Gambas a la sal. Invitado: el chef Javier Estevez. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5624687/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120204300 +0000" stop="20261120213300 +0000">
+		<title>Cocina al punto- Redondo de ternera a la cazuela</title>
+		<desc>Hoy, en Cocina al Punto, el actor y humorista José Mota visitará los fogones para cocinar un delicioso Pisto manchego con huevo. Además, Peña y Tamara mostrarán cómo hacer un redondo de ternera a la cazuela y unos prácticos mini San Jacobos. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5705287/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120213300 +0000" stop="20261120222400 +0000">
+		<title>Cocina al punto- Carrilleras de cerdo ibérico cerveza negra</title>
+		<desc>Carrilleras de cerdo ibérico con cerveza negra. Hoy, en Cocina al Punto, Peña y Tamara cocinan Carrilleras de cerdo ibérico con cerveza negra y trompeta, Vichysoisse con hojaldre de queso, Tortilla Enrejada y reciben la visita del humorista Agustín Jiménez. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5696965/vertical/?h=400" />
+	</programme>
+	<programme channel="RTVE_Cocina.TV" start="20261120222400 +0000" stop="20261120231500 +0000">
+		<title>Cocina al punto- Algas. Fiambreras para la playa</title>
+		<desc>Peña se desplaza hasta el Puerto de Santa María, en Cádiz, para descubrir el cultivo de algas. El chef y Tamara Falcó cocinan tres recetas para ir a la playa: fiambrera de cuscús con algas, Pechuga de pollo al curry y Gazpacho de Melón. Invitados: Lola Marceli y Dani Luque de la serie Mercado Central. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
+		<icon src="https://img2.rtve.es/v/5658056/vertical/?h=400" />
 	</programme>
 	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261118000000 +0000" stop="20261118003000 +0000">
 		<title>L'EBRE NOTÍCIES. L'ENTREVISTA</title>
@@ -1254,185 +1114,14 @@
 		<title>LA FINESTRA</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117002000 +0000" stop="20261117003000 +0000">
-		<title>Eix-27</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261119230000 +0000" stop="20261119233000 +0000">
+		<title>SE FA SABER</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
 	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117003000 +0000" stop="20261117010000 +0000">
-		<title>Zeros i uns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117010000 +0000" stop="20261117014000 +0000">
-		<title>Notícies 12. Edició vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+	<programme channel="Xarxa_Canal_Terres_Ebre.TV" start="20261119233000 +0000" stop="20261120000000 +0000">
+		<title>L'EBRE NOTÍCIES</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
 		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117014000 +0000" stop="20261117022000 +0000">
-		<title>Notícies 12. Edició esports</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117022000 +0000" stop="20261117023000 +0000">
-		<title>Eix-27</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117023000 +0000" stop="20261117030000 +0000">
-		<title>Zeros i uns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117030000 +0000" stop="20261117034000 +0000">
-		<title>Notícies 12. Edició vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117034000 +0000" stop="20261117042000 +0000">
-		<title>Notícies 12. Edició esports</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117042000 +0000" stop="20261117043000 +0000">
-		<title>Eix-27</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117043000 +0000" stop="20261117050000 +0000">
-		<title>Zeros i uns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117050000 +0000" stop="20261117053000 +0000">
-		<title>Notícies 12. Edició vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117053000 +0000" stop="20261117060000 +0000">
-		<title>Notícies 12. Edició esports</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117060000 +0000" stop="20261117080000 +0000">
-		<title>Notícies en Xarxa</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117080000 +0000" stop="20261117093000 +0000">
-		<title>Efecte Mosaic Matí. Estiu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117093000 +0000" stop="20261117100000 +0000">
-		<title>Notícies 12. Edició vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117100000 +0000" stop="20261117103000 +0000">
-		<title>Notícies 12. Edició esports</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117103000 +0000" stop="20261117110000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117110000 +0000" stop="20261117113000 +0000">
-		<title>Zeros i uns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117113000 +0000" stop="20261117120000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117120000 +0000" stop="20261117123000 +0000">
-		<title>Zeros i uns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117123000 +0000" stop="20261117130000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117130000 +0000" stop="20261117135000 +0000">
-		<title>Notícies 12. Edició migdia</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117135000 +0000" stop="20261117140000 +0000">
-		<title>Eix-27</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117140000 +0000" stop="20261117143000 +0000">
-		<title>Zeros i uns</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117143000 +0000" stop="20261117150000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117150000 +0000" stop="20261117153000 +0000">
-		<title>Notícies 12. Edició migdia</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117153000 +0000" stop="20261117170000 +0000">
-		<title>Efecte Mosaic. Tarda</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117170000 +0000" stop="20261117173000 +0000">
-		<title>+ Bàsquet</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117173000 +0000" stop="20261117180000 +0000">
-		<title>Connecta 10 Comarques</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117180000 +0000" stop="20261117190000 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117190000 +0000" stop="20261117193000 +0000">
-		<title>Notícies 12. Edició vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117193000 +0000" stop="20261117200000 +0000">
-		<title>Com la nit i el dia. On tour</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117200000 +0000" stop="20261117203000 +0000">
-		<title>[Re]poblem</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117203000 +0000" stop="20261117210000 +0000">
-		<title>Veus que inspiren</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117210000 +0000" stop="20261117213000 +0000">
-		<title>Notícies 12. Edició vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117213000 +0000" stop="20261117220000 +0000">
-		<title>Com la nit i el dia. On tour</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117220000 +0000" stop="20261117223000 +0000">
-		<title>[Re]poblem</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117223000 +0000" stop="20261117230000 +0000">
-		<title>Veus que inspiren</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117230000 +0000" stop="20261117233000 +0000">
-		<title>Notícies 12. Edició vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TAC12.TV" start="20261117233000 +0000" stop="20261118000000 +0000">
-		<title>Com la nit i el dia. On tour</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
 	</programme>
 	<programme channel="Xarxa_TAC12.TV" start="20261118000000 +0000" stop="20261118003000 +0000">
 		<title>[Re]poblem</title>
@@ -1767,135 +1456,14 @@
 		<title>Revolució</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
 	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117003000 +0000" stop="20261117010000 +0000">
-		<title>L'Informatiu (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
+	<programme channel="Xarxa_TAC12.TV" start="20261119230000 +0000" stop="20261119233000 +0000">
+		<title>Notícies 12. Edició vespre</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117010000 +0000" stop="20261117020000 +0000">
-		<title>L'Arlequinat (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117020000 +0000" stop="20261117030000 +0000">
-		<title>La Mar De Bé (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117030000 +0000" stop="20261117033000 +0000">
-		<title>En Primera Persona (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117033000 +0000" stop="20261117040000 +0000">
-		<title>Protagonistes (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117040000 +0000" stop="20261117050000 +0000">
-		<title>L'Arlequinat (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117050000 +0000" stop="20261117053000 +0000">
-		<title>En Primera Persona (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117053000 +0000" stop="20261117060000 +0000">
-		<title>L'Informatiu (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117060000 +0000" stop="20261117080000 +0000">
-		<title>NEX Matí</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117080000 +0000" stop="20261117093000 +0000">
-		<title>Efecte Mosaic</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117093000 +0000" stop="20261117100000 +0000">
-		<title>L'Informatiu (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117100000 +0000" stop="20261117110000 +0000">
-		<title>L'Arlequinat (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117110000 +0000" stop="20261117113000 +0000">
-		<title>L'Informatiu (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117113000 +0000" stop="20261117123000 +0000">
-		<title>Connecta't (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117123000 +0000" stop="20261117130000 +0000">
-		<title>Gent de Sabadell (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117130000 +0000" stop="20261117133000 +0000">
-		<title>Entrevista a Míriam Nogueras (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117133000 +0000" stop="20261117143000 +0000">
-		<title>La Porteria</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117143000 +0000" stop="20261117150000 +0000">
-		<title>+Bàsquet</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117150000 +0000" stop="20261117153000 +0000">
-		<title>L'Informatiu (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117153000 +0000" stop="20261117170000 +0000">
-		<title>Efecte Mosaic</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117170000 +0000" stop="20261117180000 +0000">
-		<title>Via 15</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117180000 +0000" stop="20261117190000 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117190000 +0000" stop="20261117193000 +0000">
-		<title>L'Informatiu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117193000 +0000" stop="20261117200000 +0000">
-		<title>Caminant per Catalunya</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117200000 +0000" stop="20261117210000 +0000">
-		<title>Connecta't</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117210000 +0000" stop="20261117213000 +0000">
-		<title>Entrevista a Josep Maria Vila d'Abadal i Serra</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117213000 +0000" stop="20261117220000 +0000">
-		<title>Va de Moda (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117220000 +0000" stop="20261117223000 +0000">
-		<title>L'Informatiu (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117223000 +0000" stop="20261117233000 +0000">
-		<title>Connecta't (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
-	</programme>
-	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261117233000 +0000" stop="20261118000000 +0000">
-		<title>Entrevista a Míriam Nogueras (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
+	<programme channel="Xarxa_TAC12.TV" start="20261119233000 +0000" stop="20261120000000 +0000">
+		<title>29N. Ester Roca, Front Ampli</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
 	</programme>
 	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261118000000 +0000" stop="20261118003000 +0000">
 		<title>Va de Moda (R)</title>
@@ -2139,185 +1707,9 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/e6de488a03b34b6a9dbc60d2c143cc10" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117003000 +0000" stop="20261117010000 +0000">
-		<title>AIXECA I PICA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117010000 +0000" stop="20261117013000 +0000">
-		<title>NOTÍCIES Vespre (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117013000 +0000" stop="20261117020000 +0000">
-		<title>CERCLE CENTRAL (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117020000 +0000" stop="20261117023000 +0000">
-		<title>NOTÍCIES Vespre (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117023000 +0000" stop="20261117030000 +0000">
-		<title>CONNECTA 10 COMARQUES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117030000 +0000" stop="20261117033000 +0000">
-		<title>NOTÍCIES Vespre (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117033000 +0000" stop="20261117040000 +0000">
-		<title>CERCLE CENTRAL (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117040000 +0000" stop="20261117050000 +0000">
-		<title>LA PORTERIA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117050000 +0000" stop="20261117053000 +0000">
-		<title>NOTÍCIES Vespre (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117053000 +0000" stop="20261117060000 +0000">
-		<title>AIXECA I PICA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117060000 +0000" stop="20261117080000 +0000">
-		<title>NOTÍCIES EN XARXA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117080000 +0000" stop="20261117093000 +0000">
-		<title>EFECTE MOSAIC. MATÍ</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117093000 +0000" stop="20261117103000 +0000">
-		<title>180 GRAUS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117103000 +0000" stop="20261117110000 +0000">
-		<title>CERCLE CENTRAL (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117110000 +0000" stop="20261117113000 +0000">
-		<title>AIXECA I PICA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117113000 +0000" stop="20261117120000 +0000">
-		<title>CONNECTA 10 COMARQUES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117120000 +0000" stop="20261117123000 +0000">
-		<title>VEUS QUE INSPIREN</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117123000 +0000" stop="20261117130000 +0000">
-		<title>CERCLE CENTRAL (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117130000 +0000" stop="20261117133000 +0000">
-		<title>NOTÍCIES Migdia</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117133000 +0000" stop="20261117140000 +0000">
-		<title>TELÓ DE FONS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117140000 +0000" stop="20261117143000 +0000">
-		<title>NOTÍCIES Migdia (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117143000 +0000" stop="20261117150000 +0000">
-		<title>+BÀSQUET</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117150000 +0000" stop="20261117153000 +0000">
-		<title>NOTÍCIES Migdia (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117153000 +0000" stop="20261117170000 +0000">
-		<title>EFECTE MOSAIC. TARDA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117170000 +0000" stop="20261117173000 +0000">
-		<title>+BÀSQUET</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117173000 +0000" stop="20261117180000 +0000">
-		<title>CONNECTA 10 COMARQUES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117180000 +0000" stop="20261117190000 +0000">
-		<title>180 GRAUS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117190000 +0000" stop="20261117192000 +0000">
-		<title>NOTÍCIES Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117192000 +0000" stop="20261117193000 +0000">
-		<title>FEM COMPTES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117193000 +0000" stop="20261117200000 +0000">
-		<title>FOT-LI</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117200000 +0000" stop="20261117202000 +0000">
-		<title>NOTÍCIES Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117202000 +0000" stop="20261117203000 +0000">
-		<title>FEM COMPTES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117203000 +0000" stop="20261117210000 +0000">
-		<title>FOT-LI (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117210000 +0000" stop="20261117212000 +0000">
-		<title>NOTÍCIES Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117212000 +0000" stop="20261117213000 +0000">
-		<title>FEM COMPTES</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117213000 +0000" stop="20261117220000 +0000">
-		<title>FOT-LI (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117220000 +0000" stop="20261117223000 +0000">
-		<title>NOTÍCIES Vespre (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117223000 +0000" stop="20261117230000 +0000">
-		<title>FOT-LI (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117230000 +0000" stop="20261117233000 +0000">
-		<title>NOTÍCIES Vespre (R)</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261117233000 +0000" stop="20261118003000 +0000">
-		<title>LA PORTERIA</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-		<category>SPORTS</category>
+	<programme channel="Xarxa_TV_Sabadell_Valles.TV" start="20261119233000 +0000" stop="20261120000000 +0000">
+		<title>Gent de Sabadell (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/GENT DE SABADELL_1784198496476" />
 	</programme>
 	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261118003000 +0000" stop="20261118010000 +0000">
 		<title>+BÀSQUET</title>
@@ -2663,536 +2055,234 @@
 		<title>FOT-LI (R)</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117002624 +0000" stop="20261117010938 +0000">
+	<programme channel="Xarxa_Canal_Reus_TV.TV" start="20261119230000 +0000" stop="20261119233000 +0000">
+		<title>NOTÍCIES Vespre (R)</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES VESPRE 2025 JORDI OTT_1759163102499" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118002356 +0000" stop="20261118010345 +0000">
 		<title>Noticies Lleida ed. Vespre</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117010938 +0000" stop="20261117012024 +0000">
-		<title>DIS: Premis Ànima</title>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118010345 +0000" stop="20261118052031 +0000">
+		<title>DIS: Dolorss Mateu</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117012024 +0000" stop="20261117051342 +0000">
-		<title>Bonus Music</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117051342 +0000" stop="20261117060000 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118052031 +0000" stop="20261118060000 +0000">
 		<title>Noticies Lleida ed. Vespre</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117060000 +0000" stop="20261117080001 +0000">
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118060000 +0000" stop="20261118080000 +0000">
 		<title>Notícies en xarxa - Matí</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117080001 +0000" stop="20261117093001 +0000">
-		<title>Efecte Mosaic. Matí</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117093001 +0000" stop="20261117094501 +0000">
-		<title>DIS: La Irreductible</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117094501 +0000" stop="20261117104501 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117104501 +0000" stop="20261117111147 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117111147 +0000" stop="20261117124215 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117124215 +0000" stop="20261117133000 +0000">
-		<title>DIS: Premis Ànima</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117133000 +0000" stop="20261117143258 +0000">
-		<title>La porteria</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117143258 +0000" stop="20261117153000 +0000">
-		<title>+Bàsquet</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117153000 +0000" stop="20261117170000 +0000">
-		<title>Efecte Mosaic. Tarda</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117170000 +0000" stop="20261117173000 +0000">
-		<title>+Bàsquet</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117173000 +0000" stop="20261117180000 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117180000 +0000" stop="20261117185853 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117185853 +0000" stop="20261117193000 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117193000 +0000" stop="20261117201644 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117201644 +0000" stop="20261117203300 +0000">
-		<title>DIS: Dolorss Mateu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117203300 +0000" stop="20261117220452 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117220452 +0000" stop="20261117225004 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117225004 +0000" stop="20261117230351 +0000">
-		<title>DIS: Dolorss Mateu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261117230351 +0000" stop="20261118003415 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118003415 +0000" stop="20261118011927 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118011927 +0000" stop="20261118050107 +0000">
-		<title>DIS: Dolorss Mateu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118050107 +0000" stop="20261118054619 +0000">
-		<title>Noticies Vespre ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118054619 +0000" stop="20261118074400 +0000">
-		<title>Notícies en xarxa - Matí</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118074400 +0000" stop="20261118091112 +0000">
-		<title>Efecte Mosaic. Matí</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118091112 +0000" stop="20261118092636 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118092636 +0000" stop="20261118102348 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118102348 +0000" stop="20261118105132 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118105132 +0000" stop="20261118122156 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118122156 +0000" stop="20261118123734 +0000">
-		<title>DIS: Dolorss Mateu</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118123734 +0000" stop="20261118130551 +0000">
-		<title>Noticies Lleida ed. Migdia</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118130551 +0000" stop="20261118140715 +0000">
-		<title>La porteria</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118140715 +0000" stop="20261118143511 +0000">
-		<title>recórrer</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118143511 +0000" stop="20261118150349 +0000">
-		<title>Noticies Lleida ed. Migdia</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118150349 +0000" stop="20261118163101 +0000">
-		<title>Efecte Mosaic. Tarda</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118163101 +0000" stop="20261118165910 +0000">
-		<title>recórrer</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118165910 +0000" stop="20261118172622 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118172622 +0000" stop="20261118182431 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118182431 +0000" stop="20261118185335 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118185335 +0000" stop="20261118194057 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118194057 +0000" stop="20261118195759 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118195759 +0000" stop="20261118213109 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118213109 +0000" stop="20261118221621 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118221621 +0000" stop="20261118223133 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261118223133 +0000" stop="20261119000157 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119000157 +0000" stop="20261119004709 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119004709 +0000" stop="20261119052920 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119052920 +0000" stop="20261119061432 +0000">
-		<title>Noticies Vespre ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119061432 +0000" stop="20261119080620 +0000">
-		<title>Notícies en xarxa - Matí</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119080620 +0000" stop="20261119093332 +0000">
-		<title>Efecte Mosaic. Matí</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119093332 +0000" stop="20261119094844 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119094844 +0000" stop="20261119104556 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119104556 +0000" stop="20261119111308 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119111308 +0000" stop="20261119124332 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119124332 +0000" stop="20261119125844 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119125844 +0000" stop="20261119132556 +0000">
-		<title>Noticies Lleida ed. Migdia</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119132556 +0000" stop="20261119142608 +0000">
-		<title>La porteria</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119142608 +0000" stop="20261119145320 +0000">
-		<title>L'Orsai</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119145320 +0000" stop="20261119152032 +0000">
-		<title>Noticies Lleida ed. Migdia</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119152032 +0000" stop="20261119164744 +0000">
-		<title>Efecte Mosaic. Tarda</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119164744 +0000" stop="20261119171456 +0000">
-		<title>L'Orsai</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119171456 +0000" stop="20261119174208 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119174208 +0000" stop="20261119183920 +0000">
-		<title>180º</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>MUSIC</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119183920 +0000" stop="20261119190632 +0000">
-		<title>Connecta Lleida Pirineus</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119190632 +0000" stop="20261119195144 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119195144 +0000" stop="20261119195656 +0000">
-		<title>Vint-i-dos</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119195656 +0000" stop="20261119201208 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119201208 +0000" stop="20261119214232 +0000">
-		<title>+Lleida</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119214232 +0000" stop="20261119222744 +0000">
-		<title>Noticies Lleida ed. Vespre</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119222744 +0000" stop="20261119223256 +0000">
-		<title>Vint-i-dos</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_LleidaTV.TV" start="20261119223256 +0000" stop="20261119224808 +0000">
-		<title>DIS</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117000000 +0000" stop="20261117003000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117003000 +0000" stop="20261117010000 +0000">
-		<title>La Rambla</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117010000 +0000" stop="20261117013000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117013000 +0000" stop="20261117020000 +0000">
-		<title>Gamma Extra</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_gamma extra_1721313653830" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117020000 +0000" stop="20261117023000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117023000 +0000" stop="20261117030000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/42a0492953bf4323aed0c46c331b597b/Images/10d7c468b60a4fa3abcee980c8eb14a6" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117030000 +0000" stop="20261117033000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117033000 +0000" stop="20261117040000 +0000">
-		<title>Zona Esportiva</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Zona Esportiva_1769714971212" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117040000 +0000" stop="20261117043000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117043000 +0000" stop="20261117050000 +0000">
-		<title>La Rambla</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117050000 +0000" stop="20261117053000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117053000 +0000" stop="20261117060000 +0000">
-		<title>Gamma Extra</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_gamma extra_1721313653830" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117060000 +0000" stop="20261117073000 +0000">
-		<title>Notícies en xarxa</title>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117073000 +0000" stop="20261117080000 +0000">
-		<title>La Rambla</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118080000 +0000" stop="20261118093001 +0000">
+		<title>Efecte Mosaic. Matí</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117080000 +0000" stop="20261117083000 +0000">
-		<title>Info Gran Penedès</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Info Gran Penedes_1716393608087" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118093001 +0000" stop="20261118094501 +0000">
+		<title>DIS: Dolorss Mateu</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117083000 +0000" stop="20261117090000 +0000">
-		<title>Zona Esportiva</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Zona Esportiva_1769714971212" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118094501 +0000" stop="20261118104502 +0000">
+		<title>180º</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118104502 +0000" stop="20261118111337 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118111337 +0000" stop="20261118124423 +0000">
+		<title>+Lleida</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118124423 +0000" stop="20261118130001 +0000">
+		<title>DIS: Dolorss Mateu</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118130001 +0000" stop="20261118132818 +0000">
+		<title>Noticies Lleida ed. Migdia</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118132818 +0000" stop="20261118142942 +0000">
+		<title>La porteria</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
 		<category>SPORTS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117090000 +0000" stop="20261117093000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118142942 +0000" stop="20261118145737 +0000">
+		<title>recórrer</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6087b5a2ea864e13844208e6de0b7ef4/Images/1a2641642eb248bb9b9f03165eca893d" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118145737 +0000" stop="20261118152615 +0000">
+		<title>Noticies Lleida ed. Migdia</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117093000 +0000" stop="20261117100000 +0000">
-		<title>Gamma Extra</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_gamma extra_1721313653830" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118152615 +0000" stop="20261118165327 +0000">
+		<title>Efecte Mosaic. Tarda</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117100000 +0000" stop="20261117103000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118165327 +0000" stop="20261118172136 +0000">
+		<title>recórrer</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6087b5a2ea864e13844208e6de0b7ef4/Images/1a2641642eb248bb9b9f03165eca893d" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118172136 +0000" stop="20261118174848 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118174848 +0000" stop="20261118184657 +0000">
+		<title>180º</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118184657 +0000" stop="20261118191602 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118191602 +0000" stop="20261118200324 +0000">
+		<title>Noticies Lleida ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117103000 +0000" stop="20261117110000 +0000">
-		<title>Aixeca i Pica</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/42a0492953bf4323aed0c46c331b597b/Images/10d7c468b60a4fa3abcee980c8eb14a6" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118200324 +0000" stop="20261118202026 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118202026 +0000" stop="20261118215336 +0000">
+		<title>+Lleida</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118215336 +0000" stop="20261118223848 +0000">
+		<title>Noticies Lleida ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118223848 +0000" stop="20261118225400 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261118225400 +0000" stop="20261119002424 +0000">
+		<title>+Lleida</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119002424 +0000" stop="20261119010936 +0000">
+		<title>Noticies Lleida ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119010936 +0000" stop="20261119055147 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119055147 +0000" stop="20261119063659 +0000">
+		<title>Noticies Vespre ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119063659 +0000" stop="20261119082847 +0000">
+		<title>Notícies en xarxa - Matí</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119082847 +0000" stop="20261119095559 +0000">
+		<title>Efecte Mosaic. Matí</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119095559 +0000" stop="20261119101111 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119101111 +0000" stop="20261119110823 +0000">
+		<title>180º</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119110823 +0000" stop="20261119113535 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119113535 +0000" stop="20261119130559 +0000">
+		<title>+Lleida</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119130559 +0000" stop="20261119132111 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119132111 +0000" stop="20261119134823 +0000">
+		<title>Noticies Lleida ed. Migdia</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+		<category>NEWS</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119134823 +0000" stop="20261119144835 +0000">
+		<title>La porteria</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
 		<category>SPORTS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117110000 +0000" stop="20261117113000 +0000">
-		<title>L'informatiu LSC</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu sords_1709741928082" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119144835 +0000" stop="20261119151547 +0000">
+		<title>L'Orsai</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/e05f42bf976b4f1eaf757f075c4ca035/Images/f4c5fe28b1ec4ed8ae00398b063aac2b" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119151547 +0000" stop="20261119154259 +0000">
+		<title>Noticies Lleida ed. Migdia</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117113000 +0000" stop="20261117120000 +0000">
-		<title>Zona Esportiva</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Zona Esportiva_1769714971212" />
-		<category>SPORTS</category>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119154259 +0000" stop="20261119171011 +0000">
+		<title>Efecte Mosaic. Tarda</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117120000 +0000" stop="20261117123000 +0000">
-		<title>Info Gran Penedès</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Info Gran Penedes_1716393608087" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119171011 +0000" stop="20261119173723 +0000">
+		<title>L'Orsai</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/e05f42bf976b4f1eaf757f075c4ca035/Images/f4c5fe28b1ec4ed8ae00398b063aac2b" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117123000 +0000" stop="20261117130000 +0000">
-		<title>La Rambla</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119173723 +0000" stop="20261119180435 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117130000 +0000" stop="20261117133000 +0000">
-		<title>L'informatiu</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu_1709741911379" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119180435 +0000" stop="20261119190147 +0000">
+		<title>180º</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+		<category>MUSIC</category>
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119190147 +0000" stop="20261119192859 +0000">
+		<title>Connecta Lleida Pirineus</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119192859 +0000" stop="20261119201411 +0000">
+		<title>Noticies Lleida ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117133000 +0000" stop="20261117140000 +0000">
-		<title>+Bàsquet</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/367b845f85a64770818f82aa821194b2/Images/651b0224e04b4edaa23b9b83f84b4f1d" />
-		<category>SPORTS</category>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119201411 +0000" stop="20261119201923 +0000">
+		<title>Vint-i-dos</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Careta_1737112437809" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117140000 +0000" stop="20261117143000 +0000">
-		<title>L'informatiu</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu_1709741911379" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119201923 +0000" stop="20261119203435 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119203435 +0000" stop="20261119220459 +0000">
+		<title>+Lleida</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+	</programme>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119220459 +0000" stop="20261119225011 +0000">
+		<title>Noticies Lleida ed. Vespre</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 		<category>NEWS</category>
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117143000 +0000" stop="20261117150000 +0000">
-		<title>Quadern de rutes</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_quadern rutes_1740991250019" />
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119225011 +0000" stop="20261119225523 +0000">
+		<title>Vint-i-dos</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Careta_1737112437809" />
 	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117150000 +0000" stop="20261117153000 +0000">
-		<title>L'informatiu</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu_1709741911379" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117153000 +0000" stop="20261117160000 +0000">
-		<title>Els esports</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Esports_1709755750044" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117160000 +0000" stop="20261117163000 +0000">
-		<title>L'informatiu LSC</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu sords_1709741928082" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117163000 +0000" stop="20261117170000 +0000">
-		<title>La Rambla</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_La Rambla_1709741957412" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117170000 +0000" stop="20261117190000 +0000">
-		<title>Ple municipal</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Ple municipal_1709755955811" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117190000 +0000" stop="20261117193000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117193000 +0000" stop="20261117200000 +0000">
-		<title>+Bàsquet</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/367b845f85a64770818f82aa821194b2/Images/651b0224e04b4edaa23b9b83f84b4f1d" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117200000 +0000" stop="20261117203000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117203000 +0000" stop="20261117210000 +0000">
-		<title>Els esports</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Esports_1709755750044" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117210000 +0000" stop="20261117213000 +0000">
-		<title>L'informatiu vespre</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Informatiu vespre_1769715788491" />
-		<category>NEWS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117213000 +0000" stop="20261117220000 +0000">
-		<title>Quadern de rutes</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_quadern rutes_1740991250019" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117220000 +0000" stop="20261117223000 +0000">
-		<title>Gamma Extra</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_gamma extra_1721313653830" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117223000 +0000" stop="20261117230000 +0000">
-		<title>+Bàsquet</title>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/367b845f85a64770818f82aa821194b2/Images/651b0224e04b4edaa23b9b83f84b4f1d" />
-		<category>SPORTS</category>
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117230000 +0000" stop="20261117233000 +0000">
-		<title>Info Gran Penedès</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Info Gran Penedes_1716393608087" />
-	</programme>
-	<programme channel="Xarxa_Penedes_TV.TV" start="20261117233000 +0000" stop="20261118000000 +0000">
-		<title>Els esports</title>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Esports_1709755750044" />
-		<category>SPORTS</category>
+	<programme channel="Xarxa_LleidaTV.TV" start="20261119225523 +0000" stop="20261119231035 +0000">
+		<title>DIS</title>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
 	</programme>
 	<programme channel="Xarxa_Penedes_TV.TV" start="20261118000000 +0000" stop="20261118003000 +0000">
 		<title>L'informatiu vespre</title>
@@ -3565,157 +2655,14 @@
 		<title>Aventurístic</title>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/42a0492953bf4323aed0c46c331b597b/Images/10d7c468b60a4fa3abcee980c8eb14a6" />
 	</programme>
-	<programme channel="TVE_STAR.TV" start="20261116232500 +0000" stop="20261117002500 +0000">
-		<title>Salón De Té La Moderna</title>
-		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
-		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
-		<category>SERIES</category>
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261119230000 +0000" stop="20261119233000 +0000">
+		<title>Info Gran Penedès</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Info Gran Penedes_1716393608087" />
 	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117002500 +0000" stop="20261117012000 +0000">
-		<title>Acacias, 38</title>
-		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
-		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117012000 +0000" stop="20261117022000 +0000">
-		<title>La Promesa</title>
-		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117022000 +0000" stop="20261117033000 +0000">
-		<title>Desaparecida</title>
-		<desc>Capitulo 10. Patricia Marcos, una joven que una noche desaparece sin dejar rastro. La producción se centra en el drama y la desesperada búsqueda de la familia por encontrarla.</desc>
-		<icon src="https://img.rtve.es/imagenes/desaparecida/1596788942370.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117033000 +0000" stop="20261117042500 +0000">
-		<title>Victimas Del Misterio</title>
-		<desc>Victimas Del Misterio (El Asesino Del Rol). Programa que trata sobre algunos crímenes ocurridos en España durante los últimos 20 años relacionados con el mundo del misterio esotérico. Las entregas contarán con testimonios y con la visión de especialistas para completar unos relatos que girarán en torno al vudú, tarot, sectas o juegos de rol.</desc>
-		<icon src="https://img.rtve.es/imagenes/victimas-del-misterio/1578996942410.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117042500 +0000" stop="20261117052500 +0000">
-		<title>Salón De Té La Moderna</title>
-		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
-		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117052500 +0000" stop="20261117062000 +0000">
-		<title>Seis Hermanas</title>
-		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
-		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117062000 +0000" stop="20261117063900 +0000">
-		<title>Flash Moda Monograficos</title>
-		<desc>Flash Moda Monograficos: Tommy Hilfiger</desc>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117063900 +0000" stop="20261117071000 +0000">
-		<title>Flash Moda Monograficos</title>
-		<desc>Flash Moda Monograficos: Balenciaga</desc>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117071000 +0000" stop="20261117082000 +0000">
-		<title>La Ruta Morancos</title>
-		<desc>Los Morancos recorren varios pueblos de la España más rural en un Camino hacia Santiago con sello propio.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-ruta-morancos/01725978007899.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117082000 +0000" stop="20261117083500 +0000">
-		<title>Zoom Tendencias</title>
-		<desc>'Zoom Tendencias' nace con las ganas de dar a conocer los nuevos estilos de vida.</desc>
-		<icon src="https://img.rtve.es/imagenes/zoom-tendencias/01758793079787.jpg" />
-		<category>ENTERTAINMENT</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117083500 +0000" stop="20261117093000 +0000">
-		<title>Acacias, 38</title>
-		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
-		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117093000 +0000" stop="20261117102500 +0000">
-		<title>La Promesa</title>
-		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117102500 +0000" stop="20261117114500 +0000">
-		<title>Se Nos Ha Ido De Las Manos</title>
-		<desc>El Activo Eres Tú. "Se nos ha ido de las manos" es un programa presentado por el periodista Carles Tamayo en el que se analizan temas que hemos normalizado, aunque claramente se nos han ido de las manos.</desc>
-		<icon src="https://img.rtve.es/imagenes/se-nos-ha-ido-de-las-manos/01772634884162.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117114500 +0000" stop="20261117123500 +0000">
-		<title>Bocas De Arena</title>
-		<desc>Mar Disecado. Una leyenda marinera dice que a quien cuente los secretos de la mar en tierra se le llenará la boca de arena, porque las palabras llevadas a tierra siempre dejan huella...</desc>
-		<icon src="https://img.rtve.es/imagenes/bocas-de-arena-hondar-ahoak/01759139005529.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117123500 +0000" stop="20261117130500 +0000">
-		<title>Viaje Al Centro De La Tele</title>
-		<desc>Emparejados Parte 1. Una nueva incursión en el Archivo de RTVE a través de la mirada desenfadada del programa dirigido por Pedro Santos, comentado por Santiago Segura y con grafismos de Forges.</desc>
-		<icon src="https://img.rtve.es/imagenes/viaje-al-centro-de-la-tele/1626083132351.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117130500 +0000" stop="20261117140500 +0000">
-		<title>Seis Hermanas</title>
-		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
-		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117140500 +0000" stop="20261117150000 +0000">
-		<title>Acacias, 38</title>
-		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
-		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117150000 +0000" stop="20261117160000 +0000">
-		<title>Denominación De Origen</title>
-		<desc>'Denominación  de  Origen' es  el  retrato  más  íntimo,  humano  y  exclusivo  que  se  ha  realizado sobre  una  selección  española  de  fútbol.</desc>
-		<icon src="https://img.rtve.es/imagenes/denominacion-de-origen/01781096679635.jpg" />
+	<programme channel="Xarxa_Penedes_TV.TV" start="20261119233000 +0000" stop="20261120000000 +0000">
+		<title>Els esports</title>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/MINIATURA_Esports_1709755750044" />
 		<category>SPORTS</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117160000 +0000" stop="20261117170000 +0000">
-		<title>Salón De Té La Moderna</title>
-		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
-		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117170000 +0000" stop="20261117175000 +0000">
-		<title>La Promesa</title>
-		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117175000 +0000" stop="20261117185000 +0000">
-		<title>La Promesa</title>
-		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
-		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117185000 +0000" stop="20261117200500 +0000">
-		<title>Desaparecida</title>
-		<desc>Capitulo 10. Patricia Marcos, una joven que una noche desaparece sin dejar rastro. La producción se centra en el drama y la desesperada búsqueda de la familia por encontrarla.</desc>
-		<icon src="https://img.rtve.es/imagenes/desaparecida/1596788942370.jpg" />
-		<category>SERIES</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117200500 +0000" stop="20261117205500 +0000">
-		<title>En Primicia</title>
-		<desc>Soledad Gallego. Descubre las historias íntimas de los periodistas más destacados de España de la mano de Lara Siscar, en un viaje emocionante por sus vidas y carreras.</desc>
-		<icon src="https://img.rtve.es/imagenes/en-primicia/01759491365150.jpg" />
-		<category>CULTURE</category>
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117205500 +0000" stop="20261117214500 +0000">
-		<title>Victimas Del Misterio</title>
-		<desc>Victimas Del Misterio (El Asesino Del Rol). Programa que trata sobre algunos crímenes ocurridos en España durante los últimos 20 años relacionados con el mundo del misterio esotérico. Las entregas contarán con testimonios y con la visión de especialistas para completar unos relatos que girarán en torno al vudú, tarot, sectas o juegos de rol.</desc>
-		<icon src="https://img.rtve.es/imagenes/victimas-del-misterio/1578996942410.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117214500 +0000" stop="20261117221500 +0000">
-		<title>Viaje Al Centro De La Tele</title>
-		<desc>Los Momentazos De Iñigo Parte 2. Una nueva incursión en el Archivo de RTVE a través de la mirada desenfadada del programa dirigido por Pedro Santos, comentado por Santiago Segura y con grafismos de Forges.</desc>
-		<icon src="https://img.rtve.es/imagenes/viaje-al-centro-de-la-tele/1626083132351.jpg" />
-	</programme>
-	<programme channel="TVE_STAR.TV" start="20261117221500 +0000" stop="20261117232000 +0000">
-		<title>Seis Hermanas</title>
-		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
-		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
-		<category>SERIES</category>
 	</programme>
 	<programme channel="TVE_STAR.TV" start="20261117232000 +0000" stop="20261118002000 +0000">
 		<title>Salón De Té La Moderna</title>
@@ -3859,6 +2806,155 @@
 		<category>SPORTS</category>
 	</programme>
 	<programme channel="TVE_STAR.TV" start="20261118223500 +0000" stop="20261118233500 +0000">
+		<title>Seis Hermanas</title>
+		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
+		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261118233500 +0000" stop="20261119004000 +0000">
+		<title>Salón De Té La Moderna</title>
+		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
+		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119004000 +0000" stop="20261119013500 +0000">
+		<title>Acacias, 38</title>
+		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
+		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119013500 +0000" stop="20261119023500 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119023500 +0000" stop="20261119034500 +0000">
+		<title>Victor Ros</title>
+		<desc>Victor Ros 2ª Temporada</desc>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119034500 +0000" stop="20261119043500 +0000">
+		<title>Documental Muerte Franco: La Foto (Estreno)</title>
+		<desc>Documental Muerte De Franco: La Foto. Radiotelevisión Española recuerda en ‘50 años del gran cambio’ algunos de los episodios históricos que marcaron el final de la dictadura y el inicio de la democracia en nuestro país.</desc>
+		<icon src="https://img.rtve.es/imagenes/50-anos-del-gran-cambio/01762352682157.jpg" />
+		<category>DOCUMENTARY</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119043500 +0000" stop="20261119053500 +0000">
+		<title>Salón De Té La Moderna</title>
+		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
+		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119053500 +0000" stop="20261119063000 +0000">
+		<title>Seis Hermanas</title>
+		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
+		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119063000 +0000" stop="20261119070200 +0000">
+		<title>Flash Moda Monograficos</title>
+		<desc>Flash Moda Monograficos: Purificacion Garcia</desc>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119070200 +0000" stop="20261119073000 +0000">
+		<title>Flash Moda Monograficos</title>
+		<desc>Flash Moda.Monograficos. Mango</desc>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119073000 +0000" stop="20261119082000 +0000">
+		<title>Victimas Del Misterio</title>
+		<desc>Victimas Del Misterio (El Asesino Del Rol). Programa que trata sobre algunos crímenes ocurridos en España durante los últimos 20 años relacionados con el mundo del misterio esotérico. Las entregas contarán con testimonios y con la visión de especialistas para completar unos relatos que girarán en torno al vudú, tarot, sectas o juegos de rol.</desc>
+		<icon src="https://img.rtve.es/imagenes/victimas-del-misterio/1578996942410.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119082000 +0000" stop="20261119082400 +0000">
+		<title>Esto Es Espana  Candamo</title>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119082400 +0000" stop="20261119083000 +0000">
+		<title>Esto Es Espana Medina</title>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119083000 +0000" stop="20261119083500 +0000">
+		<title>Esto Es Espana Albufera</title>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119083500 +0000" stop="20261119093500 +0000">
+		<title>Acacias, 38</title>
+		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
+		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119093500 +0000" stop="20261119103500 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119103500 +0000" stop="20261119114500 +0000">
+		<title>La Ruta Morancos</title>
+		<desc>Los Morancos recorren varios pueblos de la España más rural en un Camino hacia Santiago con sello propio.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-ruta-morancos/01725978007899.jpg" />
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119114500 +0000" stop="20261119125000 +0000">
+		<title>Los Misterios De Laura</title>
+		<desc>(29)El Misterio De Los Ratones Atrapados. Laura Lebrel del Bosque es una inspectora de policía entrañable, inocente, inteligente y con métodos muy originales.</desc>
+		<icon src="https://img.rtve.es/imagenes/los-misterios-de-laura/1596530575163.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119125000 +0000" stop="20261119140000 +0000">
+		<title>Seis Hermanas</title>
+		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
+		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119140000 +0000" stop="20261119145500 +0000">
+		<title>Acacias, 38</title>
+		<desc>Serie coral, ambientada en 1899, con los sucesos de un edificio de la burguesía de finales del siglo XIX en un barrio lleno de situaciones variopintas.</desc>
+		<icon src="https://img.rtve.es/imagenes/acacias-38/1596531925334.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119145500 +0000" stop="20261119162500 +0000">
+		<title>Rescate Al Limite</title>
+		<desc>Rescate Al Límite. El 23 de mayo de 2013, el alpinista catalán Juanjo Garra sufrió una caída intentando alcanzar la cima del Dhaulagiri, a 8000 metros de altura.</desc>
+		<icon src="https://img.rtve.es/imagenes/rescate-al-limite/01767799810989.jpg" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119162500 +0000" stop="20261119173000 +0000">
+		<title>Salón De Té La Moderna</title>
+		<desc>Melodrama ambientado en el Madrid de 1930, cuenta las historias de un grupo de mujeres trabajadoras de uno de los salones de té más distinguidos de la capital.</desc>
+		<icon src="https://img.rtve.es/imagenes/salon-de-te-la-moderna/01726834028040.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119173000 +0000" stop="20261119182000 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119182000 +0000" stop="20261119191500 +0000">
+		<title>La Promesa</title>
+		<desc>Una mujer, una venganza y una gran historia de amor son los ingredientes de 'La Promesa'.</desc>
+		<icon src="https://img.rtve.es/imagenes/la-promesa/01768553868995.jpg" />
+		<category>SERIES</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119191500 +0000" stop="20261119203000 +0000">
+		<title>Victor Ros</title>
+		<desc>Victor Ros 2ª Temporada</desc>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119203000 +0000" stop="20261119213000 +0000">
+		<title>Denominación De Origen</title>
+		<desc>'Denominación  de  Origen' es  el  retrato  más  íntimo,  humano  y  exclusivo  que  se  ha  realizado sobre  una  selección  española  de  fútbol.</desc>
+		<icon src="https://img.rtve.es/imagenes/denominacion-de-origen/01781096679635.jpg" />
+		<category>SPORTS</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119213000 +0000" stop="20261119221500 +0000">
+		<title>Documental Muerte Franco: La Foto</title>
+		<desc>Documental Muerte De Franco: La Foto. Radiotelevisión Española recuerda en ‘50 años del gran cambio’ algunos de los episodios históricos que marcaron el final de la dictadura y el inicio de la democracia en nuestro país.</desc>
+		<icon src="https://img.rtve.es/imagenes/50-anos-del-gran-cambio/01762352682157.jpg" />
+		<category>DOCUMENTARY</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119221500 +0000" stop="20261119224000 +0000">
+		<title>Zoom Tendencias</title>
+		<desc>'Zoom Tendencias' nace con las ganas de dar a conocer los nuevos estilos de vida.</desc>
+		<icon src="https://img.rtve.es/imagenes/zoom-tendencias/01758793079787.jpg" />
+		<category>ENTERTAINMENT</category>
+	</programme>
+	<programme channel="TVE_STAR.TV" start="20261119224000 +0000" stop="20261119234000 +0000">
 		<title>Seis Hermanas</title>
 		<desc>Seis Hermanas (Serie Diaria). Las hermanas Silva son el alma de las principales fiestas de la alta sociedad de 1913, hasta que un terrible acontecimiento cambia sus vidas.</desc>
 		<icon src="https://img.rtve.es/imagenes/seis-hermanas/1596532095023.jpg" />
